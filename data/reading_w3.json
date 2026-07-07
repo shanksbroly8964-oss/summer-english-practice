@@ -1,0 +1,68 @@
+{
+  "week": 3,
+  "articles": [
+    {
+      "id": "r0720", "date": "2026-07-20", "title": "Typhoon Day",
+      "text": "Last night, the news said a typhoon was coming. This morning, the sky turned dark gray, and the wind grew strong. Dad moved the plants inside, and Mom filled some bottles with water. I helped tape the windows.\nBy noon, the rain was falling hard. The trees outside danced left and right in the wind. We could not go anywhere, so we stayed in the living room together. Mom made hot noodle soup. Dad told us stories about the big typhoons when he was young. My sister and I played cards and listened to the rain.\nThe power went out for one hour at night, so we lit candles. It was a little scary but also special. A typhoon day is not fun for everyone, but staying safe and warm with my family made me feel lucky.",
+      "questions": [
+        { "q": "How did the writer help before the typhoon?", "options": ["By taping the windows.", "By moving the plants inside.", "By filling bottles with water.", "By cooking noodle soup."], "answer": "By taping the windows." },
+        { "q": "What did Mom make at noon?", "options": ["Hot noodle soup.", "Fried rice.", "Sandwiches.", "Dumplings."], "answer": "Hot noodle soup." },
+        { "q": "What happened at night?", "options": ["The power went out for one hour.", "The typhoon left quickly.", "A tree fell on the house.", "They went outside to play."], "answer": "The power went out for one hour." }
+      ]
+    },
+    {
+      "id": "r0721", "date": "2026-07-21", "title": "Packing for the Big Trip",
+      "text": "Tomorrow, my family is going to Taitung for three days. Tonight, we are all packing. This is my first time packing my own backpack, and it is harder than I thought!\nAt first, I wanted to bring everything: five T-shirts, my games, three books, and my soccer ball. But my backpack is small. Mom laughed and said, \"We are going for three days, not three months!\"\nSo I made a list. Clothes for three days, a hat, my water bottle, sunscreen, and one book for the train ride. Dad checked our train tickets on his phone and printed a map of the town. My sister packed her camera. She wants to take one hundred photos of the sea.\nNow my backpack is light and ready by the door. I can't sleep. I keep thinking about the blue sea and the hot spring. Taitung, here we come!",
+      "questions": [
+        { "q": "How long is the family trip to Taitung?", "options": ["Three days.", "Three months.", "One week.", "One day."], "answer": "Three days." },
+        { "q": "What did the writer put on the packing list?", "options": ["Clothes, a hat, a water bottle, sunscreen, and one book.", "Five T-shirts, games, and a soccer ball.", "Only snacks and drinks.", "A camera and one hundred photos."], "answer": "Clothes, a hat, a water bottle, sunscreen, and one book." },
+        { "q": "Why does the sister pack her camera?", "options": ["She wants to take one hundred photos of the sea.", "She wants to sell the camera.", "She is a news reporter.", "The camera is a gift for Grandma."], "answer": "She wants to take one hundred photos of the sea." }
+      ]
+    },
+    {
+      "id": "r0722", "date": "2026-07-22", "title": "The Train to Taitung",
+      "text": "Our train left the city at nine in the morning. I love riding trains because you can see so much from the window.\nFirst, we passed tall buildings and busy roads. Then, little by little, the view changed. We saw green rice fields, small towns, and long rivers. After two hours, the best part came: the sea! The water was so blue that everyone on the train said \"Wow!\" at the same time.\nA grandma sat next to us. She was going home to Taitung. She shared some rice cakes with us and told us about the best places to eat there. \"Try the fried rice noodles at the old market,\" she said. \"My friend has sold them for forty years.\"\nWe arrived at one thirty. The air smelled like the sea. Our vacation finally started, and I already loved Taitung before we left the station.",
+      "questions": [
+        { "q": "What time did the train leave the city?", "options": ["At nine in the morning.", "At one thirty.", "At two in the afternoon.", "At six in the morning."], "answer": "At nine in the morning." },
+        { "q": "What made everyone on the train say \"Wow\"?", "options": ["The blue sea outside the window.", "The tall buildings.", "The free rice cakes.", "A movie on the train."], "answer": "The blue sea outside the window." },
+        { "q": "What did the grandma tell the family to try?", "options": ["The fried rice noodles at the old market.", "The hot spring near the station.", "The rice cakes at her home.", "The seafood at the harbor."], "answer": "The fried rice noodles at the old market." }
+      ]
+    },
+    {
+      "id": "r0723", "date": "2026-07-23", "title": "A Day at the Beach",
+      "text": "Today was our beach day in Taitung! The weather was perfect — sunny with a soft wind. We put on sunscreen, wore our hats, and walked to the beach after breakfast.\nThe sand was already warm under our feet. My sister and I ran into the water first. The waves pushed us and we laughed and shouted. Dad tried to surf on a small board, but he fell again and again. Even the lifeguard laughed!\nAfter lunch, we rested under a big umbrella. I collected shells with my sister. She found a white shell that looks like a little fan. We also built a sandcastle with a bridge and a wall around it. A big wave came and washed half of it away, but we didn't care.\nBefore dinner, we watched the sky turn orange and pink. I took a photo with my heart, not my phone. I will remember this day forever.",
+      "questions": [
+        { "q": "How was the weather on beach day?", "options": ["Sunny with a soft wind.", "Cloudy and cold.", "Rainy in the morning.", "Windy with big storms."], "answer": "Sunny with a soft wind." },
+        { "q": "What happened when Dad tried to surf?", "options": ["He fell again and again.", "He rode the biggest wave.", "He taught the kids to surf.", "He lost his sunglasses."], "answer": "He fell again and again." },
+        { "q": "What did the sister find?", "options": ["A white shell that looks like a little fan.", "A blue crab.", "A message in a bottle.", "A starfish."], "answer": "A white shell that looks like a little fan." }
+      ]
+    },
+    {
+      "id": "r0724", "date": "2026-07-24", "title": "Up the Mountain",
+      "text": "On our last day in Taitung, we drove up a mountain to see the sunrise. We got up at four in the morning! I was sleepy, but Dad said, \"Trust me, it will be worth it.\"\nThe mountain road had many turns. When we arrived at the top, the sky was still dark, and the air was cool. We drank hot milk tea and waited. Slowly, the sky turned from black to deep blue, then to gold. Finally, the sun jumped out of the sea of clouds. The view was so beautiful that nobody said a word.\nOn the way down, we stopped at a small waterfall and crossed an old bridge. The water was ice-cold and clear. We put our feet in and screamed — then laughed.\nDad was right. Getting up early was hard, but that golden morning was the best part of our whole trip.",
+      "questions": [
+        { "q": "What time did the family get up?", "options": ["At four in the morning.", "At six in the morning.", "At nine in the morning.", "At noon."], "answer": "At four in the morning." },
+        { "q": "What did they do while waiting for the sunrise?", "options": ["They drank hot milk tea.", "They played cards.", "They took a nap in the car.", "They climbed a tree."], "answer": "They drank hot milk tea." },
+        { "q": "Where did they stop on the way down?", "options": ["At a small waterfall and an old bridge.", "At a night market.", "At a hot spring hotel.", "At a temple on the top."], "answer": "At a small waterfall and an old bridge." }
+      ]
+    },
+    {
+      "id": "r0725", "date": "2026-07-25", "title": "The Old Temple Town",
+      "text": "Have you ever visited Tainan? My classmate Emma went there last month, and she can't stop talking about it.\nTainan is one of the oldest cities in Taiwan. Emma visited a famous temple that is over three hundred years old. The roof has beautiful dragons, and the doors have paintings of old heroes. Her grandma taught her how to pray and told her the stories behind the temple.\nBut Emma's favorite part was the food. The old streets near the temple are full of small food stands. She ate shrimp rolls, tofu pudding, and fruit ice. \"Everything was cheap and delicious,\" she said. \"My stomach was so happy!\"\nEmma took a photo in front of the temple with her grandma. She keeps it on her desk now. \"A city with old stories feels warm,\" she says. I want to visit Tainan this August, too.",
+      "questions": [
+        { "q": "How old is the famous temple Emma visited?", "options": ["Over three hundred years old.", "Over one hundred years old.", "Fifty years old.", "Two thousand years old."], "answer": "Over three hundred years old." },
+        { "q": "What was Emma's favorite part of the trip?", "options": ["The food.", "The temple roof.", "The hotel.", "The train ride."], "answer": "The food." },
+        { "q": "What does Emma keep on her desk?", "options": ["A photo with her grandma in front of the temple.", "A dragon toy from the temple.", "A bowl of tofu pudding.", "A map of Tainan."], "answer": "A photo with her grandma in front of the temple." }
+      ]
+    },
+    {
+      "id": "r0726", "date": "2026-07-26", "title": "Home Sweet Home",
+      "text": "Our Taitung trip ended yesterday. When the train arrived back in our city, it was raining. We were tired, and our backpacks were heavy with dirty clothes and gifts.\nBut when we opened the door of our home, something felt wonderful. \"Home sweet home!\" Mom said. My own bed, my own desk, even the old sofa — everything looked friendly, like they were saying, \"Welcome back!\"\nAt dinner, we looked at our photos and laughed again at Dad's surfing. My sister chose her best sea photo and set it as the wallpaper on Mom's phone. I put my little shell on my bookshelf.\nDad asked, \"So, where should we go next summer?\" Everyone started talking at the same time — the mountains! An island! A big city! We couldn't agree, but it didn't matter. A trip gives you stories, and home gives you rest. We are lucky to have both.",
+      "questions": [
+        { "q": "How was the weather when they came back?", "options": ["It was raining.", "It was sunny.", "It was snowing.", "There was a typhoon."], "answer": "It was raining." },
+        { "q": "What did the sister do with her best sea photo?", "options": ["She set it as the wallpaper on Mom's phone.", "She printed it for Grandma.", "She posted it online.", "She put it on the bookshelf."], "answer": "She set it as the wallpaper on Mom's phone." },
+        { "q": "What does the writer say a trip gives you?", "options": ["Stories.", "Money.", "Homework.", "New clothes."], "answer": "Stories." }
+      ]
+    }
+  ]
+}

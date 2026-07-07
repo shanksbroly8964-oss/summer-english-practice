@@ -1,0 +1,61 @@
+{
+  "week": 1,
+  "days": [
+    { "date": "2026-07-06", "words": [
+      { "id": "w1d1a", "en": "get up", "kk": "[ɡɛt ʌp]", "pos": "phr.", "zh": "起床", "ex": "I get up at seven in summer.", "ex_zh": "暑假我七點起床。" },
+      { "id": "w1d1b", "en": "breakfast", "kk": "[ˈbrɛkfəst]", "pos": "n.", "zh": "早餐", "ex": "I eat breakfast with my family at seven.", "ex_zh": "我七點和家人一起吃早餐。" },
+      { "id": "w1d1c", "en": "brush", "kk": "[brʌʃ]", "pos": "v.", "zh": "刷（牙）；刷子", "ex": "Remember to brush your teeth after meals.", "ex_zh": "記得飯後要刷牙。" },
+      { "id": "w1d1d", "en": "face", "kk": "[fes]", "pos": "n.", "zh": "臉", "ex": "I wash my face with cold water.", "ex_zh": "我用冷水洗臉。" },
+      { "id": "w1d1e", "en": "early", "kk": "[ˈɝlɪ]", "pos": "adv./adj.", "zh": "早的；提早", "ex": "My grandpa gets up very early.", "ex_zh": "我爺爺很早起床。" },
+      { "id": "w1d1f", "en": "late", "kk": "[let]", "pos": "adv./adj.", "zh": "晚的；遲到", "ex": "Don't stay up late every night.", "ex_zh": "不要每天熬夜到很晚。" }
+    ]},
+    { "date": "2026-07-07", "words": [
+      { "id": "w1d2a", "en": "kitchen", "kk": "[ˈkɪtʃɪn]", "pos": "n.", "zh": "廚房", "ex": "Mom is cooking noodles in the kitchen.", "ex_zh": "媽媽正在廚房煮麵。" },
+      { "id": "w1d2b", "en": "bedroom", "kk": "[ˈbɛdrum]", "pos": "n.", "zh": "臥室", "ex": "My bedroom is small but comfortable.", "ex_zh": "我的臥室小但舒適。" },
+      { "id": "w1d2c", "en": "living room", "kk": "[ˈlɪvɪŋ rum]", "pos": "n.", "zh": "客廳", "ex": "We watch TV in the living room.", "ex_zh": "我們在客廳看電視。" },
+      { "id": "w1d2d", "en": "bathroom", "kk": "[ˈbæθrum]", "pos": "n.", "zh": "浴室；廁所", "ex": "The bathroom is next to my bedroom.", "ex_zh": "浴室就在我的臥室隔壁。" },
+      { "id": "w1d2e", "en": "clean", "kk": "[klin]", "pos": "adj./v.", "zh": "乾淨的；打掃", "ex": "I clean my room every weekend.", "ex_zh": "我每個週末打掃房間。" },
+      { "id": "w1d2f", "en": "messy", "kk": "[ˈmɛsɪ]", "pos": "adj.", "zh": "凌亂的", "ex": "His desk is always messy.", "ex_zh": "他的書桌總是很亂。" }
+    ]},
+    { "date": "2026-07-08", "words": [
+      { "id": "w1d3a", "en": "help", "kk": "[hɛlp]", "pos": "v./n.", "zh": "幫助；幫忙", "ex": "I help my mom with the housework.", "ex_zh": "我幫媽媽做家事。" },
+      { "id": "w1d3b", "en": "wash", "kk": "[wɑʃ]", "pos": "v.", "zh": "洗", "ex": "Please wash your hands before dinner.", "ex_zh": "晚餐前請先洗手。" },
+      { "id": "w1d3c", "en": "dish", "kk": "[dɪʃ]", "pos": "n.", "zh": "盤子；菜餚", "ex": "My brother washes the dishes after dinner.", "ex_zh": "我弟弟晚餐後洗碗盤。" },
+      { "id": "w1d3d", "en": "cook", "kk": "[kʊk]", "pos": "v./n.", "zh": "煮飯；廚師", "ex": "My dad cooks delicious fried rice.", "ex_zh": "我爸爸會煮好吃的炒飯。" },
+      { "id": "w1d3e", "en": "sweep", "kk": "[swip]", "pos": "v.", "zh": "掃（地）", "ex": "I sweep the floor every morning.", "ex_zh": "我每天早上掃地。" },
+      { "id": "w1d3f", "en": "trash", "kk": "[træʃ]", "pos": "n.", "zh": "垃圾", "ex": "He takes out the trash at night.", "ex_zh": "他晚上倒垃圾。" }
+    ]},
+    { "date": "2026-07-09", "words": [
+      { "id": "w1d4a", "en": "family", "kk": "[ˈfæməlɪ]", "pos": "n.", "zh": "家庭；家人", "ex": "My family has five people.", "ex_zh": "我家有五個人。" },
+      { "id": "w1d4b", "en": "parents", "kk": "[ˈpɛrənts]", "pos": "n.", "zh": "父母", "ex": "My parents work in the city.", "ex_zh": "我的父母在城市裡工作。" },
+      { "id": "w1d4c", "en": "grandparents", "kk": "[ˈɡrændˌpɛrənts]", "pos": "n.", "zh": "祖父母", "ex": "I visit my grandparents every summer.", "ex_zh": "我每年夏天去看祖父母。" },
+      { "id": "w1d4d", "en": "cousin", "kk": "[ˈkʌzn̩]", "pos": "n.", "zh": "表（堂）兄弟姊妹", "ex": "My cousin and I play games together.", "ex_zh": "我和表哥一起玩遊戲。" },
+      { "id": "w1d4e", "en": "aunt", "kk": "[ænt]", "pos": "n.", "zh": "阿姨；姑姑", "ex": "My aunt makes the best dumplings.", "ex_zh": "我阿姨包的水餃最好吃。" },
+      { "id": "w1d4f", "en": "uncle", "kk": "[ˈʌŋkl̩]", "pos": "n.", "zh": "叔叔；舅舅", "ex": "My uncle drives a big truck.", "ex_zh": "我叔叔開大卡車。" }
+    ]},
+    { "date": "2026-07-10", "words": [
+      { "id": "w1d5a", "en": "busy", "kk": "[ˈbɪzɪ]", "pos": "adj.", "zh": "忙碌的", "ex": "My father is busy on Monday mornings.", "ex_zh": "我爸爸星期一早上很忙。" },
+      { "id": "w1d5b", "en": "free", "kk": "[fri]", "pos": "adj.", "zh": "有空的；免費的", "ex": "Are you free this afternoon?", "ex_zh": "你今天下午有空嗎？" },
+      { "id": "w1d5c", "en": "habit", "kk": "[ˈhæbɪt]", "pos": "n.", "zh": "習慣", "ex": "Reading before bed is a good habit.", "ex_zh": "睡前閱讀是個好習慣。" },
+      { "id": "w1d5d", "en": "weekday", "kk": "[ˈwikˌde]", "pos": "n.", "zh": "平日；工作日", "ex": "I go to bed at ten on weekdays.", "ex_zh": "平日我十點上床睡覺。" },
+      { "id": "w1d5e", "en": "weekend", "kk": "[ˈwikˌɛnd]", "pos": "n.", "zh": "週末", "ex": "We go hiking on the weekend.", "ex_zh": "我們週末去健行。" },
+      { "id": "w1d5f", "en": "plan", "kk": "[plæn]", "pos": "n./v.", "zh": "計畫", "ex": "What is your plan for the summer?", "ex_zh": "你的暑假計畫是什麼？" }
+    ]},
+    { "date": "2026-07-11", "words": [
+      { "id": "w1d6a", "en": "sleep", "kk": "[slip]", "pos": "v./n.", "zh": "睡覺", "ex": "I sleep eight hours every night.", "ex_zh": "我每天晚上睡八小時。" },
+      { "id": "w1d6b", "en": "dream", "kk": "[drim]", "pos": "n./v.", "zh": "夢；夢想", "ex": "I had a funny dream last night.", "ex_zh": "我昨晚做了一個有趣的夢。" },
+      { "id": "w1d6c", "en": "shower", "kk": "[ˈʃaʊɚ]", "pos": "n./v.", "zh": "淋浴", "ex": "I take a shower after I exercise.", "ex_zh": "我運動後會沖澡。" },
+      { "id": "w1d6d", "en": "rest", "kk": "[rɛst]", "pos": "n./v.", "zh": "休息", "ex": "Take a rest when you are tired.", "ex_zh": "累的時候要休息一下。" },
+      { "id": "w1d6e", "en": "wear", "kk": "[wɛr]", "pos": "v.", "zh": "穿；戴", "ex": "I wear a T-shirt and shorts in summer.", "ex_zh": "夏天我穿 T 恤和短褲。" },
+      { "id": "w1d6f", "en": "comfortable", "kk": "[ˈkʌmfɚtəbl̩]", "pos": "adj.", "zh": "舒服的", "ex": "This old chair is very comfortable.", "ex_zh": "這張舊椅子非常舒服。" }
+    ]},
+    { "date": "2026-07-12", "words": [
+      { "id": "w1d7a", "en": "life", "kk": "[laɪf]", "pos": "n.", "zh": "生活；生命", "ex": "Summer life is easy and fun.", "ex_zh": "夏天的生活輕鬆又有趣。" },
+      { "id": "w1d7b", "en": "daily", "kk": "[ˈdelɪ]", "pos": "adj.", "zh": "每天的；日常的", "ex": "Walking the dog is my daily job.", "ex_zh": "遛狗是我每天的工作。" },
+      { "id": "w1d7c", "en": "together", "kk": "[təˈɡɛðɚ]", "pos": "adv.", "zh": "一起", "ex": "We eat dinner together every night.", "ex_zh": "我們每天晚上一起吃晚餐。" },
+      { "id": "w1d7d", "en": "share", "kk": "[ʃɛr]", "pos": "v.", "zh": "分享", "ex": "I share my snacks with my sister.", "ex_zh": "我和妹妹分享我的零食。" },
+      { "id": "w1d7e", "en": "chat", "kk": "[tʃæt]", "pos": "v./n.", "zh": "聊天", "ex": "We chat about our day at dinner.", "ex_zh": "晚餐時我們聊今天發生的事。" },
+      { "id": "w1d7f", "en": "happy", "kk": "[ˈhæpɪ]", "pos": "adj.", "zh": "快樂的", "ex": "A simple life makes me happy.", "ex_zh": "簡單的生活讓我快樂。" }
+    ]}
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "week": 3,
+  "days": [
+    { "date": "2026-07-20", "words": [
+      { "id": "w3d1a", "en": "weather", "kk": "[ˈwɛðɚ]", "pos": "n.", "zh": "天氣", "ex": "How is the weather today?", "ex_zh": "今天天氣如何？" },
+      { "id": "w3d1b", "en": "sunny", "kk": "[ˈsʌnɪ]", "pos": "adj.", "zh": "晴朗的", "ex": "It was sunny, so we went to the beach.", "ex_zh": "天氣晴朗，所以我們去了海邊。" },
+      { "id": "w3d1c", "en": "cloudy", "kk": "[ˈklaʊdɪ]", "pos": "adj.", "zh": "多雲的", "ex": "The sky is cloudy this afternoon.", "ex_zh": "今天下午天空多雲。" },
+      { "id": "w3d1d", "en": "rainy", "kk": "[ˈrenɪ]", "pos": "adj.", "zh": "下雨的", "ex": "Take an umbrella on rainy days.", "ex_zh": "下雨天要帶雨傘。" },
+      { "id": "w3d1e", "en": "windy", "kk": "[ˈwɪndɪ]", "pos": "adj.", "zh": "風大的", "ex": "It is too windy to play badminton.", "ex_zh": "風太大了，沒辦法打羽球。" },
+      { "id": "w3d1f", "en": "typhoon", "kk": "[taɪˈfun]", "pos": "n.", "zh": "颱風", "ex": "A typhoon is coming this weekend.", "ex_zh": "這週末有颱風要來。" }
+    ]},
+    { "date": "2026-07-21", "words": [
+      { "id": "w3d2a", "en": "trip", "kk": "[trɪp]", "pos": "n.", "zh": "旅行", "ex": "We took a trip to Hualien last summer.", "ex_zh": "我們去年夏天去花蓮旅行。" },
+      { "id": "w3d2b", "en": "pack", "kk": "[pæk]", "pos": "v.", "zh": "打包；收拾行李", "ex": "Don't forget to pack your toothbrush.", "ex_zh": "別忘了打包你的牙刷。" },
+      { "id": "w3d2c", "en": "backpack", "kk": "[ˈbækˌpæk]", "pos": "n.", "zh": "背包", "ex": "My backpack is full of snacks.", "ex_zh": "我的背包裝滿了零食。" },
+      { "id": "w3d2d", "en": "map", "kk": "[mæp]", "pos": "n.", "zh": "地圖", "ex": "We looked at the map to find the hotel.", "ex_zh": "我們看地圖找旅館。" },
+      { "id": "w3d2e", "en": "ticket", "kk": "[ˈtɪkɪt]", "pos": "n.", "zh": "票", "ex": "I bought two train tickets online.", "ex_zh": "我在網路上買了兩張火車票。" },
+      { "id": "w3d2f", "en": "camera", "kk": "[ˈkæmərə]", "pos": "n.", "zh": "相機", "ex": "She brings her camera everywhere.", "ex_zh": "她到哪裡都帶著相機。" }
+    ]},
+    { "date": "2026-07-22", "words": [
+      { "id": "w3d3a", "en": "train", "kk": "[tren]", "pos": "n.", "zh": "火車", "ex": "The train to Taitung leaves at nine.", "ex_zh": "往台東的火車九點開。" },
+      { "id": "w3d3b", "en": "airplane", "kk": "[ˈɛrˌplen]", "pos": "n.", "zh": "飛機", "ex": "The airplane flew over the sea.", "ex_zh": "飛機飛越大海。" },
+      { "id": "w3d3c", "en": "boat", "kk": "[bot]", "pos": "n.", "zh": "船", "ex": "We took a boat to the small island.", "ex_zh": "我們搭船去小島。" },
+      { "id": "w3d3d", "en": "arrive", "kk": "[əˈraɪv]", "pos": "v.", "zh": "到達", "ex": "We arrived at the hotel at noon.", "ex_zh": "我們中午到達旅館。" },
+      { "id": "w3d3e", "en": "leave", "kk": "[liv]", "pos": "v.", "zh": "離開；出發", "ex": "The bus leaves in ten minutes.", "ex_zh": "公車十分鐘後出發。" },
+      { "id": "w3d3f", "en": "ride", "kk": "[raɪd]", "pos": "v./n.", "zh": "騎乘；搭乘", "ex": "We rode bikes along the river.", "ex_zh": "我們沿著河邊騎腳踏車。" }
+    ]},
+    { "date": "2026-07-23", "words": [
+      { "id": "w3d4a", "en": "beach", "kk": "[bitʃ]", "pos": "n.", "zh": "海灘", "ex": "We played in the water at the beach.", "ex_zh": "我們在海邊玩水。" },
+      { "id": "w3d4b", "en": "sea", "kk": "[si]", "pos": "n.", "zh": "海", "ex": "The sea is blue and beautiful today.", "ex_zh": "今天的海又藍又美。" },
+      { "id": "w3d4c", "en": "sand", "kk": "[sænd]", "pos": "n.", "zh": "沙子", "ex": "The sand is hot under my feet.", "ex_zh": "腳下的沙子好燙。" },
+      { "id": "w3d4d", "en": "wave", "kk": "[wev]", "pos": "n./v.", "zh": "海浪；揮手", "ex": "The waves are big this afternoon.", "ex_zh": "今天下午的浪很大。" },
+      { "id": "w3d4e", "en": "shell", "kk": "[ʃɛl]", "pos": "n.", "zh": "貝殼", "ex": "My sister collected pretty shells.", "ex_zh": "我妹妹撿了漂亮的貝殼。" },
+      { "id": "w3d4f", "en": "sunglasses", "kk": "[ˈsʌnˌɡlæsɪz]", "pos": "n.", "zh": "太陽眼鏡", "ex": "Dad wears sunglasses at the beach.", "ex_zh": "爸爸在海邊戴太陽眼鏡。" }
+    ]},
+    { "date": "2026-07-24", "words": [
+      { "id": "w3d5a", "en": "mountain", "kk": "[ˈmaʊntn̩]", "pos": "n.", "zh": "山", "ex": "Taiwan has many high mountains.", "ex_zh": "台灣有很多高山。" },
+      { "id": "w3d5b", "en": "climb", "kk": "[klaɪm]", "pos": "v.", "zh": "爬；攀登", "ex": "We climbed to the top before sunrise.", "ex_zh": "我們在日出前爬到山頂。" },
+      { "id": "w3d5c", "en": "view", "kk": "[vju]", "pos": "n.", "zh": "景色", "ex": "The view from the top is amazing.", "ex_zh": "山頂的景色令人驚嘆。" },
+      { "id": "w3d5d", "en": "waterfall", "kk": "[ˈwɔtɚˌfɔl]", "pos": "n.", "zh": "瀑布", "ex": "We found a small waterfall in the forest.", "ex_zh": "我們在森林裡發現一個小瀑布。" },
+      { "id": "w3d5e", "en": "bridge", "kk": "[brɪdʒ]", "pos": "n.", "zh": "橋", "ex": "The old bridge crosses the river.", "ex_zh": "那座舊橋跨越河流。" },
+      { "id": "w3d5f", "en": "cool", "kk": "[kul]", "pos": "adj.", "zh": "涼爽的；很酷的", "ex": "The air in the mountains is cool.", "ex_zh": "山裡的空氣很涼爽。" }
+    ]},
+    { "date": "2026-07-25", "words": [
+      { "id": "w3d6a", "en": "hotel", "kk": "[hoˈtɛl]", "pos": "n.", "zh": "旅館", "ex": "I stayed at a hotel near the beach.", "ex_zh": "我住在海邊附近的旅館。" },
+      { "id": "w3d6b", "en": "visit", "kk": "[ˈvɪzɪt]", "pos": "v./n.", "zh": "參觀；拜訪", "ex": "We visited an old temple in Tainan.", "ex_zh": "我們參觀了台南的一間古廟。" },
+      { "id": "w3d6c", "en": "place", "kk": "[ples]", "pos": "n.", "zh": "地方", "ex": "This is my favorite place in Taiwan.", "ex_zh": "這是我在台灣最喜歡的地方。" },
+      { "id": "w3d6d", "en": "famous", "kk": "[ˈfeməs]", "pos": "adj.", "zh": "有名的", "ex": "This town is famous for its old streets.", "ex_zh": "這個小鎮以老街聞名。" },
+      { "id": "w3d6e", "en": "temple", "kk": "[ˈtɛmpl̩]", "pos": "n.", "zh": "廟；寺廟", "ex": "The temple is over two hundred years old.", "ex_zh": "這座廟有兩百多年的歷史。" },
+      { "id": "w3d6f", "en": "photo", "kk": "[ˈfoto]", "pos": "n.", "zh": "照片", "ex": "We took many photos on the trip.", "ex_zh": "我們旅行時拍了很多照片。" }
+    ]},
+    { "date": "2026-07-26", "words": [
+      { "id": "w3d7a", "en": "vacation", "kk": "[veˈkeʃən]", "pos": "n.", "zh": "假期", "ex": "Summer vacation is two months long.", "ex_zh": "暑假有兩個月長。" },
+      { "id": "w3d7b", "en": "memory", "kk": "[ˈmɛmərɪ]", "pos": "n.", "zh": "回憶；記憶", "ex": "The trip left us many sweet memories.", "ex_zh": "這趟旅行留給我們許多甜美的回憶。" },
+      { "id": "w3d7c", "en": "gift", "kk": "[ɡɪft]", "pos": "n.", "zh": "禮物", "ex": "She bought some gifts for her family.", "ex_zh": "她買了一些禮物給家人。" },
+      { "id": "w3d7d", "en": "safe", "kk": "[sef]", "pos": "adj.", "zh": "安全的", "ex": "Wear your seat belt to stay safe.", "ex_zh": "繫上安全帶保持安全。" },
+      { "id": "w3d7e", "en": "tired", "kk": "[taɪrd]", "pos": "adj.", "zh": "疲累的", "ex": "We were tired but happy after the trip.", "ex_zh": "旅行後我們累但很開心。" },
+      { "id": "w3d7f", "en": "wonderful", "kk": "[ˈwʌndɚfəl]", "pos": "adj.", "zh": "美好的；很棒的", "ex": "What a wonderful day!", "ex_zh": "多麼美好的一天！" }
+    ]}
+  ]
+}

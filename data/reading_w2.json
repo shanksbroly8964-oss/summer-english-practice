@@ -1,0 +1,68 @@
+{
+  "week": 2,
+  "articles": [
+    {
+      "id": "r0713", "date": "2026-07-13", "title": "The Hungry Afternoon",
+      "text": "Yesterday afternoon, my cousin and I rode our bikes to the sports park. We played badminton for two hours under the hot sun. When we stopped, we were hungry and thirsty.\n\"I can eat a horse!\" my cousin said. We looked in our pockets. We only had fifty dollars together. What could we buy?\nNear the park, there was a small shop. We bought one big bottle of water and shared it first. Then we bought two tea eggs and a bag of crackers. We sat under a tree and ate our little snack slowly.\n\"This is the best snack in the world,\" my cousin said with a big smile. I laughed. When you are really hungry, even simple food tastes amazing. We rode home slowly and had a big dinner that night.",
+      "questions": [
+        { "q": "Why were the two kids hungry and thirsty?", "options": ["They played badminton for two hours under the hot sun.", "They forgot to eat breakfast.", "They walked to another city.", "They swam in the pool all day."], "answer": "They played badminton for two hours under the hot sun." },
+        { "q": "How much money did they have together?", "options": ["Fifty dollars.", "Fifteen dollars.", "Five hundred dollars.", "Five dollars."], "answer": "Fifty dollars." },
+        { "q": "What did they buy at the shop?", "options": ["Water, two tea eggs, and a bag of crackers.", "Two bottles of juice and bread.", "Fried chicken and bubble tea.", "Ice cream and candy."], "answer": "Water, two tea eggs, and a bag of crackers." }
+      ]
+    },
+    {
+      "id": "r0714", "date": "2026-07-14", "title": "Grandpa's Vegetable Garden",
+      "text": "My grandpa has a small vegetable garden behind his house. He grows tomatoes, cucumbers, and sweet corn. He also keeps five hens, so we always have fresh eggs.\nThis morning, I helped Grandpa in the garden. We picked ten red tomatoes and three big cucumbers. The tomatoes smelled like sunshine. Grandpa said, \"Vegetables from your own garden always taste better. Do you know why?\" I shook my head. He smiled and said, \"Because you water them and wait for them. The waiting makes them sweet.\"\nAt lunch, Grandma cooked rice with our fresh vegetables and eggs. It was a simple meal, but everything tasted wonderful. Grandpa is right. Food is not just about eating. It is also about time, care, and love.",
+      "questions": [
+        { "q": "What does Grandpa grow in his garden?", "options": ["Tomatoes, cucumbers, and sweet corn.", "Apples, bananas, and mangoes.", "Rice, beans, and potatoes.", "Watermelons and strawberries."], "answer": "Tomatoes, cucumbers, and sweet corn." },
+        { "q": "Why does the family always have fresh eggs?", "options": ["Grandpa keeps five hens.", "They buy eggs at the market every day.", "The neighbor gives them eggs.", "Grandma works at an egg farm."], "answer": "Grandpa keeps five hens." },
+        { "q": "Why do garden vegetables taste better, in Grandpa's words?", "options": ["Because you water them and wait for them.", "Because they are more expensive.", "Because they are bigger.", "Because they cook faster."], "answer": "Because you water them and wait for them." }
+      ]
+    },
+    {
+      "id": "r0715", "date": "2026-07-15", "title": "Dinner at a Restaurant",
+      "text": "Last night was Mom's birthday, so we went to a restaurant for dinner. It is a popular place, and we waited fifteen minutes for our seats.\nThe waiter gave us the menu and some warm tea. There were so many dishes! Dad let me order for everyone. I was a little nervous, but I did it. \"We would like one fish, one chicken soup, two vegetable dishes, and four bowls of rice, please,\" I said. The waiter smiled and said, \"Good choice!\"\nThe food came fast, and everything was delicious. Mom loved the fish the most. We sang a birthday song, and the restaurant gave Mom a small cake for free.\nWhen Dad paid the bill, he said, \"Good job tonight. Next time, you can order in English!\" Ha! Maybe I need more practice first.",
+      "questions": [
+        { "q": "Why did the family go to a restaurant?", "options": ["It was Mom's birthday.", "It was Dad's birthday.", "Nobody wanted to cook.", "They won a free meal."], "answer": "It was Mom's birthday." },
+        { "q": "Who ordered the food for everyone?", "options": ["The writer.", "Dad.", "Mom.", "The waiter."], "answer": "The writer." },
+        { "q": "What did the restaurant give Mom for free?", "options": ["A small cake.", "A cup of tea.", "A fish dish.", "A bowl of rice."], "answer": "A small cake." }
+      ]
+    },
+    {
+      "id": "r0716", "date": "2026-07-16", "title": "Sweet, Sour, and Spicy",
+      "text": "My family has a funny game at dinner. We call it \"One New Taste.\" Every Thursday, we try one food we have never eaten before.\nLast Thursday, Dad brought home some green sauce from India. It looked strange, but it smelled fresh, like lemon and mint. Mom tried it first. \"It's sour!\" she said. My sister tried it and shouted, \"No, it's spicy!\" Then I tried it with some bread. It was sour, spicy, and a little sweet — all at the same time!\nDad laughed at our faces. \"Food is like a small trip,\" he said. \"You can taste another country without leaving home.\"\nI agree with him. Some new foods are strange, and some are delicious. But trying them is always fun. Next Thursday, we will try cheese from France. I can't wait!",
+      "questions": [
+        { "q": "What is the family game called?", "options": ["One New Taste.", "The Dinner Game.", "Try or Cry.", "Food Trip."], "answer": "One New Taste." },
+        { "q": "How did the green sauce taste to the writer?", "options": ["Sour, spicy, and a little sweet at the same time.", "Only salty.", "Sweet like candy.", "It had no taste."], "answer": "Sour, spicy, and a little sweet at the same time." },
+        { "q": "What will the family try next Thursday?", "options": ["Cheese from France.", "Green sauce from India.", "Hot pot from Japan.", "Chocolate from America."], "answer": "Cheese from France." }
+      ]
+    },
+    {
+      "id": "r0717", "date": "2026-07-17", "title": "Night at the Market",
+      "text": "On Friday night, my aunt took my cousin and me to the night market. The sky was dark, but the market was bright and loud. The air smelled like fried chicken and sweet cakes.\nThe most popular stand sold fried squid. There was a long line of customers, maybe thirty people! \"Is it really that good?\" I asked. My cousin nodded. \"It's cheap and delicious. Trust me.\" We waited twenty minutes. When I finally took a bite, I understood. It was crispy outside and soft inside. Amazing!\nAfter that, we drank papaya milk and played a ring toss game. My cousin won a small toy duck. My aunt bought fresh fruit to take home.\nOn the bus home, my feet were tired, but my stomach was happy. I love night market nights.",
+      "questions": [
+        { "q": "What did the most popular stand sell?", "options": ["Fried squid.", "Papaya milk.", "Sweet cakes.", "Fried chicken."], "answer": "Fried squid." },
+        { "q": "How long did they wait in line for the popular food?", "options": ["Twenty minutes.", "Thirty minutes.", "Five minutes.", "One hour."], "answer": "Twenty minutes." },
+        { "q": "What did the cousin win at the game?", "options": ["A small toy duck.", "A bag of fruit.", "A cup of papaya milk.", "A big pillow."], "answer": "A small toy duck." }
+      ]
+    },
+    {
+      "id": "r0718", "date": "2026-07-18", "title": "Cooking with Mom",
+      "text": "It rained all day today, so we stayed home. In the afternoon, Mom asked me, \"Do you want to learn to make egg fried rice?\" Of course I said yes!\nFirst, Mom taught me how to cut green onions. \"Slowly,\" she said. \"Keep your fingers safe.\" Then I mixed two eggs in a bowl. Mom heated the pan, and I poured the eggs in. The kitchen was full of a wonderful smell.\nNext came the rice. Mom said the secret is to use cold rice from yesterday. We mixed the rice and eggs together and added a little salt. I tasted it. \"It needs more salt,\" I said, just like a real cook!\nAt dinner, everyone ate my fried rice. Dad said it was better than his. That made me so proud. Cooking is hard work, but sharing your food is the best feeling.",
+      "questions": [
+        { "q": "What did the writer learn to make?", "options": ["Egg fried rice.", "Chicken soup.", "Beef noodles.", "Pancakes."], "answer": "Egg fried rice." },
+        { "q": "What is the secret of good fried rice, in Mom's words?", "options": ["Using cold rice from yesterday.", "Using a lot of salt.", "Cooking it very fast.", "Adding more eggs."], "answer": "Using cold rice from yesterday." },
+        { "q": "Why did the writer feel proud at dinner?", "options": ["Dad said the fried rice was better than his.", "The writer won a cooking game.", "Mom gave the writer a gift.", "The rain finally stopped."], "answer": "Dad said the fried rice was better than his." }
+      ]
+    },
+    {
+      "id": "r0719", "date": "2026-07-19", "title": "Eat Smart, Feel Great",
+      "text": "Do you love fried chicken and bubble tea? Me too! But last month, I ate junk food almost every day. I felt tired, and I couldn't run fast in PE class. My body was telling me something: \"Please eat better!\"\nSo my sister and I made three simple rules. Rule one: eat fruit or vegetables at every meal. Rule two: drink water first when we are thirsty, not sweet drinks. Rule three: junk food is only for Saturdays.\nThe first week was hard. I really missed my chips! But slowly, I started to feel different. I had more energy in the morning. Running felt easier. Even my skin looked better.\nNow Saturday fried chicken tastes even more delicious, because it is special. Eating smart doesn't mean saying no to yummy food. It means making good choices most of the time.",
+      "questions": [
+        { "q": "Why did the writer want to change?", "options": ["The writer felt tired and couldn't run fast after eating junk food every day.", "The doctor said the writer was sick.", "Mom took away all the snacks.", "A friend laughed at the writer."], "answer": "The writer felt tired and couldn't run fast after eating junk food every day." },
+        { "q": "What is Rule Three?", "options": ["Junk food is only for Saturdays.", "No junk food forever.", "Drink water first when thirsty.", "Eat fruit at every meal."], "answer": "Junk food is only for Saturdays." },
+        { "q": "What does \"eating smart\" mean in this article?", "options": ["Making good choices most of the time.", "Never eating yummy food.", "Eating only vegetables.", "Skipping breakfast to stay thin."], "answer": "Making good choices most of the time." }
+      ]
+    }
+  ]
+}

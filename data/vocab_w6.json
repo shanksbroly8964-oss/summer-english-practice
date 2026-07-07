@@ -1,0 +1,61 @@
+{
+  "week": 6,
+  "days": [
+    { "date": "2026-08-10", "words": [
+      { "id": "w6d1a", "en": "computer", "kk": "[kəmˈpjutɚ]", "pos": "n.", "zh": "電腦", "ex": "Dad works on his computer at home.", "ex_zh": "爸爸在家用電腦工作。" },
+      { "id": "w6d1b", "en": "laptop", "kk": "[ˈlæpˌtɑp]", "pos": "n.", "zh": "筆記型電腦", "ex": "She takes her laptop to the coffee shop.", "ex_zh": "她帶著筆電去咖啡店。" },
+      { "id": "w6d1c", "en": "tablet", "kk": "[ˈtæblɪt]", "pos": "n.", "zh": "平板電腦", "ex": "Grandma reads news on her tablet.", "ex_zh": "奶奶用平板看新聞。" },
+      { "id": "w6d1d", "en": "smartphone", "kk": "[ˈsmɑrtˌfon]", "pos": "n.", "zh": "智慧型手機", "ex": "Almost everyone has a smartphone now.", "ex_zh": "現在幾乎人人都有智慧型手機。" },
+      { "id": "w6d1e", "en": "screen", "kk": "[skrin]", "pos": "n.", "zh": "螢幕", "ex": "Don't watch the screen for too long.", "ex_zh": "不要盯著螢幕太久。" },
+      { "id": "w6d1f", "en": "keyboard", "kk": "[ˈkiˌbord]", "pos": "n.", "zh": "鍵盤", "ex": "I type fast on the keyboard.", "ex_zh": "我用鍵盤打字很快。" }
+    ]},
+    { "date": "2026-08-11", "words": [
+      { "id": "w6d2a", "en": "internet", "kk": "[ˈɪntɚˌnɛt]", "pos": "n.", "zh": "網際網路", "ex": "I use the internet to learn English.", "ex_zh": "我用網路學英文。" },
+      { "id": "w6d2b", "en": "website", "kk": "[ˈwɛbˌsaɪt]", "pos": "n.", "zh": "網站", "ex": "This website teaches free math lessons.", "ex_zh": "這個網站教免費的數學課。" },
+      { "id": "w6d2c", "en": "online", "kk": "[ˈɑnˌlaɪn]", "pos": "adj./adv.", "zh": "線上的；在線上", "ex": "We played an online game together.", "ex_zh": "我們一起玩線上遊戲。" },
+      { "id": "w6d2d", "en": "download", "kk": "[ˈdaʊnˌlod]", "pos": "v.", "zh": "下載", "ex": "I downloaded a new app yesterday.", "ex_zh": "我昨天下載了一個新的應用程式。" },
+      { "id": "w6d2e", "en": "upload", "kk": "[ˈʌpˌlod]", "pos": "v.", "zh": "上傳", "ex": "She uploaded the photos to the cloud.", "ex_zh": "她把照片上傳到雲端。" },
+      { "id": "w6d2f", "en": "password", "kk": "[ˈpæsˌwɝd]", "pos": "n.", "zh": "密碼", "ex": "Never tell anyone your password.", "ex_zh": "絕對不要告訴任何人你的密碼。" }
+    ]},
+    { "date": "2026-08-12", "words": [
+      { "id": "w6d3a", "en": "message", "kk": "[ˈmɛsɪdʒ]", "pos": "n.", "zh": "訊息", "ex": "She sends me a message every night.", "ex_zh": "她每天晚上傳訊息給我。" },
+      { "id": "w6d3b", "en": "email", "kk": "[ˈiˌmel]", "pos": "n./v.", "zh": "電子郵件", "ex": "I got an email from my teacher.", "ex_zh": "我收到老師寄來的電子郵件。" },
+      { "id": "w6d3c", "en": "call", "kk": "[kɔl]", "pos": "v./n.", "zh": "打電話", "ex": "Call me when you arrive home.", "ex_zh": "到家時打電話給我。" },
+      { "id": "w6d3d", "en": "video call", "kk": "[ˈvɪdɪˌo kɔl]", "pos": "n.", "zh": "視訊通話", "ex": "We had a video call with Grandpa.", "ex_zh": "我們和爺爺視訊通話。" },
+      { "id": "w6d3e", "en": "send", "kk": "[sɛnd]", "pos": "v.", "zh": "傳送；寄", "ex": "Please send me the photo.", "ex_zh": "請把照片傳給我。" },
+      { "id": "w6d3f", "en": "reply", "kk": "[rɪˈplaɪ]", "pos": "v./n.", "zh": "回覆", "ex": "He didn't reply to my message.", "ex_zh": "他沒有回覆我的訊息。" }
+    ]},
+    { "date": "2026-08-13", "words": [
+      { "id": "w6d4a", "en": "movie", "kk": "[ˈmuvɪ]", "pos": "n.", "zh": "電影", "ex": "We watched a funny movie last night.", "ex_zh": "我們昨晚看了一部好笑的電影。" },
+      { "id": "w6d4b", "en": "cartoon", "kk": "[kɑrˈtun]", "pos": "n.", "zh": "卡通", "ex": "My little sister loves cartoons.", "ex_zh": "我妹妹超愛卡通。" },
+      { "id": "w6d4c", "en": "program", "kk": "[ˈproɡræm]", "pos": "n.", "zh": "節目", "ex": "This TV program is about wild animals.", "ex_zh": "這個電視節目是關於野生動物。" },
+      { "id": "w6d4d", "en": "channel", "kk": "[ˈtʃænl̩]", "pos": "n.", "zh": "頻道", "ex": "He has a cooking channel online.", "ex_zh": "他在網路上有一個烹飪頻道。" },
+      { "id": "w6d4e", "en": "video", "kk": "[ˈvɪdɪˌo]", "pos": "n.", "zh": "影片", "ex": "The cat video made everyone laugh.", "ex_zh": "那支貓咪影片讓大家都笑了。" },
+      { "id": "w6d4f", "en": "music", "kk": "[ˈmjuzɪk]", "pos": "n.", "zh": "音樂", "ex": "I listen to music when I draw.", "ex_zh": "我畫畫時聽音樂。" }
+    ]},
+    { "date": "2026-08-14", "words": [
+      { "id": "w6d5a", "en": "video game", "kk": "[ˈvɪdɪˌo ɡem]", "pos": "n.", "zh": "電玩遊戲", "ex": "We play video games on Saturday.", "ex_zh": "我們星期六玩電玩。" },
+      { "id": "w6d5b", "en": "level", "kk": "[ˈlɛvl̩]", "pos": "n.", "zh": "關卡；等級", "ex": "I finally passed level ten!", "ex_zh": "我終於過了第十關！" },
+      { "id": "w6d5c", "en": "character", "kk": "[ˈkærɪktɚ]", "pos": "n.", "zh": "角色", "ex": "My game character is a brave knight.", "ex_zh": "我的遊戲角色是一位勇敢的騎士。" },
+      { "id": "w6d5d", "en": "control", "kk": "[kənˈtrol]", "pos": "v./n.", "zh": "控制", "ex": "You control the car with two buttons.", "ex_zh": "你用兩個按鈕控制車子。" },
+      { "id": "w6d5e", "en": "exciting", "kk": "[ɪkˈsaɪtɪŋ]", "pos": "adj.", "zh": "刺激的；令人興奮的", "ex": "The racing game is really exciting.", "ex_zh": "這款賽車遊戲真的很刺激。" },
+      { "id": "w6d5f", "en": "boring", "kk": "[ˈborɪŋ]", "pos": "adj.", "zh": "無聊的", "ex": "This show is boring. Let's go outside.", "ex_zh": "這節目好無聊，我們出去吧。" }
+    ]},
+    { "date": "2026-08-15", "words": [
+      { "id": "w6d6a", "en": "careful", "kk": "[ˈkɛrfəl]", "pos": "adj.", "zh": "小心的", "ex": "Be careful with strangers online.", "ex_zh": "對網路上的陌生人要小心。" },
+      { "id": "w6d6b", "en": "stranger", "kk": "[ˈstrendʒɚ]", "pos": "n.", "zh": "陌生人", "ex": "Don't give your address to a stranger.", "ex_zh": "不要把地址給陌生人。" },
+      { "id": "w6d6c", "en": "private", "kk": "[ˈpraɪvɪt]", "pos": "adj.", "zh": "私人的；隱私的", "ex": "Your password is private information.", "ex_zh": "你的密碼是私人資訊。" },
+      { "id": "w6d6d", "en": "real", "kk": "[ˈriəl]", "pos": "adj.", "zh": "真實的", "ex": "Is this news real or fake?", "ex_zh": "這則新聞是真的還是假的？" },
+      { "id": "w6d6e", "en": "fake", "kk": "[fek]", "pos": "adj.", "zh": "假的", "ex": "That photo looks fake to me.", "ex_zh": "那張照片我看起來是假的。" },
+      { "id": "w6d6f", "en": "report", "kk": "[rɪˈport]", "pos": "v./n.", "zh": "檢舉；報告", "ex": "You can report bad messages in the app.", "ex_zh": "你可以在應用程式裡檢舉不當訊息。" }
+    ]},
+    { "date": "2026-08-16", "words": [
+      { "id": "w6d7a", "en": "turn off", "kk": "[tɝn ɔf]", "pos": "phr.", "zh": "關掉", "ex": "Turn off the TV before you sleep.", "ex_zh": "睡前把電視關掉。" },
+      { "id": "w6d7b", "en": "outdoor", "kk": "[ˈaʊtˌdor]", "pos": "adj.", "zh": "戶外的", "ex": "Outdoor activities are good for your eyes.", "ex_zh": "戶外活動對眼睛很好。" },
+      { "id": "w6d7c", "en": "balance", "kk": "[ˈbæləns]", "pos": "n./v.", "zh": "平衡", "ex": "Keep a balance between games and study.", "ex_zh": "在遊戲和讀書之間保持平衡。" },
+      { "id": "w6d7d", "en": "spend", "kk": "[spɛnd]", "pos": "v.", "zh": "花（時間、錢）", "ex": "I spend one hour online every day.", "ex_zh": "我每天花一小時上網。" },
+      { "id": "w6d7e", "en": "limit", "kk": "[ˈlɪmɪt]", "pos": "n./v.", "zh": "限制", "ex": "My screen time limit is two hours.", "ex_zh": "我的螢幕時間限制是兩小時。" },
+      { "id": "w6d7f", "en": "instead", "kk": "[ɪnˈstɛd]", "pos": "adv.", "zh": "改為；替代", "ex": "Let's play cards instead of watching TV.", "ex_zh": "我們改玩紙牌，不要看電視吧。" }
+    ]}
+  ]
+}

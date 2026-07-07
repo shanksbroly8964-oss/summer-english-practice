@@ -1,0 +1,61 @@
+{
+  "week": 7,
+  "days": [
+    { "date": "2026-08-17", "words": [
+      { "id": "w7d1a", "en": "nature", "kk": "[ˈnetʃɚ]", "pos": "n.", "zh": "大自然", "ex": "We should spend more time in nature.", "ex_zh": "我們應該多花時間親近大自然。" },
+      { "id": "w7d1b", "en": "forest", "kk": "[ˈfɔrɪst]", "pos": "n.", "zh": "森林", "ex": "Many birds live in the forest.", "ex_zh": "許多鳥住在森林裡。" },
+      { "id": "w7d1c", "en": "river", "kk": "[ˈrɪvɚ]", "pos": "n.", "zh": "河流", "ex": "The river is clear and cold.", "ex_zh": "這條河清澈又冰涼。" },
+      { "id": "w7d1d", "en": "lake", "kk": "[lek]", "pos": "n.", "zh": "湖", "ex": "We rowed a boat on the lake.", "ex_zh": "我們在湖上划船。" },
+      { "id": "w7d1e", "en": "grass", "kk": "[ɡræs]", "pos": "n.", "zh": "草", "ex": "The kids sat on the soft grass.", "ex_zh": "孩子們坐在柔軟的草地上。" },
+      { "id": "w7d1f", "en": "sky", "kk": "[skaɪ]", "pos": "n.", "zh": "天空", "ex": "The sky turned pink at sunset.", "ex_zh": "日落時天空變成粉紅色。" }
+    ]},
+    { "date": "2026-08-18", "words": [
+      { "id": "w7d2a", "en": "animal", "kk": "[ˈænəml̩]", "pos": "n.", "zh": "動物", "ex": "What is your favorite animal?", "ex_zh": "你最喜歡的動物是什麼？" },
+      { "id": "w7d2b", "en": "monkey", "kk": "[ˈmʌŋkɪ]", "pos": "n.", "zh": "猴子", "ex": "The monkeys took our bananas!", "ex_zh": "猴子拿走了我們的香蕉！" },
+      { "id": "w7d2c", "en": "bear", "kk": "[bɛr]", "pos": "n.", "zh": "熊", "ex": "The black bear is Taiwan's special animal.", "ex_zh": "黑熊是台灣特有的動物。" },
+      { "id": "w7d2d", "en": "snake", "kk": "[snek]", "pos": "n.", "zh": "蛇", "ex": "A green snake slept on the branch.", "ex_zh": "一條綠蛇睡在樹枝上。" },
+      { "id": "w7d2e", "en": "frog", "kk": "[frɑɡ]", "pos": "n.", "zh": "青蛙", "ex": "Frogs sing loudly after the rain.", "ex_zh": "雨後青蛙大聲鳴叫。" },
+      { "id": "w7d2f", "en": "owl", "kk": "[aʊl]", "pos": "n.", "zh": "貓頭鷹", "ex": "An owl hunts at night.", "ex_zh": "貓頭鷹在夜間獵食。" }
+    ]},
+    { "date": "2026-08-19", "words": [
+      { "id": "w7d3a", "en": "insect", "kk": "[ˈɪnsɛkt]", "pos": "n.", "zh": "昆蟲", "ex": "My little brother loves catching insects in summer.", "ex_zh": "我弟弟夏天最愛抓昆蟲。" },
+      { "id": "w7d3b", "en": "butterfly", "kk": "[ˈbʌtɚˌflaɪ]", "pos": "n.", "zh": "蝴蝶", "ex": "A blue butterfly landed on the flower.", "ex_zh": "一隻藍色蝴蝶停在花上。" },
+      { "id": "w7d3c", "en": "bee", "kk": "[bi]", "pos": "n.", "zh": "蜜蜂", "ex": "Bees are busy around the flowers.", "ex_zh": "蜜蜂在花叢間忙碌著。" },
+      { "id": "w7d3d", "en": "ant", "kk": "[ænt]", "pos": "n.", "zh": "螞蟻", "ex": "The ants carried food in a line.", "ex_zh": "螞蟻排成一列搬運食物。" },
+      { "id": "w7d3e", "en": "spider", "kk": "[ˈspaɪdɚ]", "pos": "n.", "zh": "蜘蛛", "ex": "A spider made a web by the window.", "ex_zh": "一隻蜘蛛在窗邊結網。" },
+      { "id": "w7d3f", "en": "firefly", "kk": "[ˈfaɪrˌflaɪ]", "pos": "n.", "zh": "螢火蟲", "ex": "We saw fireflies near the stream.", "ex_zh": "我們在小溪附近看到螢火蟲。" }
+    ]},
+    { "date": "2026-08-20", "words": [
+      { "id": "w7d4a", "en": "whale", "kk": "[hwel]", "pos": "n.", "zh": "鯨魚", "ex": "We saw a whale from the boat.", "ex_zh": "我們從船上看到一頭鯨魚。" },
+      { "id": "w7d4b", "en": "dolphin", "kk": "[ˈdɑlfɪn]", "pos": "n.", "zh": "海豚", "ex": "Dolphins jumped out of the water.", "ex_zh": "海豚躍出水面。" },
+      { "id": "w7d4c", "en": "turtle", "kk": "[ˈtɝtl̩]", "pos": "n.", "zh": "海龜；烏龜", "ex": "The sea turtle swam slowly by us.", "ex_zh": "海龜從我們身邊慢慢游過。" },
+      { "id": "w7d4d", "en": "shark", "kk": "[ʃɑrk]", "pos": "n.", "zh": "鯊魚", "ex": "Sharks have very sharp teeth.", "ex_zh": "鯊魚有非常銳利的牙齒。" },
+      { "id": "w7d4e", "en": "crab", "kk": "[kræb]", "pos": "n.", "zh": "螃蟹", "ex": "A small crab hid under the rock.", "ex_zh": "一隻小螃蟹躲在岩石下。" },
+      { "id": "w7d4f", "en": "coral", "kk": "[ˈkɔrəl]", "pos": "n.", "zh": "珊瑚", "ex": "The coral under the sea has many colors.", "ex_zh": "海底的珊瑚有很多顏色。" }
+    ]},
+    { "date": "2026-08-21", "words": [
+      { "id": "w7d5a", "en": "protect", "kk": "[prəˈtɛkt]", "pos": "v.", "zh": "保護", "ex": "We should protect the animals in the ocean.", "ex_zh": "我們應該保護海洋裡的動物。" },
+      { "id": "w7d5b", "en": "environment", "kk": "[ɪnˈvaɪrənmənt]", "pos": "n.", "zh": "環境", "ex": "A clean environment is good for everyone.", "ex_zh": "乾淨的環境對每個人都好。" },
+      { "id": "w7d5c", "en": "pollution", "kk": "[pəˈluʃən]", "pos": "n.", "zh": "污染", "ex": "Air pollution is a big problem in cities.", "ex_zh": "空氣污染是城市的大問題。" },
+      { "id": "w7d5d", "en": "recycle", "kk": "[riˈsaɪkl̩]", "pos": "v.", "zh": "回收", "ex": "We recycle paper, cans, and bottles.", "ex_zh": "我們回收紙張、罐子和瓶子。" },
+      { "id": "w7d5e", "en": "plastic", "kk": "[ˈplæstɪk]", "pos": "n./adj.", "zh": "塑膠", "ex": "Bring your own bag instead of plastic bags.", "ex_zh": "自備袋子，不要用塑膠袋。" },
+      { "id": "w7d5f", "en": "earth", "kk": "[ɝθ]", "pos": "n.", "zh": "地球", "ex": "The earth is our only home.", "ex_zh": "地球是我們唯一的家。" }
+    ]},
+    { "date": "2026-08-22", "words": [
+      { "id": "w7d6a", "en": "star", "kk": "[stɑr]", "pos": "n.", "zh": "星星", "ex": "The stars are bright in the mountains.", "ex_zh": "山上的星星很亮。" },
+      { "id": "w7d6b", "en": "moon", "kk": "[mun]", "pos": "n.", "zh": "月亮", "ex": "The moon is full and round tonight.", "ex_zh": "今晚的月亮又圓又滿。" },
+      { "id": "w7d6c", "en": "rainbow", "kk": "[ˈrenˌbo]", "pos": "n.", "zh": "彩虹", "ex": "A rainbow appeared after the rain.", "ex_zh": "雨後出現了一道彩虹。" },
+      { "id": "w7d6d", "en": "sunrise", "kk": "[ˈsʌnˌraɪz]", "pos": "n.", "zh": "日出", "ex": "We watched the sunrise from the top.", "ex_zh": "我們在山頂看日出。" },
+      { "id": "w7d6e", "en": "sunset", "kk": "[ˈsʌnˌsɛt]", "pos": "n.", "zh": "日落", "ex": "The sunset by the sea was amazing.", "ex_zh": "海邊的日落美極了。" },
+      { "id": "w7d6f", "en": "bright", "kk": "[braɪt]", "pos": "adj.", "zh": "明亮的", "ex": "The moonlight is bright tonight.", "ex_zh": "今晚的月光很明亮。" }
+    ]},
+    { "date": "2026-08-23", "words": [
+      { "id": "w7d7a", "en": "farm", "kk": "[fɑrm]", "pos": "n.", "zh": "農場", "ex": "My uncle has a small farm in the country.", "ex_zh": "我叔叔在鄉下有一座小農場。" },
+      { "id": "w7d7b", "en": "farmer", "kk": "[ˈfɑrmɚ]", "pos": "n.", "zh": "農夫", "ex": "The farmer gets up before the sun.", "ex_zh": "農夫在太陽升起前就起床。" },
+      { "id": "w7d7c", "en": "cow", "kk": "[kaʊ]", "pos": "n.", "zh": "乳牛；牛", "ex": "The cows are eating grass in the field.", "ex_zh": "牛群正在田裡吃草。" },
+      { "id": "w7d7d", "en": "sheep", "kk": "[ʃip]", "pos": "n.", "zh": "綿羊", "ex": "The sheep look like white clouds on the hill.", "ex_zh": "山坡上的綿羊像白雲一樣。" },
+      { "id": "w7d7e", "en": "field", "kk": "[fild]", "pos": "n.", "zh": "田野；田地", "ex": "The rice field turns gold in autumn.", "ex_zh": "稻田在秋天變成金黃色。" },
+      { "id": "w7d7f", "en": "feed", "kk": "[fid]", "pos": "v.", "zh": "餵食", "ex": "I helped feed the chickens this morning.", "ex_zh": "今天早上我幫忙餵雞。" }
+    ]}
+  ]
+}

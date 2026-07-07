@@ -1,0 +1,68 @@
+{
+  "week": 8,
+  "articles": [
+    {
+      "id": "r0824", "date": "2026-08-24", "title": "A Rainy Day at the Museum",
+      "text": "It rained hard this morning, so our plan for the water park died. \"Let's try the city museum,\" Mom said. \"It's free on Wednesdays.\" My sister and I were not excited. A museum? On our vacation?\nWe were so wrong. The museum had a special show about dinosaurs this month. A T-Rex skeleton stood in the main hall, taller than a bus! There was also a room where you could touch real rocks from a volcano, and a dark room that showed the night sky on the ceiling.\nMy favorite part was the \"old street\" area. It showed our city one hundred years ago — old shops, old buses, and photos of people from the past. Mom found a photo of the street where our home is now. It was a rice field back then!\nWe stayed until the museum closed. On the bus home, my sister asked, \"Can we come back next Wednesday?\" Rainy days are not so bad after all.",
+      "questions": [
+        { "q": "Why did they go to the museum?", "options": ["It rained hard, and the museum is free on Wednesdays.", "They love dinosaurs.", "Mom works there.", "The water park was crowded."], "answer": "It rained hard, and the museum is free on Wednesdays." },
+        { "q": "What stood in the main hall?", "options": ["A T-Rex skeleton.", "An old bus.", "A volcano.", "A rice field."], "answer": "A T-Rex skeleton." },
+        { "q": "What was the street of their home one hundred years ago?", "options": ["A rice field.", "An old shop.", "A museum.", "A bus station."], "answer": "A rice field." }
+      ]
+    },
+    {
+      "id": "r0825", "date": "2026-08-25", "title": "My First Solo Ride",
+      "text": "Yesterday, I did something for the first time: I took the subway across the city alone, to my grandma's place.\nMom helped me make a plan first. Take the red line for six stops, change to the blue line at the main station, then ride three more stops. She sent Grandma a message: \"He is leaving now. Green T-shirt, blue backpack.\"\nThe main station was crowded and noisy. People walked fast, like rivers going in every direction. For one minute, I couldn't find the blue line, and my heart beat fast. Then I remembered Mom's words: \"Don't panic. Look for the signs above.\" I found the blue arrow, followed it, and got on the right train.\nWhen I walked out of the station, Grandma was waiting with a smile and a cold drink. She called Mom: \"Our little man arrived — all by himself!\"\nOn the train, I was a little scared. Now I feel one year older. The city is big, but I am bigger than yesterday.",
+      "questions": [
+        { "q": "Where did the writer go alone?", "options": ["To Grandma's place.", "To school.", "To the museum.", "To Mom's office."], "answer": "To Grandma's place." },
+        { "q": "What happened at the main station?", "options": ["The writer couldn't find the blue line for a minute.", "The writer lost the backpack.", "The train left without the writer.", "Grandma was waiting there."], "answer": "The writer couldn't find the blue line for a minute." },
+        { "q": "What helped the writer find the way?", "options": ["Looking for the signs above.", "Asking a police officer.", "Calling Mom.", "Following other kids."], "answer": "Looking for the signs above." }
+      ]
+    },
+    {
+      "id": "r0826", "date": "2026-08-26", "title": "Shopping for the New Semester",
+      "text": "School starts next week, so Mom took us shopping today. But this time, there was a new rule: my sister and I each got five hundred dollars, and we had to plan our own shopping.\nI made a list first: a notebook (I checked the price last week — fifty dollars), two pens, white socks, and a new water bottle. My old bottle smells like old tea. Yuck.\nAt the store, I saw a cool pencil case with a basketball design. Three hundred dollars! If I bought it, I couldn't buy the water bottle. I stood there for five minutes. Want or need? Finally, I put it back. My old pencil case still works fine.\nAt the counter, I paid and got twenty dollars back. My sister spent every dollar — but she forgot the socks!\nMom smiled and said, \"Now you know why I always make a list.\" Shopping with your own money teaches you fast.",
+      "questions": [
+        { "q": "How much money did each kid get?", "options": ["Five hundred dollars.", "Fifty dollars.", "Three hundred dollars.", "Twenty dollars."], "answer": "Five hundred dollars." },
+        { "q": "Why didn't the writer buy the pencil case?", "options": ["Buying it meant no money for the water bottle, and the old one still works.", "It was ugly.", "Mom said no.", "It was sold out."], "answer": "Buying it meant no money for the water bottle, and the old one still works." },
+        { "q": "What did the sister forget to buy?", "options": ["The socks.", "The pens.", "The notebook.", "The water bottle."], "answer": "The socks." }
+      ]
+    },
+    {
+      "id": "r0827", "date": "2026-08-27", "title": "The Store That Never Sleeps",
+      "text": "Last night, my dog Lucky got sick at eleven o'clock. The animal hospital told us what to buy, and there was only one place open: the convenience store on the corner.\nWalking there with Dad at midnight, I saw a different city. The streets were quiet and dark, but the store shone like a little sun. Inside, a worker was making coffee for a taxi driver. A nurse in uniform was buying dinner — her workday just ended at midnight!\nWe got what we needed, and Dad also bought hot soup. At the counter, we paid, sent a package, and Dad even printed a paper for work — all in one small store, in three minutes.\nOn the way home, Dad said, \"When I was young, everything closed at nine. Life now is so convenient. But remember, convenient means many people are working while we sleep.\"\nLucky is fine today. And I have a new habit: I always say thank you to the night workers of our city.",
+      "questions": [
+        { "q": "Why did they go out at midnight?", "options": ["Their dog got sick and they needed to buy something.", "They wanted hot soup.", "Dad needed coffee.", "They couldn't sleep."], "answer": "Their dog got sick and they needed to buy something." },
+        { "q": "Who was buying dinner at midnight?", "options": ["A nurse whose workday just ended.", "A taxi driver.", "A police officer.", "A student."], "answer": "A nurse whose workday just ended." },
+        { "q": "What does Dad say about convenience?", "options": ["It means many people are working while we sleep.", "It makes people lazy.", "It was better in the past.", "It costs too much money."], "answer": "It means many people are working while we sleep." }
+      ]
+    },
+    {
+      "id": "r0828", "date": "2026-08-28", "title": "What Do You Want to Be?",
+      "text": "Our summer homework has a special task: interview three adults about their jobs. This week, I finished all three interviews.\nFirst, I asked my aunt, the computer engineer. \"I build apps that help people,\" she said. \"The best part? When a problem finally works out at 2 a.m., I feel like a hero.\" She laughed, \"The worst part is also 2 a.m.\"\nNext was Mr. Lin, the chef at the restaurant near us. He showed me his hands — full of small burn marks. \"Every mark is a lesson,\" he said. \"I feed people. Tired hands, happy hearts.\"\nLast, I interviewed a police officer at the station by our school. She said the job is sometimes dangerous, but she loves helping people feel safe.\nThree people, three different jobs, one same thing: they all light up when they talk about helping others. Maybe that's the secret. I still don't know what I want to be. But now I know what kind of person I want to be.",
+      "questions": [
+        { "q": "What was the summer homework task?", "options": ["Interview three adults about their jobs.", "Write about a dream job.", "Work at a restaurant for a day.", "Visit a police station."], "answer": "Interview three adults about their jobs." },
+        { "q": "What did the chef say about his burn marks?", "options": ["\"Every mark is a lesson.\"", "\"They don't hurt anymore.\"", "\"They are from the war.\"", "\"I hate my job.\""], "answer": "\"Every mark is a lesson.\"" },
+        { "q": "What was the same in all three interviews?", "options": ["They all light up when talking about helping others.", "They all work at night.", "They all make a lot of money.", "They all want new jobs."], "answer": "They all light up when talking about helping others." }
+      ]
+    },
+    {
+      "id": "r0829", "date": "2026-08-29", "title": "A Letter to My Future Self",
+      "text": "Today, our teacher gave us a special pre-semester task online: write a letter to yourself, and open it on the last day of ninth grade — two years from now.\nHere is part of my letter:\n\"Dear Future Me, how are you? Right now, I am sitting at my desk on the last weekend of summer vacation. This summer, I read every day, learned to cook fried rice, swam 25 meters, and cleaned a beach. I feel taller inside.\nDo you still play basketball with Dad? Is Lucky still stealing socks? Did you keep your promise about the plastic straws?\nMy goals for you: pass 25 meters — no, 100 meters — in swimming. Read fifty more books. Be brave and sing on the stage once. And please, be nicer to our little sister. She is annoying but she is also our best fan.\nI believe in you. Everything is possible.\nFrom, Summer Me, 2026.\"\nI sealed the letter in an envelope. See you in two years, future me!",
+      "questions": [
+        { "q": "When will the writer open the letter?", "options": ["On the last day of ninth grade, two years from now.", "Next summer.", "On New Year's Day.", "Tomorrow."], "answer": "On the last day of ninth grade, two years from now." },
+        { "q": "Which is one thing the writer did this summer?", "options": ["Learned to cook fried rice.", "Sang on the stage.", "Swam 100 meters.", "Read fifty books."], "answer": "Learned to cook fried rice." },
+        { "q": "What does the writer say about the little sister?", "options": ["She is annoying but she is also our best fan.", "She is taller than me now.", "She writes better letters.", "She doesn't like basketball."], "answer": "She is annoying but she is also our best fan." }
+      ]
+    },
+    {
+      "id": "r0830", "date": "2026-08-30", "title": "Ready for Tomorrow",
+      "text": "Tomorrow is the first day of the new semester. Tonight, my room looks like a little train station — everything is moving!\nMy uniform is washed and hanging on the door. My schoolbag is packed: new notebooks, pens, my water bottle, and my library card. I checked my class schedule three times. Math on Monday morning... okay, not a perfect start, but fine.\nAt dinner, we talked about our summer. Mom asked, \"What was the best part?\" My sister said the beach. Dad said the family race. I couldn't choose one. The morning jogs? The fireflies? Cooking with Mom? The whole summer was like a book full of good stories.\nAm I nervous about tomorrow? A little. New classroom, new teachers, maybe new classmates. But I am more excited than nervous. I did so many new things this summer — one more new thing is nothing!\nGood night, summer. See you next year. Tomorrow, here I come.",
+      "questions": [
+        { "q": "What is in the writer's schoolbag?", "options": ["New notebooks, pens, a water bottle, and a library card.", "Comic books and games.", "Beach clothes and sunglasses.", "Only the class schedule."], "answer": "New notebooks, pens, a water bottle, and a library card." },
+        { "q": "What class is on Monday morning?", "options": ["Math.", "English.", "Science.", "PE."], "answer": "Math." },
+        { "q": "How does the writer feel about tomorrow?", "options": ["More excited than nervous.", "Very scared.", "Bored.", "Sad about school."], "answer": "More excited than nervous." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "start": "2026-07-06",
+  "end": "2026-08-30",
+  "weeks": [
+    { "week": 1, "start": "2026-07-06", "theme": "日常生活 Daily Life", "grammar": ["g1", "g2"] },
+    { "week": 2, "start": "2026-07-13", "theme": "食物與餐廳 Food", "grammar": ["g3", "g4"] },
+    { "week": 3, "start": "2026-07-20", "theme": "旅遊與天氣 Travel & Weather", "grammar": ["g5", "g6"] },
+    { "week": 4, "start": "2026-07-27", "theme": "運動與健康 Sports & Health", "grammar": ["g7", "g8"] },
+    { "week": 5, "start": "2026-08-03", "theme": "學校與朋友 School & Friends", "grammar": ["g9", "g10"] },
+    { "week": 6, "start": "2026-08-10", "theme": "科技與娛樂 Technology & Fun", "grammar": ["g11", "g12"] },
+    { "week": 7, "start": "2026-08-17", "theme": "自然與動物 Nature & Animals", "grammar": ["g13", "g14"] },
+    { "week": 8, "start": "2026-08-24", "theme": "城市與未來 City & Future", "grammar": ["g15", "g16"] }
+  ]
+}

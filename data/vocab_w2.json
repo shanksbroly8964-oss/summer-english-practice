@@ -1,0 +1,61 @@
+{
+  "week": 2,
+  "days": [
+    { "date": "2026-07-13", "words": [
+      { "id": "w2d1a", "en": "lunch", "kk": "[lʌntʃ]", "pos": "n.", "zh": "午餐", "ex": "We have lunch at noon.", "ex_zh": "我們中午吃午餐。" },
+      { "id": "w2d1b", "en": "dinner", "kk": "[ˈdɪnɚ]", "pos": "n.", "zh": "晚餐", "ex": "Dinner is ready. Come to the table!", "ex_zh": "晚餐好了，快來餐桌！" },
+      { "id": "w2d1c", "en": "snack", "kk": "[snæk]", "pos": "n.", "zh": "點心；零食", "ex": "I eat a small snack after swimming.", "ex_zh": "游泳後我吃一點小點心。" },
+      { "id": "w2d1d", "en": "drink", "kk": "[drɪŋk]", "pos": "v./n.", "zh": "喝；飲料", "ex": "Drink more water on hot days.", "ex_zh": "天氣熱要多喝水。" },
+      { "id": "w2d1e", "en": "hungry", "kk": "[ˈhʌŋɡrɪ]", "pos": "adj.", "zh": "飢餓的", "ex": "I am so hungry after the game.", "ex_zh": "比賽後我好餓。" },
+      { "id": "w2d1f", "en": "thirsty", "kk": "[ˈθɝstɪ]", "pos": "adj.", "zh": "口渴的", "ex": "The runner was thirsty and tired.", "ex_zh": "那位跑者又渴又累。" }
+    ]},
+    { "date": "2026-07-14", "words": [
+      { "id": "w2d2a", "en": "vegetable", "kk": "[ˈvɛdʒətəbl̩]", "pos": "n.", "zh": "蔬菜", "ex": "Eat your vegetables. They are good for you.", "ex_zh": "把蔬菜吃掉，它們對你有好處。" },
+      { "id": "w2d2b", "en": "fruit", "kk": "[frut]", "pos": "n.", "zh": "水果", "ex": "Mango is my favorite summer fruit.", "ex_zh": "芒果是我最愛的夏季水果。" },
+      { "id": "w2d2c", "en": "meat", "kk": "[mit]", "pos": "n.", "zh": "肉", "ex": "My sister doesn't eat much meat.", "ex_zh": "我姊姊不太吃肉。" },
+      { "id": "w2d2d", "en": "egg", "kk": "[ɛɡ]", "pos": "n.", "zh": "蛋", "ex": "There are six eggs in the fridge.", "ex_zh": "冰箱裡有六顆蛋。" },
+      { "id": "w2d2e", "en": "rice", "kk": "[raɪs]", "pos": "n.", "zh": "米飯", "ex": "We eat rice almost every day.", "ex_zh": "我們幾乎每天吃米飯。" },
+      { "id": "w2d2f", "en": "noodles", "kk": "[ˈnudl̩z]", "pos": "n.", "zh": "麵條", "ex": "The beef noodles here are famous.", "ex_zh": "這裡的牛肉麵很有名。" }
+    ]},
+    { "date": "2026-07-15", "words": [
+      { "id": "w2d3a", "en": "restaurant", "kk": "[ˈrɛstərənt]", "pos": "n.", "zh": "餐廳", "ex": "There is a famous restaurant near my school.", "ex_zh": "我學校附近有一間有名的餐廳。" },
+      { "id": "w2d3b", "en": "order", "kk": "[ˈɔrdɚ]", "pos": "v./n.", "zh": "點餐；訂購", "ex": "I order a bowl of rice and some soup.", "ex_zh": "我點了一碗飯和一些湯。" },
+      { "id": "w2d3c", "en": "menu", "kk": "[ˈmɛnju]", "pos": "n.", "zh": "菜單", "ex": "May I see the menu, please?", "ex_zh": "請給我看一下菜單好嗎？" },
+      { "id": "w2d3d", "en": "waiter", "kk": "[ˈwetɚ]", "pos": "n.", "zh": "服務生", "ex": "The waiter brought us some water first.", "ex_zh": "服務生先幫我們送上水。" },
+      { "id": "w2d3e", "en": "seat", "kk": "[sit]", "pos": "n.", "zh": "座位", "ex": "Are there any seats by the window?", "ex_zh": "有靠窗的座位嗎？" },
+      { "id": "w2d3f", "en": "bill", "kk": "[bɪl]", "pos": "n.", "zh": "帳單", "ex": "Dad paid the bill after dinner.", "ex_zh": "晚餐後爸爸付了帳單。" }
+    ]},
+    { "date": "2026-07-16", "words": [
+      { "id": "w2d4a", "en": "delicious", "kk": "[dɪˈlɪʃəs]", "pos": "adj.", "zh": "美味的", "ex": "The beef noodles at the night market are delicious.", "ex_zh": "夜市的牛肉麵很美味。" },
+      { "id": "w2d4b", "en": "sweet", "kk": "[swit]", "pos": "adj.", "zh": "甜的", "ex": "This mango is soft and sweet.", "ex_zh": "這顆芒果又軟又甜。" },
+      { "id": "w2d4c", "en": "sour", "kk": "[ˈsaʊr]", "pos": "adj.", "zh": "酸的", "ex": "The lemon juice is too sour for me.", "ex_zh": "這檸檬汁對我來說太酸了。" },
+      { "id": "w2d4d", "en": "spicy", "kk": "[ˈspaɪsɪ]", "pos": "adj.", "zh": "辣的", "ex": "My uncle loves spicy hot pot.", "ex_zh": "我舅舅超愛麻辣鍋。" },
+      { "id": "w2d4e", "en": "salty", "kk": "[ˈsɔltɪ]", "pos": "adj.", "zh": "鹹的", "ex": "The soup is a little salty today.", "ex_zh": "今天的湯有點鹹。" },
+      { "id": "w2d4f", "en": "taste", "kk": "[test]", "pos": "v./n.", "zh": "嚐起來；味道", "ex": "This cake tastes like fresh milk.", "ex_zh": "這蛋糕嚐起來像鮮奶。" }
+    ]},
+    { "date": "2026-07-17", "words": [
+      { "id": "w2d5a", "en": "market", "kk": "[ˈmɑrkɪt]", "pos": "n.", "zh": "市場", "ex": "The night market opens at six.", "ex_zh": "夜市六點開始營業。" },
+      { "id": "w2d5b", "en": "popular", "kk": "[ˈpɑpjəlɚ]", "pos": "adj.", "zh": "受歡迎的", "ex": "This food stand is popular with students.", "ex_zh": "這個小吃攤很受學生歡迎。" },
+      { "id": "w2d5c", "en": "cheap", "kk": "[tʃip]", "pos": "adj.", "zh": "便宜的", "ex": "The drinks here are cheap and good.", "ex_zh": "這裡的飲料便宜又好喝。" },
+      { "id": "w2d5d", "en": "expensive", "kk": "[ɪkˈspɛnsɪv]", "pos": "adj.", "zh": "昂貴的", "ex": "That steak house is too expensive.", "ex_zh": "那間牛排館太貴了。" },
+      { "id": "w2d5e", "en": "sell", "kk": "[sɛl]", "pos": "v.", "zh": "賣", "ex": "They sell fried chicken and bubble tea.", "ex_zh": "他們賣炸雞和珍珠奶茶。" },
+      { "id": "w2d5f", "en": "customer", "kk": "[ˈkʌstəmɚ]", "pos": "n.", "zh": "顧客", "ex": "There are many customers at the stand.", "ex_zh": "小吃攤前有很多顧客。" }
+    ]},
+    { "date": "2026-07-18", "words": [
+      { "id": "w2d6a", "en": "bowl", "kk": "[bol]", "pos": "n.", "zh": "碗", "ex": "I ate two bowls of rice tonight.", "ex_zh": "我今晚吃了兩碗飯。" },
+      { "id": "w2d6b", "en": "plate", "kk": "[plet]", "pos": "n.", "zh": "盤子", "ex": "Put the fish on a big plate.", "ex_zh": "把魚放在大盤子上。" },
+      { "id": "w2d6c", "en": "chopsticks", "kk": "[ˈtʃɑpˌstɪks]", "pos": "n.", "zh": "筷子", "ex": "Can you use chopsticks?", "ex_zh": "你會用筷子嗎？" },
+      { "id": "w2d6d", "en": "soup", "kk": "[sup]", "pos": "n.", "zh": "湯", "ex": "Grandma's chicken soup is the best.", "ex_zh": "奶奶的雞湯最棒了。" },
+      { "id": "w2d6e", "en": "cut", "kk": "[kʌt]", "pos": "v.", "zh": "切", "ex": "Mom cut the watermelon into pieces.", "ex_zh": "媽媽把西瓜切成小塊。" },
+      { "id": "w2d6f", "en": "mix", "kk": "[mɪks]", "pos": "v.", "zh": "混合；攪拌", "ex": "Mix the eggs with some milk.", "ex_zh": "把蛋和一些牛奶攪拌在一起。" }
+    ]},
+    { "date": "2026-07-19", "words": [
+      { "id": "w2d7a", "en": "fresh", "kk": "[frɛʃ]", "pos": "adj.", "zh": "新鮮的", "ex": "The fish at the market is very fresh.", "ex_zh": "市場的魚非常新鮮。" },
+      { "id": "w2d7b", "en": "junk food", "kk": "[dʒʌŋk fud]", "pos": "n.", "zh": "垃圾食物", "ex": "Don't eat junk food every day.", "ex_zh": "不要每天吃垃圾食物。" },
+      { "id": "w2d7c", "en": "meal", "kk": "[mil]", "pos": "n.", "zh": "一餐", "ex": "Breakfast is an important meal.", "ex_zh": "早餐是重要的一餐。" },
+      { "id": "w2d7d", "en": "enough", "kk": "[əˈnʌf]", "pos": "adj./adv.", "zh": "足夠的", "ex": "Did you drink enough water today?", "ex_zh": "你今天喝的水夠嗎？" },
+      { "id": "w2d7e", "en": "choose", "kk": "[tʃuz]", "pos": "v.", "zh": "選擇", "ex": "I choose fruit instead of candy.", "ex_zh": "我選水果而不是糖果。" },
+      { "id": "w2d7f", "en": "favorite", "kk": "[ˈfevərɪt]", "pos": "adj./n.", "zh": "最喜愛的", "ex": "Bubble tea is my favorite drink.", "ex_zh": "珍珠奶茶是我最愛的飲料。" }
+    ]}
+  ]
+}

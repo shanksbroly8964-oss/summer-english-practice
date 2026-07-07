@@ -1,0 +1,61 @@
+{
+  "week": 5,
+  "days": [
+    { "date": "2026-08-03", "words": [
+      { "id": "w5d1a", "en": "classroom", "kk": "[ˈklæsˌrum]", "pos": "n.", "zh": "教室", "ex": "Our classroom is on the third floor.", "ex_zh": "我們的教室在三樓。" },
+      { "id": "w5d1b", "en": "library", "kk": "[ˈlaɪˌbrɛrɪ]", "pos": "n.", "zh": "圖書館", "ex": "I borrow books from the library.", "ex_zh": "我從圖書館借書。" },
+      { "id": "w5d1c", "en": "playground", "kk": "[ˈpleˌɡraʊnd]", "pos": "n.", "zh": "操場；遊樂場", "ex": "The kids are running on the playground.", "ex_zh": "孩子們在操場上跑步。" },
+      { "id": "w5d1d", "en": "gym", "kk": "[dʒɪm]", "pos": "n.", "zh": "體育館", "ex": "We play volleyball in the gym.", "ex_zh": "我們在體育館打排球。" },
+      { "id": "w5d1e", "en": "hallway", "kk": "[ˈhɔlˌwe]", "pos": "n.", "zh": "走廊", "ex": "Don't run in the hallway.", "ex_zh": "不要在走廊上奔跑。" },
+      { "id": "w5d1f", "en": "office", "kk": "[ˈɔfɪs]", "pos": "n.", "zh": "辦公室", "ex": "The teachers' office is next to our classroom.", "ex_zh": "教師辦公室在我們教室隔壁。" }
+    ]},
+    { "date": "2026-08-04", "words": [
+      { "id": "w5d2a", "en": "subject", "kk": "[ˈsʌbdʒɪkt]", "pos": "n.", "zh": "科目", "ex": "English is my favorite subject at school.", "ex_zh": "英文是我在學校最喜歡的科目。" },
+      { "id": "w5d2b", "en": "math", "kk": "[mæθ]", "pos": "n.", "zh": "數學", "ex": "Math is hard but useful.", "ex_zh": "數學很難但很有用。" },
+      { "id": "w5d2c", "en": "science", "kk": "[ˈsaɪəns]", "pos": "n.", "zh": "自然；科學", "ex": "We do fun experiments in science class.", "ex_zh": "我們在自然課做有趣的實驗。" },
+      { "id": "w5d2d", "en": "history", "kk": "[ˈhɪstərɪ]", "pos": "n.", "zh": "歷史", "ex": "Grandpa loves talking about history.", "ex_zh": "爺爺喜歡談論歷史。" },
+      { "id": "w5d2e", "en": "geography", "kk": "[dʒɪˈɑɡrəfɪ]", "pos": "n.", "zh": "地理", "ex": "We learned about rivers in geography.", "ex_zh": "我們在地理課學到河流。" },
+      { "id": "w5d2f", "en": "art", "kk": "[ɑrt]", "pos": "n.", "zh": "美術；藝術", "ex": "She drew a beautiful bird in art class.", "ex_zh": "她在美術課畫了一隻美麗的鳥。" }
+    ]},
+    { "date": "2026-08-05", "words": [
+      { "id": "w5d3a", "en": "classmate", "kk": "[ˈklæsˌmet]", "pos": "n.", "zh": "同學", "ex": "My classmate helps me with my math homework.", "ex_zh": "我的同學幫我做數學作業。" },
+      { "id": "w5d3b", "en": "friendly", "kk": "[ˈfrɛndlɪ]", "pos": "adj.", "zh": "友善的", "ex": "Our new teacher is friendly to everyone.", "ex_zh": "我們的新老師對每個人都很友善。" },
+      { "id": "w5d3c", "en": "kind", "kk": "[kaɪnd]", "pos": "adj.", "zh": "親切的；善良的", "ex": "It is kind of you to help me.", "ex_zh": "你人真好，願意幫我。" },
+      { "id": "w5d3d", "en": "shy", "kk": "[ʃaɪ]", "pos": "adj.", "zh": "害羞的", "ex": "The new student is a little shy.", "ex_zh": "新同學有一點害羞。" },
+      { "id": "w5d3e", "en": "funny", "kk": "[ˈfʌnɪ]", "pos": "adj.", "zh": "好笑的；有趣的", "ex": "He tells funny jokes in class.", "ex_zh": "他在課堂上講好笑的笑話。" },
+      { "id": "w5d3f", "en": "honest", "kk": "[ˈɑnɪst]", "pos": "adj.", "zh": "誠實的", "ex": "An honest friend tells you the truth.", "ex_zh": "誠實的朋友會對你說實話。" }
+    ]},
+    { "date": "2026-08-06", "words": [
+      { "id": "w5d4a", "en": "study", "kk": "[ˈstʌdɪ]", "pos": "v./n.", "zh": "讀書；學習", "ex": "We study together at the library.", "ex_zh": "我們一起在圖書館讀書。" },
+      { "id": "w5d4b", "en": "learn", "kk": "[lɝn]", "pos": "v.", "zh": "學會；學習", "ex": "I learned five new words today.", "ex_zh": "我今天學會五個新單字。" },
+      { "id": "w5d4c", "en": "question", "kk": "[ˈkwɛstʃən]", "pos": "n.", "zh": "問題", "ex": "May I ask you a question?", "ex_zh": "我可以問你一個問題嗎？" },
+      { "id": "w5d4d", "en": "answer", "kk": "[ˈænsɚ]", "pos": "n./v.", "zh": "答案；回答", "ex": "Nobody knew the answer to that question.", "ex_zh": "沒有人知道那題的答案。" },
+      { "id": "w5d4e", "en": "test", "kk": "[tɛst]", "pos": "n./v.", "zh": "考試；測驗", "ex": "We have an English test on Friday.", "ex_zh": "我們星期五有英文考試。" },
+      { "id": "w5d4f", "en": "grade", "kk": "[ɡred]", "pos": "n.", "zh": "成績；年級", "ex": "She got a good grade in science.", "ex_zh": "她的自然成績很好。" }
+    ]},
+    { "date": "2026-08-07", "words": [
+      { "id": "w5d5a", "en": "notebook", "kk": "[ˈnotˌbʊk]", "pos": "n.", "zh": "筆記本", "ex": "I write new words in my notebook.", "ex_zh": "我把新單字寫在筆記本裡。" },
+      { "id": "w5d5b", "en": "eraser", "kk": "[ɪˈresɚ]", "pos": "n.", "zh": "橡皮擦", "ex": "May I borrow your eraser?", "ex_zh": "我可以借你的橡皮擦嗎？" },
+      { "id": "w5d5c", "en": "ruler", "kk": "[ˈrulɚ]", "pos": "n.", "zh": "尺", "ex": "Draw a line with the ruler.", "ex_zh": "用尺畫一條線。" },
+      { "id": "w5d5d", "en": "scissors", "kk": "[ˈsɪzɚz]", "pos": "n.", "zh": "剪刀", "ex": "Be careful with the scissors.", "ex_zh": "用剪刀要小心。" },
+      { "id": "w5d5e", "en": "glue", "kk": "[ɡlu]", "pos": "n.", "zh": "膠水", "ex": "Stick the photo with some glue.", "ex_zh": "用膠水把照片黏起來。" },
+      { "id": "w5d5f", "en": "schoolbag", "kk": "[ˈskulˌbæɡ]", "pos": "n.", "zh": "書包", "ex": "My schoolbag is heavy on Mondays.", "ex_zh": "星期一我的書包很重。" }
+    ]},
+    { "date": "2026-08-08", "words": [
+      { "id": "w5d6a", "en": "club", "kk": "[klʌb]", "pos": "n.", "zh": "社團", "ex": "Which club do you want to join?", "ex_zh": "你想加入哪個社團？" },
+      { "id": "w5d6b", "en": "member", "kk": "[ˈmɛmbɚ]", "pos": "n.", "zh": "成員", "ex": "The music club has twenty members.", "ex_zh": "音樂社有二十位成員。" },
+      { "id": "w5d6c", "en": "join", "kk": "[dʒɔɪn]", "pos": "v.", "zh": "加入；參加", "ex": "I want to join the basketball team.", "ex_zh": "我想加入籃球隊。" },
+      { "id": "w5d6d", "en": "activity", "kk": "[ækˈtɪvətɪ]", "pos": "n.", "zh": "活動", "ex": "There are many activities after school.", "ex_zh": "放學後有很多活動。" },
+      { "id": "w5d6e", "en": "guitar", "kk": "[ɡɪˈtɑr]", "pos": "n.", "zh": "吉他", "ex": "My brother plays the guitar very well.", "ex_zh": "我哥哥吉他彈得很好。" },
+      { "id": "w5d6f", "en": "dance", "kk": "[dæns]", "pos": "v./n.", "zh": "跳舞；舞蹈", "ex": "They dance to pop music together.", "ex_zh": "他們一起隨著流行音樂跳舞。" }
+    ]},
+    { "date": "2026-08-09", "words": [
+      { "id": "w5d7a", "en": "friendship", "kk": "[ˈfrɛndʃɪp]", "pos": "n.", "zh": "友誼", "ex": "Our friendship began in first grade.", "ex_zh": "我們的友誼從一年級開始。" },
+      { "id": "w5d7b", "en": "trust", "kk": "[trʌst]", "pos": "v./n.", "zh": "信任", "ex": "I trust my best friend with my secrets.", "ex_zh": "我信任我最好的朋友，會把秘密告訴他。" },
+      { "id": "w5d7c", "en": "secret", "kk": "[ˈsikrɪt]", "pos": "n.", "zh": "秘密", "ex": "Can you keep a secret?", "ex_zh": "你能保守秘密嗎？" },
+      { "id": "w5d7d", "en": "promise", "kk": "[ˈprɑmɪs]", "pos": "v./n.", "zh": "承諾；答應", "ex": "I promise to return your book tomorrow.", "ex_zh": "我答應明天還你書。" },
+      { "id": "w5d7e", "en": "forgive", "kk": "[fɚˈɡɪv]", "pos": "v.", "zh": "原諒", "ex": "Good friends forgive each other.", "ex_zh": "好朋友會原諒彼此。" },
+      { "id": "w5d7f", "en": "care", "kk": "[kɛr]", "pos": "v./n.", "zh": "關心；在乎", "ex": "She cares about her friends a lot.", "ex_zh": "她非常關心她的朋友。" }
+    ]}
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "week": 4,
+  "days": [
+    { "date": "2026-07-27", "words": [
+      { "id": "w4d1a", "en": "exercise", "kk": "[ˈɛksɚˌsaɪz]", "pos": "v./n.", "zh": "運動", "ex": "I exercise in the park every morning.", "ex_zh": "我每天早上在公園運動。" },
+      { "id": "w4d1b", "en": "sport", "kk": "[sport]", "pos": "n.", "zh": "運動；體育", "ex": "What sport do you like best?", "ex_zh": "你最喜歡什麼運動？" },
+      { "id": "w4d1c", "en": "basketball", "kk": "[ˈbæskɪtˌbɔl]", "pos": "n.", "zh": "籃球", "ex": "We play basketball after dinner.", "ex_zh": "我們晚餐後打籃球。" },
+      { "id": "w4d1d", "en": "badminton", "kk": "[ˈbædˌmɪntən]", "pos": "n.", "zh": "羽球", "ex": "My mom is good at badminton.", "ex_zh": "我媽媽很會打羽球。" },
+      { "id": "w4d1e", "en": "swim", "kk": "[swɪm]", "pos": "v.", "zh": "游泳", "ex": "We swim at the pool on hot days.", "ex_zh": "天氣熱我們去泳池游泳。" },
+      { "id": "w4d1f", "en": "jog", "kk": "[dʒɑɡ]", "pos": "v./n.", "zh": "慢跑", "ex": "Dad jogs around the school track.", "ex_zh": "爸爸繞著學校操場慢跑。" }
+    ]},
+    { "date": "2026-07-28", "words": [
+      { "id": "w4d2a", "en": "game", "kk": "[ɡem]", "pos": "n.", "zh": "比賽；遊戲", "ex": "The game starts at three o'clock.", "ex_zh": "比賽三點開始。" },
+      { "id": "w4d2b", "en": "team", "kk": "[tim]", "pos": "n.", "zh": "隊伍", "ex": "Our team has ten players.", "ex_zh": "我們隊上有十名球員。" },
+      { "id": "w4d2c", "en": "player", "kk": "[ˈpleɚ]", "pos": "n.", "zh": "球員；選手", "ex": "He is the tallest player on the team.", "ex_zh": "他是隊上最高的球員。" },
+      { "id": "w4d2d", "en": "win", "kk": "[wɪn]", "pos": "v.", "zh": "贏", "ex": "We won the game by two points!", "ex_zh": "我們以兩分之差贏了比賽！" },
+      { "id": "w4d2e", "en": "lose", "kk": "[luz]", "pos": "v.", "zh": "輸；失去", "ex": "It's okay to lose. Just try again.", "ex_zh": "輸了沒關係，再試一次就好。" },
+      { "id": "w4d2f", "en": "score", "kk": "[skor]", "pos": "n./v.", "zh": "分數；得分", "ex": "The final score was 21 to 19.", "ex_zh": "最後比數是 21 比 19。" }
+    ]},
+    { "date": "2026-07-29", "words": [
+      { "id": "w4d3a", "en": "practice", "kk": "[ˈpræktɪs]", "pos": "v./n.", "zh": "練習", "ex": "She practices basketball after school.", "ex_zh": "她放學後練習籃球。" },
+      { "id": "w4d3b", "en": "coach", "kk": "[kotʃ]", "pos": "n.", "zh": "教練", "ex": "Our coach teaches us new moves.", "ex_zh": "我們的教練教我們新動作。" },
+      { "id": "w4d3c", "en": "strong", "kk": "[strɔŋ]", "pos": "adj.", "zh": "強壯的", "ex": "Exercise makes your body strong.", "ex_zh": "運動讓你的身體強壯。" },
+      { "id": "w4d3d", "en": "weak", "kk": "[wik]", "pos": "adj.", "zh": "虛弱的；弱的", "ex": "I felt weak after being sick.", "ex_zh": "生病後我覺得很虛弱。" },
+      { "id": "w4d3e", "en": "improve", "kk": "[ɪmˈpruv]", "pos": "v.", "zh": "進步；改善", "ex": "My swimming improved a lot this month.", "ex_zh": "我的游泳這個月進步很多。" },
+      { "id": "w4d3f", "en": "skill", "kk": "[skɪl]", "pos": "n.", "zh": "技巧；技能", "ex": "Passing is an important skill in basketball.", "ex_zh": "傳球是籃球的重要技巧。" }
+    ]},
+    { "date": "2026-07-30", "words": [
+      { "id": "w4d4a", "en": "body", "kk": "[ˈbɑdɪ]", "pos": "n.", "zh": "身體", "ex": "Sleep helps your body grow.", "ex_zh": "睡眠幫助身體成長。" },
+      { "id": "w4d4b", "en": "arm", "kk": "[ɑrm]", "pos": "n.", "zh": "手臂", "ex": "My arms hurt after the game.", "ex_zh": "比賽後我的手臂好痠。" },
+      { "id": "w4d4c", "en": "leg", "kk": "[lɛɡ]", "pos": "n.", "zh": "腿", "ex": "The runner has strong legs.", "ex_zh": "那位跑者有強壯的腿。" },
+      { "id": "w4d4d", "en": "knee", "kk": "[ni]", "pos": "n.", "zh": "膝蓋", "ex": "I fell and hurt my knee.", "ex_zh": "我跌倒撞傷了膝蓋。" },
+      { "id": "w4d4e", "en": "hurt", "kk": "[hɝt]", "pos": "v.", "zh": "疼痛；受傷", "ex": "Does your foot still hurt?", "ex_zh": "你的腳還痛嗎？" },
+      { "id": "w4d4f", "en": "muscle", "kk": "[ˈmʌsl̩]", "pos": "n.", "zh": "肌肉", "ex": "Swimming uses many muscles.", "ex_zh": "游泳會用到很多肌肉。" }
+    ]},
+    { "date": "2026-07-31", "words": [
+      { "id": "w4d5a", "en": "healthy", "kk": "[ˈhɛlθɪ]", "pos": "adj.", "zh": "健康的", "ex": "Eating vegetables keeps us healthy.", "ex_zh": "吃蔬菜讓我們保持健康。" },
+      { "id": "w4d5b", "en": "sick", "kk": "[sɪk]", "pos": "adj.", "zh": "生病的", "ex": "He is sick and stays in bed today.", "ex_zh": "他生病了，今天躺在床上休息。" },
+      { "id": "w4d5c", "en": "headache", "kk": "[ˈhɛdˌek]", "pos": "n.", "zh": "頭痛", "ex": "I have a headache from the hot sun.", "ex_zh": "大太陽曬得我頭痛。" },
+      { "id": "w4d5d", "en": "fever", "kk": "[ˈfivɚ]", "pos": "n.", "zh": "發燒", "ex": "She has a fever of 38 degrees.", "ex_zh": "她發燒到 38 度。" },
+      { "id": "w4d5e", "en": "medicine", "kk": "[ˈmɛdəsn̩]", "pos": "n.", "zh": "藥", "ex": "Take the medicine after meals.", "ex_zh": "飯後吃藥。" },
+      { "id": "w4d5f", "en": "doctor", "kk": "[ˈdɑktɚ]", "pos": "n.", "zh": "醫生", "ex": "The doctor told me to rest more.", "ex_zh": "醫生要我多休息。" }
+    ]},
+    { "date": "2026-08-01", "words": [
+      { "id": "w4d6a", "en": "stretch", "kk": "[strɛtʃ]", "pos": "v.", "zh": "伸展", "ex": "Stretch your legs before you run.", "ex_zh": "跑步前先伸展你的腿。" },
+      { "id": "w4d6b", "en": "relax", "kk": "[rɪˈlæks]", "pos": "v.", "zh": "放鬆", "ex": "Music helps me relax at night.", "ex_zh": "音樂幫助我在晚上放鬆。" },
+      { "id": "w4d6c", "en": "energy", "kk": "[ˈɛnɚdʒɪ]", "pos": "n.", "zh": "能量；活力", "ex": "Breakfast gives you energy for the day.", "ex_zh": "早餐給你一天的能量。" },
+      { "id": "w4d6d", "en": "heart", "kk": "[hɑrt]", "pos": "n.", "zh": "心臟；心", "ex": "Jogging is good for your heart.", "ex_zh": "慢跑對心臟很好。" },
+      { "id": "w4d6e", "en": "breathe", "kk": "[brið]", "pos": "v.", "zh": "呼吸", "ex": "Breathe slowly and count to ten.", "ex_zh": "慢慢呼吸，數到十。" },
+      { "id": "w4d6f", "en": "fit", "kk": "[fɪt]", "pos": "adj.", "zh": "健康結實的", "ex": "My grandpa stays fit by walking every day.", "ex_zh": "我爺爺每天走路保持健康。" }
+    ]},
+    { "date": "2026-08-02", "words": [
+      { "id": "w4d7a", "en": "race", "kk": "[res]", "pos": "n./v.", "zh": "賽跑；競賽", "ex": "The race starts at the park gate.", "ex_zh": "賽跑從公園大門開始。" },
+      { "id": "w4d7b", "en": "marathon", "kk": "[ˈmærəˌθɑn]", "pos": "n.", "zh": "馬拉松", "ex": "My aunt ran a marathon last year.", "ex_zh": "我阿姨去年跑了馬拉松。" },
+      { "id": "w4d7c", "en": "finish", "kk": "[ˈfɪnɪʃ]", "pos": "v.", "zh": "完成；結束", "ex": "Everyone cheered when she finished the race.", "ex_zh": "她跑完時大家都歡呼了。" },
+      { "id": "w4d7d", "en": "give up", "kk": "[ɡɪv ʌp]", "pos": "phr.", "zh": "放棄", "ex": "Never give up on your dream.", "ex_zh": "永遠不要放棄你的夢想。" },
+      { "id": "w4d7e", "en": "proud", "kk": "[praʊd]", "pos": "adj.", "zh": "驕傲的；自豪的", "ex": "I am proud of my little brother.", "ex_zh": "我為我弟弟感到驕傲。" },
+      { "id": "w4d7f", "en": "cheer", "kk": "[tʃɪr]", "pos": "v./n.", "zh": "歡呼；加油", "ex": "We cheered for our team loudly.", "ex_zh": "我們大聲為我們的隊伍加油。" }
+    ]}
+  ]
+}

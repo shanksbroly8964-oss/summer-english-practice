@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0e7490">
+<title>暑假英文學習計畫 Summer English</title>
+<script>window.APP_VERSION = '20260707-1';</script>
+<script>
+(function(){
+  var v = window.APP_VERSION;
+  document.write('<link rel="stylesheet" href="css/style.css?v=' + v + '">');
+})();
+</script>
+</head>
+<body>
+<header class="app-header">
+  <div class="header-inner">
+    <div class="app-title" onclick="location.hash='#calendar'">
+      <span class="app-logo">🏖️</span>
+      <span>
+        <b>暑假英文學習計畫</b>
+        <small>2026/7/6 – 8/30 · 每天一點點，開學大進步</small>
+      </span>
+    </div>
+    <div id="auth-container"></div>
+  </div>
+</header>
+
+<main id="view" class="view"><div class="loading">載入中…</div></main>
+
+<nav class="bottom-nav">
+  <a href="#calendar" data-nav="calendar"><span class="nav-icon">📅</span>行事曆</a>
+  <a href="#library" data-nav="library"><span class="nav-icon">📚</span>分類庫</a>
+  <a href="#wrong" data-nav="wrong"><span class="nav-icon">📌</span>錯題本<span id="wrong-badge" class="badge" hidden></span></a>
+  <a href="#stats" data-nav="stats"><span class="nav-icon">📈</span>統計</a>
+</nav>
+
+<div id="toast" class="toast" hidden></div>
+
+<script>
+(function(){
+  var v = window.APP_VERSION;
+  ['js/firebase-config.js','js/tts.js','js/storage.js','js/data-loader.js',
+   'js/quiz.js','js/views.js','js/app.js','js/auth.js'].forEach(function(s){
+    document.write('<script src="' + s + '?v=' + v + '"><\/script>');
+  });
+})();
+</script>
+</body>
+</html>

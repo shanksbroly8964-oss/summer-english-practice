@@ -1,0 +1,82 @@
+[
+  {
+    "week": 1,
+    "items": [
+      { "type": "vocab", "target": "breakfast", "model_en": "I eat breakfast with my family at seven.", "model_zh": "我七點和家人一起吃早餐。", "prompt_zh": "換成你自己的時間和對象，用 breakfast 造一個句子。", "refs": ["I eat breakfast with my brother at six thirty.", "My mother makes breakfast for me every day."] },
+      { "type": "vocab", "target": "busy", "model_en": "My father is busy on Monday mornings.", "model_zh": "我爸爸星期一早上很忙。", "prompt_zh": "想一個很忙的人或時間，用 busy 造句。", "refs": ["My mother is busy in the kitchen every evening.", "I am busy with my homework on Friday nights."] },
+      { "type": "vocab", "target": "kitchen", "model_en": "Mom is cooking noodles in the kitchen.", "model_zh": "媽媽正在廚房煮麵。", "prompt_zh": "用 kitchen 描述家裡有人在廚房做的事。", "refs": ["Dad is washing the dishes in the kitchen.", "There are many cups in our kitchen."] },
+      { "type": "grammar", "target": "be 動詞現在式", "model_en": "My brother is very tall.", "model_zh": "我的哥哥非常高。", "prompt_zh": "照這個句型（某人 + is/are + 形容詞），介紹你的家人或朋友。", "refs": ["My sister is very cute.", "My parents are very kind."] },
+      { "type": "grammar", "target": "現在簡單式", "model_en": "My mother cooks dinner for us every day.", "model_zh": "我媽媽每天為我們煮晚餐。", "prompt_zh": "照這個句型（第三人稱 + 動詞加s），寫一件家人每天做的事。", "refs": ["My father drives me to school every morning.", "My grandma waters the flowers every day."] }
+    ]
+  },
+  {
+    "week": 2,
+    "items": [
+      { "type": "vocab", "target": "delicious", "model_en": "The beef noodles at the night market are delicious.", "model_zh": "夜市的牛肉麵很美味。", "prompt_zh": "想一樣你最愛的食物，用 delicious 造句。", "refs": ["The fried chicken at that stand is delicious.", "My grandma's dumplings are delicious."] },
+      { "type": "vocab", "target": "order", "model_en": "I order a bowl of rice and some soup.", "model_zh": "我點了一碗飯和一些湯。", "prompt_zh": "假裝你在餐廳，用 order 造一個點餐的句子。", "refs": ["I order a hamburger and a cup of tea.", "We order two bowls of noodles at the restaurant."] },
+      { "type": "vocab", "target": "restaurant", "model_en": "There is a famous restaurant near my school.", "model_zh": "我學校附近有一間有名的餐廳。", "prompt_zh": "用 restaurant 介紹一間你知道的餐廳在哪裡。", "refs": ["There is a nice restaurant next to the park.", "My family goes to a seafood restaurant on weekends."] },
+      { "type": "grammar", "target": "現在進行式", "model_en": "Dad is making beef noodles in the kitchen.", "model_zh": "爸爸正在廚房煮牛肉麵。", "prompt_zh": "照這個句型（某人 + is/are + V-ing），寫一件「現在正在發生」的事。", "refs": ["My sister is drinking bubble tea now.", "The cook is making dumplings right now."] },
+      { "type": "grammar", "target": "There is / There are", "model_en": "There are many restaurants near my home.", "model_zh": "我家附近有很多餐廳。", "prompt_zh": "用 There is 或 There are 描述你家附近有什麼。", "refs": ["There is a breakfast shop near my home.", "There are two night markets in my town."] }
+    ]
+  },
+  {
+    "week": 3,
+    "items": [
+      { "type": "vocab", "target": "trip", "model_en": "We took a trip to Hualien last summer.", "model_zh": "我們去年夏天去花蓮旅行。", "prompt_zh": "想一次你去過的旅行，用 trip 造句（用過去式）。", "refs": ["We took a trip to Tainan last month.", "The trip to the beach was really fun."] },
+      { "type": "vocab", "target": "sunny", "model_en": "It was sunny, so we went to the beach.", "model_zh": "天氣晴朗，所以我們去了海邊。", "prompt_zh": "用 sunny 寫一句話，說晴天時你做了或會做什麼。", "refs": ["It was sunny yesterday, so we rode bikes in the park.", "On sunny days, I like to swim with my friends."] },
+      { "type": "vocab", "target": "beach", "model_en": "We played in the water at the beach.", "model_zh": "我們在海邊玩水。", "prompt_zh": "用 beach 造一個關於海邊的句子。", "refs": ["We built a sandcastle at the beach.", "My family walked along the beach in the evening."] },
+      { "type": "grammar", "target": "過去簡單式（be／規則動詞）", "model_en": "We visited Taroko Gorge last summer.", "model_zh": "我們去年夏天遊覽了太魯閣。", "prompt_zh": "照這個句型（主詞 + 動詞ed + 時間），寫一件過去做過的事。", "refs": ["I stayed at my grandma's house last weekend.", "We watched the sunset at the harbor yesterday."] },
+      { "type": "grammar", "target": "過去簡單式（不規則動詞）", "model_en": "We went to Kenting by train.", "model_zh": "我們搭火車去墾丁。", "prompt_zh": "用一個不規則動詞的過去式（went / saw / ate / bought…）造句。", "refs": ["I ate mango ice with my cousin last night.", "We saw many stars in the mountains."] }
+    ]
+  },
+  {
+    "week": 4,
+    "items": [
+      { "type": "vocab", "target": "exercise", "model_en": "I exercise in the park every morning.", "model_zh": "我每天早上在公園運動。", "prompt_zh": "用 exercise 寫一句你（或家人）的運動習慣。", "refs": ["My father exercises at the gym twice a week.", "I exercise with my dog in the evening."] },
+      { "type": "vocab", "target": "practice", "model_en": "She practices basketball after school.", "model_zh": "她放學後練習籃球。", "prompt_zh": "用 practice 寫一句你會練習的事情。", "refs": ["I practice the piano for thirty minutes every day.", "He practices English by singing songs."] },
+      { "type": "vocab", "target": "healthy", "model_en": "Eating vegetables keeps us healthy.", "model_zh": "吃蔬菜讓我們保持健康。", "prompt_zh": "用 healthy 寫一句關於健康的建議或事實。", "refs": ["Drinking water is good for a healthy body.", "My grandpa is very healthy because he walks every day."] },
+      { "type": "grammar", "target": "未來式 will / be going to", "model_en": "We are going to play badminton tomorrow.", "model_zh": "我們明天要去打羽球。", "prompt_zh": "用 will 或 be going to 寫一件你之後打算做的事。", "refs": ["I will swim with my friends this Saturday.", "We are going to hike the mountain next week."] },
+      { "type": "grammar", "target": "助動詞 can / must / should", "model_en": "You should stretch before you run.", "model_zh": "跑步前你應該先伸展。", "prompt_zh": "用 can、must 或 should 寫一句運動或健康的建議。", "refs": ["You should sleep eight hours every night.", "We must warm up before swimming."] }
+    ]
+  },
+  {
+    "week": 5,
+    "items": [
+      { "type": "vocab", "target": "classmate", "model_en": "My classmate helps me with my math homework.", "model_zh": "我的同學幫我做數學作業。", "prompt_zh": "用 classmate 寫一句關於同學的事。", "refs": ["My classmate and I eat lunch together every day.", "One of my classmates is really good at drawing."] },
+      { "type": "vocab", "target": "friendly", "model_en": "Our new teacher is friendly to everyone.", "model_zh": "我們的新老師對每個人都很友善。", "prompt_zh": "想一個友善的人，用 friendly 造句。", "refs": ["The girl next door is friendly and always says hi.", "My best friend is the most friendly person I know."] },
+      { "type": "vocab", "target": "subject", "model_en": "English is my favorite subject at school.", "model_zh": "英文是我在學校最喜歡的科目。", "prompt_zh": "用 subject 說說你最喜歡（或最不喜歡）的科目。", "refs": ["Math is a difficult subject for me.", "My favorite subject is PE because I love sports."] },
+      { "type": "grammar", "target": "形容詞比較級", "model_en": "My best friend is taller than me.", "model_zh": "我最好的朋友比我高。", "prompt_zh": "照這個句型（A + 比較級 + than + B），比較兩個人或兩樣東西。", "refs": ["My schoolbag is heavier than my sister's.", "Summer vacation is longer than winter vacation."] },
+      { "type": "grammar", "target": "形容詞最高級", "model_en": "Amy is the tallest student in our class.", "model_zh": "艾咪是我們班最高的學生。", "prompt_zh": "照這個句型（the + 最高級 + in/of…），寫一個「最…」的句子。", "refs": ["My dad is the busiest person in my family.", "This is the best book of the year."] }
+    ]
+  },
+  {
+    "week": 6,
+    "items": [
+      { "type": "vocab", "target": "internet", "model_en": "I use the internet to learn English.", "model_zh": "我用網路學英文。", "prompt_zh": "用 internet 寫一句你如何使用網路。", "refs": ["I use the internet to watch music videos.", "My grandma uses the internet to chat with us."] },
+      { "type": "vocab", "target": "screen", "model_en": "Don't watch the screen for too long.", "model_zh": "不要盯著螢幕太久。", "prompt_zh": "用 screen 寫一句和 3C 螢幕有關的句子。", "refs": ["My eyes hurt because I watched the screen all day.", "You should look away from the screen every thirty minutes."] },
+      { "type": "vocab", "target": "message", "model_en": "She sends me a message every night.", "model_zh": "她每天晚上傳訊息給我。", "prompt_zh": "用 message 造一個句子。", "refs": ["I got a funny message from my cousin.", "Please send me a message when you get home."] },
+      { "type": "grammar", "target": "頻率副詞", "model_en": "I usually watch videos after dinner.", "model_zh": "我通常在晚餐後看影片。", "prompt_zh": "用 always / usually / sometimes / never 寫一句你的習慣。", "refs": ["I sometimes play online games with my friends.", "He never uses his phone during dinner."] },
+      { "type": "grammar", "target": "連接詞 because / so", "model_en": "She likes this app because it is easy to use.", "model_zh": "她喜歡這個 App，因為它很好用。", "prompt_zh": "用 because 或 so 把兩個想法連起來造句。", "refs": ["I like this game because I can play it with my friends.", "My phone was broken, so I read a book instead."] }
+    ]
+  },
+  {
+    "week": 7,
+    "items": [
+      { "type": "vocab", "target": "forest", "model_en": "Many birds live in the forest.", "model_zh": "許多鳥住在森林裡。", "prompt_zh": "用 forest 造一個關於森林的句子。", "refs": ["We heard many insects in the forest at night.", "The air in the forest is fresh and cool."] },
+      { "type": "vocab", "target": "insect", "model_en": "My little brother loves catching insects in summer.", "model_zh": "我弟弟夏天最愛抓昆蟲。", "prompt_zh": "用 insect 造句。", "refs": ["There are many insects in the grass after the rain.", "Some insects can make beautiful sounds at night."] },
+      { "type": "vocab", "target": "protect", "model_en": "We should protect the animals in the ocean.", "model_zh": "我們應該保護海洋裡的動物。", "prompt_zh": "用 protect 寫一句保護動物或環境的句子。", "refs": ["We should protect the forest for the animals.", "Sunglasses protect our eyes from the sun."] },
+      { "type": "grammar", "target": "不定詞與動名詞", "model_en": "She enjoys watching birds in the park.", "model_zh": "她喜歡在公園賞鳥。", "prompt_zh": "用 enjoy + V-ing 或 want + to V 造一個句子。", "refs": ["I enjoy swimming in the sea in summer.", "We want to see the fireflies in the mountains."] },
+      { "type": "grammar", "target": "介係詞 in / on / at", "model_en": "We saw fireflies at night in the mountains.", "model_zh": "我們晚上在山裡看到螢火蟲。", "prompt_zh": "用 in、on、at 其中兩個，寫一句有時間或地點的句子。", "refs": ["The cat sleeps on the sofa in the afternoon.", "We watch stars at night in my grandpa's yard."] }
+    ]
+  },
+  {
+    "week": 8,
+    "items": [
+      { "type": "vocab", "target": "station", "model_en": "The train station is next to the department store.", "model_zh": "火車站就在百貨公司旁邊。", "prompt_zh": "用 station 描述某個車站的位置或你在車站做的事。", "refs": ["I take the bus at the station near my home.", "The MRT station is always full of people in the morning."] },
+      { "type": "vocab", "target": "convenient", "model_en": "Living in the city is very convenient.", "model_zh": "住在城市裡非常方便。", "prompt_zh": "用 convenient 寫一句生活中方便的事。", "refs": ["Convenience stores make our life convenient.", "It is convenient to take the MRT to school."] },
+      { "type": "vocab", "target": "future", "model_en": "I want to be a doctor in the future.", "model_zh": "我未來想當醫生。", "prompt_zh": "用 future 寫一句你對未來的想法。", "refs": ["In the future, I want to travel around the world.", "I will study harder for my future."] },
+      { "type": "grammar", "target": "wh- 疑問句", "model_en": "Where is the nearest convenience store?", "model_zh": "最近的便利商店在哪裡？", "prompt_zh": "用 What / Where / When / How 造一個問句。", "refs": ["When does the new semester start?", "How do you go to the library?"] },
+      { "type": "grammar", "target": "現在完成式", "model_en": "I have finished all my summer homework.", "model_zh": "我已經完成所有暑假作業了。", "prompt_zh": "用 have/has + p.p. 寫一件你已經完成或經歷過的事。", "refs": ["I have read three books this summer.", "She has visited Taipei 101 twice."] }
+    ]
+  }
+]

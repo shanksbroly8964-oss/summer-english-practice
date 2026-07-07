@@ -1,0 +1,68 @@
+{
+  "week": 4,
+  "articles": [
+    {
+      "id": "r0727", "date": "2026-07-27", "title": "Morning Jog with Mom",
+      "text": "My mom started jogging three months ago. Every morning at six, she runs around the river park. This week, she asked me to join her. \"Six in the morning? In summer vacation?\" I said. But I said yes.\nThe first day was terrible. After five minutes, my legs felt heavy, and I couldn't breathe well. Mom slowed down for me. \"Don't race,\" she said. \"Just find your own speed.\"\nOn the third day, something changed. My body felt lighter. I could run for fifteen minutes without stopping. We saw the morning sun on the river, and old people doing tai chi under the trees. The world at 6 a.m. is quiet and beautiful.\nNow I understand why Mom loves jogging. It's not just exercise. It's the best start to a day. Tomorrow, we will try to run twenty minutes!",
+      "questions": [
+        { "q": "When does Mom jog every day?", "options": ["At six in the morning.", "At six in the evening.", "After dinner.", "At noon."], "answer": "At six in the morning." },
+        { "q": "What was Mom's advice on the first day?", "options": ["Don't race; just find your own speed.", "Run as fast as you can.", "Stop after five minutes.", "Drink cola before running."], "answer": "Don't race; just find your own speed." },
+        { "q": "What is the plan for tomorrow?", "options": ["To try to run twenty minutes.", "To run a marathon.", "To sleep late.", "To do tai chi under the trees."], "answer": "To try to run twenty minutes." }
+      ]
+    },
+    {
+      "id": "r0728", "date": "2026-07-28", "title": "The Basketball Game",
+      "text": "Yesterday, our neighborhood had a summer basketball game — kids versus dads! Everyone came to the school court to watch.\nThe dads were tall and strong, but we were fast. In the first half, my friend Jason scored three times, and we led 12 to 8. The dads looked surprised. Then they started to play hard. My dad blocked my shot and laughed, \"Sorry, son!\"\nIn the last minute, the score was 20 to 20. Jason passed me the ball. I jumped and threw it with all my energy. The ball hit the ring, rolled around... and dropped in! We won 22 to 20!\nWe jumped and shouted like crazy. The dads bought everyone cold drinks and said, \"Good game! Next month, we want to play again.\" My arms still hurt today, but I keep smiling when I think about that last ball.",
+      "questions": [
+        { "q": "Who played in the game?", "options": ["Kids versus dads.", "Two school teams.", "Kids versus moms.", "Teachers versus students."], "answer": "Kids versus dads." },
+        { "q": "What was the final score?", "options": ["22 to 20.", "20 to 20.", "12 to 8.", "21 to 19."], "answer": "22 to 20." },
+        { "q": "Who threw the winning ball?", "options": ["The writer.", "Jason.", "The writer's dad.", "The coach."], "answer": "The writer." }
+      ]
+    },
+    {
+      "id": "r0729", "date": "2026-07-29", "title": "Practice Makes Better",
+      "text": "My little sister wants to join the school swimming team in September. But there is a problem: she is afraid of deep water.\nThis summer, she goes to the pool three times a week. Her coach is very patient. First week: she only practiced kicking with a board. Second week: she learned to breathe in the water. Many times she drank the pool water and wanted to cry. But she never stopped.\nYesterday, something amazing happened. She swam from one side of the pool to the other side — twenty-five meters — all by herself! The coach clapped. Mom almost cried. My sister climbed out of the pool, tired but smiling like a star.\n\"How did you do it?\" I asked her. She said, \"I was still afraid. I just practiced one more time every day.\" I think my little sister just taught me something big.",
+      "questions": [
+        { "q": "What is the sister's problem?", "options": ["She is afraid of deep water.", "She can't run fast.", "She doesn't like the coach.", "She is too young for the team."], "answer": "She is afraid of deep water." },
+        { "q": "What did she do yesterday?", "options": ["She swam twenty-five meters by herself.", "She won a swimming race.", "She joined the school team.", "She jumped from the high board."], "answer": "She swam twenty-five meters by herself." },
+        { "q": "What was her secret?", "options": ["She practiced one more time every day.", "She took special medicine.", "She used a bigger board.", "She stopped being afraid first."], "answer": "She practiced one more time every day." }
+      ]
+    },
+    {
+      "id": "r0730", "date": "2026-07-30", "title": "Ouch! My Knee",
+      "text": "Last night, I hurt my knee. It was my own fault. My friends called me to play basketball, and I ran to the court right away. No stretching, no warm-up. In the first five minutes, I jumped for the ball, landed badly, and fell.\nMy knee turned red and started to hurt a lot. My friends helped me walk home. Dad looked at it carefully and put ice on it. \"It's not too bad,\" he said, \"but you must rest for a few days. And remember — your body is not a machine. You have to warm it up.\"\nToday, I stayed home with my leg up on a pillow. My friends sent me funny messages. Mom made me chicken soup.\nNext time, I will spend ten minutes stretching before I play, even if my friends are waiting. A little warm-up is much better than a week of rest!",
+      "questions": [
+        { "q": "Why did the writer get hurt?", "options": ["The writer played without stretching or warming up.", "Another player pushed the writer.", "The court was wet.", "The writer's shoes were too old."], "answer": "The writer played without stretching or warming up." },
+        { "q": "What did Dad do for the knee?", "options": ["He put ice on it.", "He took the writer to the hospital.", "He gave the writer medicine.", "He wrapped it with a bandage."], "answer": "He put ice on it." },
+        { "q": "What will the writer do next time?", "options": ["Spend ten minutes stretching before playing.", "Stop playing basketball.", "Wear knee pads all day.", "Only watch games on TV."], "answer": "Spend ten minutes stretching before playing." }
+      ]
+    },
+    {
+      "id": "r0731", "date": "2026-07-31", "title": "A Visit to the Doctor",
+      "text": "My cousin Leo got sick this week. On Monday, he had a headache. On Tuesday, he had a fever of 38.5 degrees. His mom took him to see the doctor near their home.\nThe doctor checked Leo's throat and listened to his heart. \"It's summer flu,\" the doctor said. \"Many kids have it this month.\" She gave Leo some medicine and four important rules: take the medicine after meals, drink lots of warm water, sleep more than nine hours, and no ice cream for a week.\n\"No ice cream? In summer?\" Leo cried. The doctor laughed, \"You can eat it when you are healthy again. Your body needs rest now, not sugar.\"\nLeo followed the rules. He slept, drank water, and watched cartoons quietly. Today his fever is gone. He sent me a message: \"I'm back! Ice cream this Saturday?\" Ha! He is really fine now.",
+      "questions": [
+        { "q": "What was Leo's fever on Tuesday?", "options": ["38.5 degrees.", "37 degrees.", "39.5 degrees.", "40 degrees."], "answer": "38.5 degrees." },
+        { "q": "Which one is NOT one of the doctor's rules?", "options": ["Run every morning.", "Take the medicine after meals.", "Drink lots of warm water.", "Sleep more than nine hours."], "answer": "Run every morning." },
+        { "q": "How do we know Leo is fine now?", "options": ["His fever is gone and he asked about ice cream.", "He went back to school.", "He played basketball again.", "The doctor called his mom."], "answer": "His fever is gone and he asked about ice cream." }
+      ]
+    },
+    {
+      "id": "r0801", "date": "2026-08-01", "title": "Breathe and Relax",
+      "text": "My mom does yoga every evening in the living room. I always thought it looked boring — just standing and breathing? Last night, she asked me to try it with her. I had nothing to do, so I joined.\nFirst, we sat on the floor and closed our eyes. \"Breathe in for four counts, breathe out for four counts,\" Mom said softly. Then we did some easy poses. One was called \"the tree.\" I had to stand on one leg. I fell twice! Mom didn't laugh. She said, \"Balance needs practice, like everything else.\"\nAfter thirty minutes, something surprised me. My body felt warm and soft, and my mind was very quiet. The little angry feelings from the day were gone.\nMom says exercise is not only about strong muscles. Sometimes, slow and quiet exercise gives you a different kind of energy. I think I will join her again tonight.",
+      "questions": [
+        { "q": "What pose did the writer try?", "options": ["The tree.", "The mountain.", "The bird.", "The bridge."], "answer": "The tree." },
+        { "q": "How many times did the writer fall?", "options": ["Twice.", "Once.", "Three times.", "Never."], "answer": "Twice." },
+        { "q": "How did the writer feel after thirty minutes?", "options": ["Warm, soft, and very quiet in the mind.", "Bored and sleepy.", "Angry and tired.", "Hungry and thirsty."], "answer": "Warm, soft, and very quiet in the mind." }
+      ]
+    },
+    {
+      "id": "r0802", "date": "2026-08-02", "title": "The Community Race",
+      "text": "This morning, our community held a three-kilometer fun race. Anyone could join — kids, parents, even grandparents. My whole family signed up.\nAt seven thirty, about one hundred people stood at the park gate. The head of our community shouted \"Go!\" and everyone started running. Dad ran fast and finished eighth. Mom and my sister ran together and chatted the whole way.\nAnd me? At two kilometers, my legs wanted to give up. An old grandpa, maybe seventy years old, passed me slowly. He smiled and said, \"Young man, don't stop. Slow is also moving!\" I followed him, step by step. We finished together, and everyone cheered for us.\nI didn't win anything, but I finished my first race without walking. Grandpa gave me a high five at the finish line. \"See you next year,\" he said. Yes, next year I will be faster!",
+      "questions": [
+        { "q": "How long was the race?", "options": ["Three kilometers.", "Two kilometers.", "Five kilometers.", "One kilometer."], "answer": "Three kilometers." },
+        { "q": "Who helped the writer keep running?", "options": ["An old grandpa in the race.", "Dad.", "Mom and the sister.", "The head of the community."], "answer": "An old grandpa in the race." },
+        { "q": "What did the grandpa say?", "options": ["\"Don't stop. Slow is also moving!\"", "\"Run faster or go home!\"", "\"Winning is everything.\"", "\"Take a rest and walk.\""], "answer": "\"Don't stop. Slow is also moving!\"" }
+      ]
+    }
+  ]
+}

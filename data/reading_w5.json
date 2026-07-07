@@ -1,0 +1,68 @@
+{
+  "week": 5,
+  "articles": [
+    {
+      "id": "r0803", "date": "2026-08-03", "title": "The Quiet Library",
+      "text": "It was too hot to play outside today, so my friend Mia and I went to the city library. The library is cool, quiet, and free — the perfect place for a summer afternoon.\nWe found seats by the big window on the second floor. Mia read comic books about space. I picked a mystery story about a missing cat. The room was so quiet that I could hear the pages turning.\nAfter two hours, we walked around. The library has a music room, a computer area, and even a small movie room. A librarian told us about the Summer Reading Game: read ten books, write short notes about them, and win a prize in September.\nMia and I signed up right away. We borrowed four books each. Now we have a new plan for the hot days: every Tuesday and Thursday afternoon, you can find us by that big window.",
+      "questions": [
+        { "q": "Why did they go to the library?", "options": ["It was too hot to play outside.", "They had summer homework.", "Mia lost a book.", "The library had a party."], "answer": "It was too hot to play outside." },
+        { "q": "What is the Summer Reading Game?", "options": ["Read ten books, write short notes, and win a prize.", "Find a missing cat in the library.", "Watch ten movies in the movie room.", "Borrow one hundred books."], "answer": "Read ten books, write short notes, and win a prize." },
+        { "q": "When will they go to the library now?", "options": ["Every Tuesday and Thursday afternoon.", "Every day.", "Every weekend.", "Only in September."], "answer": "Every Tuesday and Thursday afternoon." }
+      ]
+    },
+    {
+      "id": "r0804", "date": "2026-08-04", "title": "My Favorite Subject",
+      "text": "Next month, I will be in eighth grade. My cousin asked me yesterday, \"What is your favorite subject?\" I didn't even think for one second: \"Science!\"\nWhy do I love science? Because in science class, we don't just read books — we do things. Last semester, we grew beans in cotton, made a small volcano with baking soda, and used a microscope to look at leaves. When I saw the tiny green rooms inside a leaf, I couldn't believe my eyes. A leaf is like a little city!\nMy science teacher, Mr. Chen, always says, \"Don't just remember the answer. Ask why.\" Now I ask \"why\" about everything. Why is the sky blue? Why does ice float? Why do cats always land on their feet?\nMaybe one day I will be a scientist. But even if I don't, science taught me the most useful skill: staying curious about the world.",
+      "questions": [
+        { "q": "What is the writer's favorite subject?", "options": ["Science.", "Math.", "English.", "History."], "answer": "Science." },
+        { "q": "What did the writer see with the microscope?", "options": ["The tiny green rooms inside a leaf.", "A small volcano.", "Beans in cotton.", "A little city."], "answer": "The tiny green rooms inside a leaf." },
+        { "q": "What does Mr. Chen always say?", "options": ["\"Don't just remember the answer. Ask why.\"", "\"Science is the easiest subject.\"", "\"Read the book three times.\"", "\"The test is next week.\""], "answer": "\"Don't just remember the answer. Ask why.\"" }
+      ]
+    },
+    {
+      "id": "r0805", "date": "2026-08-05", "title": "The New Classmate",
+      "text": "Last April, a new student came to our class. His name is Ryo, and he moved from Japan because of his dad's job. On his first day, he was very shy. He knew some Chinese, but he was afraid to speak.\nAt lunch time, Ryo sat alone. I remembered my first day at a new school — that lonely feeling. So I took my lunch box and sat next to him. \"Hi, I'm Ting. Do you like baseball?\" His eyes lit up. \"Yes! I love the Rakuten Monkeys!\"\nThat was the beginning. Now Ryo is one of my best friends. He taught me some Japanese words, and I help him with Chinese homework. He is not shy anymore — actually, he is the funniest one in our group.\nSometimes a friendship starts with one small hello. I'm glad I said it first.",
+      "questions": [
+        { "q": "Why did Ryo move to Taiwan?", "options": ["Because of his dad's job.", "To learn Chinese.", "To play baseball.", "To live with his grandma."], "answer": "Because of his dad's job." },
+        { "q": "What did Ting do at lunch time?", "options": ["Ting sat next to Ryo and talked about baseball.", "Ting shared homework answers with Ryo.", "Ting taught Ryo Chinese.", "Ting invited Ryo to a game."], "answer": "Ting sat next to Ryo and talked about baseball." },
+        { "q": "What does the writer say about friendship?", "options": ["It can start with one small hello.", "It needs a long time to start.", "It only happens between quiet people.", "It is hard for new students."], "answer": "It can start with one small hello." }
+      ]
+    },
+    {
+      "id": "r0806", "date": "2026-08-06", "title": "Study Buddies",
+      "text": "In two weeks, there is a big test for the new semester. My classmate Amber and I made a plan: we study together every morning from nine to eleven. We call ourselves \"study buddies.\"\nOur rules are simple. Phones stay in the schoolbag. We study for twenty-five minutes, then rest for five minutes. In the rest time, we eat a little snack or just look at the trees outside.\nStudying together works like magic. When I don't understand a math question, Amber explains it to me. When she forgets an English word, I act it out and make her laugh. Yesterday, I acted out the word \"chicken\" — she laughed for five minutes!\nAlone, I always want to give up after half an hour. Together, two hours pass quickly. A good study buddy doesn't just make you smarter. She makes learning feel less lonely.",
+      "questions": [
+        { "q": "When do the study buddies meet?", "options": ["Every morning from nine to eleven.", "Every evening after dinner.", "On weekends only.", "Every afternoon at the library."], "answer": "Every morning from nine to eleven." },
+        { "q": "What is one of their rules?", "options": ["Phones stay in the schoolbag.", "No snacks during rest time.", "Study for five minutes, rest for twenty-five.", "Only study math."], "answer": "Phones stay in the schoolbag." },
+        { "q": "What word did the writer act out?", "options": ["Chicken.", "Monkey.", "Teacher.", "Rabbit."], "answer": "Chicken." }
+      ]
+    },
+    {
+      "id": "r0807", "date": "2026-08-07", "title": "The Little Stationery Shop",
+      "text": "Near my school, there is a little stationery shop. The owner is an old man we all call Uncle Wang. His shop is small and a little messy, but it has everything: notebooks, erasers, rulers, scissors, glue, and hundreds of pens.\nToday, Mom gave me two hundred dollars to buy things for the new semester. At the shop, I picked three notebooks, a blue pen, and a new eraser. Uncle Wang looked at my eraser and laughed, \"You bought the same one in March. Do you eat erasers?\" I laughed too. I always lose them!\nWhen I paid, Uncle Wang gave me a small gift — a sticker of a cat reading a book. \"For hard-working students,\" he said with a wink.\nBig stores are cheaper, and online shopping is easy. But I still love Uncle Wang's little shop. Some places sell things; his shop gives warm feelings, too.",
+      "questions": [
+        { "q": "What do students call the shop owner?", "options": ["Uncle Wang.", "Mr. Chen.", "Grandpa Lee.", "Teacher Wang."], "answer": "Uncle Wang." },
+        { "q": "Why did Uncle Wang laugh at the writer?", "options": ["The writer bought the same eraser in March.", "The writer forgot to bring money.", "The writer wanted to eat a snack.", "The writer picked a funny pen."], "answer": "The writer bought the same eraser in March." },
+        { "q": "What gift did Uncle Wang give?", "options": ["A sticker of a cat reading a book.", "A free notebook.", "A blue pen.", "Two hundred dollars."], "answer": "A sticker of a cat reading a book." }
+      ]
+    },
+    {
+      "id": "r0808", "date": "2026-08-08", "title": "Choosing a Club",
+      "text": "Next semester, every student in my grade must join one club. There are so many choices: the music club, the dance club, the science club, the cooking club, and more. I couldn't decide, so I asked my friends.\nJason said, \"Join the basketball club with me! We can practice together.\" Mia said, \"The art club is the best. The teacher is so kind.\" My sister said, \"Cooking club! Then you can make me cookies.\" Ha! Everyone had a different answer.\nLast night, I made a list of things I love: music, drawing, and eating cookies (making them sounds hard). Then I remembered something — my neighbor's brother plays the guitar, and every time I hear it, I stop and listen. My heart already knew the answer.\nThis morning, I wrote my choice on the form: the guitar club. I can't wait for September!",
+      "questions": [
+        { "q": "What must every student do next semester?", "options": ["Join one club.", "Learn the guitar.", "Make cookies.", "Play basketball."], "answer": "Join one club." },
+        { "q": "What did Mia suggest?", "options": ["The art club.", "The basketball club.", "The cooking club.", "The music club."], "answer": "The art club." },
+        { "q": "What club did the writer finally choose?", "options": ["The guitar club.", "The science club.", "The dance club.", "The cooking club."], "answer": "The guitar club." }
+      ]
+    },
+    {
+      "id": "r0809", "date": "2026-08-09", "title": "Best Friends Fight Too",
+      "text": "Kevin and I have been best friends for six years. But last week, we had a big fight.\nIt started with a small thing. I told Kevin a secret about my dream — I want to be a singer. Two days later, another classmate asked me, \"So you want to be a singer?\" I was so angry. Kevin broke his promise!\nFor three days, we didn't talk. It felt terrible. Playing games alone was boring. Lunch tasted bad. On the fourth day, Kevin came to my house with a drink in his hand. \"I'm sorry,\" he said. \"I was wrong. I told Ben because I was proud of you. But a secret is a secret. Please forgive me.\"\nI took the drink and said, \"Next time, just cheer for me quietly.\" We both laughed.\nA real friendship is not about never fighting. It's about saying sorry, forgiving, and still choosing each other after the fight.",
+      "questions": [
+        { "q": "What was the writer's secret?", "options": ["The writer wants to be a singer.", "The writer failed a test.", "The writer likes a classmate.", "The writer broke a game."], "answer": "The writer wants to be a singer." },
+        { "q": "How long did they not talk?", "options": ["Three days.", "Six years.", "One week.", "Two days."], "answer": "Three days." },
+        { "q": "Why did Kevin tell Ben the secret?", "options": ["Because he was proud of his friend.", "Because Ben paid him.", "Because he wanted to hurt his friend.", "Because he forgot it was a secret."], "answer": "Because he was proud of his friend." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "week": 1,
+  "articles": [
+    {
+      "id": "r0706", "date": "2026-07-06", "title": "A New Summer Morning",
+      "text": "Summer vacation is here! Yesterday was the last day of school, and today is the first day of my long vacation. I don't need to get up at six anymore, but I still get up early. Why? Because my mom has a rule: in our house, everyone gets up before eight, even in summer.\nThis morning, I got up at seven thirty. I brushed my teeth, washed my face, and ate breakfast with my family. We had eggs, toast, and milk. Dad said, \"Don't be lazy this summer. Early birds have more time to play!\" I think he is right. When I get up early, the morning feels long and cool, and I can finish my homework before lunch. Then I have the whole afternoon to play. What a great start to summer!",
+      "questions": [
+        { "q": "What is the rule in the writer's house?", "options": ["Everyone gets up before eight.", "Everyone gets up at six.", "No games in the morning.", "Everyone makes their own breakfast."], "answer": "Everyone gets up before eight." },
+        { "q": "What did the writer have for breakfast?", "options": ["Eggs, toast, and milk.", "Rice and soup.", "Noodles and tea.", "Hamburgers and juice."], "answer": "Eggs, toast, and milk." },
+        { "q": "Why does the writer like getting up early?", "options": ["The morning feels long and cool, and there is more time to play.", "Because school starts early.", "Because breakfast is free.", "Because Dad gives money to early birds."], "answer": "The morning feels long and cool, and there is more time to play." }
+      ]
+    },
+    {
+      "id": "r0707", "date": "2026-07-07", "title": "My Favorite Room",
+      "text": "My home is not big, but I love every room in it. The living room has a soft sofa and a big window. The kitchen always smells good because Mom loves cooking. But my favorite room is my bedroom.\nMy bedroom is small. There is a bed, a desk, and a bookshelf. Last month, my room was very messy. There were books on the floor and clothes on the chair. I couldn't find my favorite comic book! So I made a change. Now I clean my room every Sunday. I put my books on the shelf and my clothes in the closet.\nA clean room feels comfortable. Now I like to read and draw in my bedroom. It is small, but it is the best place in the world to me.",
+      "questions": [
+        { "q": "Which room is the writer's favorite?", "options": ["The bedroom.", "The living room.", "The kitchen.", "The bathroom."], "answer": "The bedroom." },
+        { "q": "Why couldn't the writer find the comic book last month?", "options": ["The room was very messy.", "The dog took it.", "It was in the living room.", "Mom put it in the closet."], "answer": "The room was very messy." },
+        { "q": "How often does the writer clean the room now?", "options": ["Every Sunday.", "Every day.", "Once a month.", "Never."], "answer": "Every Sunday." }
+      ]
+    },
+    {
+      "id": "r0708", "date": "2026-07-08", "title": "Helping at Home",
+      "text": "During summer vacation, everyone in my family has a job at home. Mom cooks the meals. Dad washes the dishes after dinner. My little sister feeds the cat and waters the plants. And me? I sweep the floor and take out the trash.\nAt first, I didn't like my jobs. Sweeping the floor is boring, and the trash is smelly! But then Mom told me, \"When we all help a little, nobody has to work a lot.\" Now I understand. Mom is busy, and our help makes her smile.\nLast night, we finished the housework in twenty minutes because everyone helped. After that, we ate watermelon and watched a movie together in the living room. Helping at home is not so bad. It makes our family time longer and happier.",
+      "questions": [
+        { "q": "What are the writer's jobs at home?", "options": ["Sweeping the floor and taking out the trash.", "Cooking meals and washing dishes.", "Feeding the cat and watering plants.", "Cleaning the bathroom and washing clothes."], "answer": "Sweeping the floor and taking out the trash." },
+        { "q": "Who washes the dishes after dinner?", "options": ["Dad.", "Mom.", "The writer.", "The little sister."], "answer": "Dad." },
+        { "q": "Why did the family finish the housework in twenty minutes last night?", "options": ["Because everyone helped.", "Because the house was already clean.", "Because they hired a helper.", "Because they skipped dinner."], "answer": "Because everyone helped." }
+      ]
+    },
+    {
+      "id": "r0709", "date": "2026-07-09", "title": "A Big Family Dinner",
+      "text": "Last Saturday, we had a big family dinner at my grandparents' house. My aunt, my uncle, and my three cousins all came. There were twelve people in the house!\nGrandma cooked all afternoon. She made chicken soup, fish, and fried noodles. My aunt brought her famous dumplings. Everyone says her dumplings are the best in the family. My cousins and I set the table and helped carry the dishes.\nAt dinner, the adults chatted about work and the summer weather. We kids talked about our vacation plans. My cousin Kevin wants to learn swimming. I told him about my plan to read ten books this summer. He laughed and said, \"Ten books? You can do it!\"\nAfter dinner, we ate mango ice together. I love big family dinners. The food is great, but being together is even better.",
+      "questions": [
+        { "q": "Where was the big family dinner?", "options": ["At the grandparents' house.", "At a restaurant.", "At the writer's home.", "At Uncle's apartment."], "answer": "At the grandparents' house." },
+        { "q": "Who made the famous dumplings?", "options": ["The writer's aunt.", "Grandma.", "Mom.", "Cousin Kevin."], "answer": "The writer's aunt." },
+        { "q": "What is the writer's plan for the summer?", "options": ["To read ten books.", "To learn swimming.", "To cook dumplings.", "To visit twelve cities."], "answer": "To read ten books." }
+      ]
+    },
+    {
+      "id": "r0710", "date": "2026-07-10", "title": "Busy Dad, Free Dad",
+      "text": "My dad is a very busy man. On weekdays, he gets up at six, drives to work, and comes home after seven in the evening. Sometimes he still answers phone calls at night. I often see him yawn at dinner.\nBut on the weekend, Dad becomes a different person. He is free! On Saturday mornings, he sleeps until nine. Then he makes a big brunch for us. In the afternoon, he plays basketball with me in the park, and we always buy a cold drink after the game.\nLast night I asked him, \"Dad, are you tired of your busy life?\" He smiled and said, \"I work hard on weekdays, so I can enjoy my free time with you on weekends. That's my favorite habit.\" I hope I can be like Dad — work hard, play hard, and always have time for family.",
+      "questions": [
+        { "q": "What time does Dad get up on weekdays?", "options": ["At six.", "At nine.", "At seven.", "At eight."], "answer": "At six." },
+        { "q": "What does Dad do with the writer on Saturday afternoons?", "options": ["He plays basketball in the park.", "He answers phone calls.", "He drives to work.", "He cooks dinner."], "answer": "He plays basketball in the park." },
+        { "q": "What does Dad think about his busy life?", "options": ["Working hard on weekdays lets him enjoy free time with family on weekends.", "He wants to change his job soon.", "He thinks weekends are boring.", "He is too tired to play with his son."], "answer": "Working hard on weekdays lets him enjoy free time with family on weekends." }
+      ]
+    },
+    {
+      "id": "r0711", "date": "2026-07-11", "title": "A Good Night's Sleep",
+      "text": "Do you sleep well at night? Last week, I didn't. Every night, I played games on my phone in bed. I told myself, \"Just ten more minutes.\" But the ten minutes always became one hour! I went to sleep after midnight and got up at noon. I felt tired all day, and my eyes hurt.\nMom saw the problem. She made a new rule: no phones in the bedroom after ten. At first, I thought the rule was terrible. But something interesting happened. Without my phone, I took a warm shower, read a book, and fell asleep quickly. I slept for nine hours and had a sweet dream.\nNow I feel fresh in the morning. My eyes don't hurt anymore. Good sleep is like a superpower — it makes everything better. Maybe Mom's rules are not so bad after all.",
+      "questions": [
+        { "q": "Why did the writer sleep badly last week?", "options": ["The writer played phone games in bed until after midnight.", "The bed was not comfortable.", "The room was too hot.", "The writer drank too much tea."], "answer": "The writer played phone games in bed until after midnight." },
+        { "q": "What is Mom's new rule?", "options": ["No phones in the bedroom after ten.", "No games on weekends.", "Everyone sleeps at nine.", "No showers at night."], "answer": "No phones in the bedroom after ten." },
+        { "q": "How does the writer feel now?", "options": ["Fresh in the morning.", "Tired all day.", "Angry about the rule.", "Bored without the phone."], "answer": "Fresh in the morning." }
+      ]
+    },
+    {
+      "id": "r0712", "date": "2026-07-12", "title": "Sunday, Our Family Day",
+      "text": "In my family, Sunday is \"Family Day.\" It is our weekly habit. We don't make other plans on Sunday. We just spend the day together.\nThis morning, we got up late and made pancakes together. Dad flipped the pancakes high in the air, and one almost hit the ceiling! We laughed so hard. After breakfast, we cleaned the house together. With four people working, it took only thirty minutes.\nIn the afternoon, we walked to the park near our home. Mom and Dad chatted under a big tree. My sister and I shared an ice cream and fed the fish in the pond. Before dinner, we called Grandma and chatted with her for an hour.\nMy classmates say Family Day sounds boring. I don't think so. A simple day together makes everyone happy. It is the warmest part of my week.",
+      "questions": [
+        { "q": "What is Sunday in the writer's family?", "options": ["Family Day.", "Shopping Day.", "Homework Day.", "Movie Day."], "answer": "Family Day." },
+        { "q": "What happened when Dad flipped the pancakes?", "options": ["One almost hit the ceiling.", "One fell on the floor.", "The cat ate one.", "Dad burned his hand."], "answer": "One almost hit the ceiling." },
+        { "q": "What did the writer and the sister do in the park?", "options": ["They shared an ice cream and fed the fish.", "They played basketball.", "They rode bikes around the pond.", "They slept under a big tree."], "answer": "They shared an ice cream and fed the fish." }
+      ]
+    }
+  ]
+}

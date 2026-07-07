@@ -1,0 +1,61 @@
+{
+  "week": 8,
+  "days": [
+    { "date": "2026-08-24", "words": [
+      { "id": "w8d1a", "en": "city", "kk": "[ˈsɪtɪ]", "pos": "n.", "zh": "城市", "ex": "The city is bright and busy at night.", "ex_zh": "這座城市夜晚明亮又熱鬧。" },
+      { "id": "w8d1b", "en": "station", "kk": "[ˈsteʃən]", "pos": "n.", "zh": "車站", "ex": "The train station is next to the department store.", "ex_zh": "火車站就在百貨公司旁邊。" },
+      { "id": "w8d1c", "en": "museum", "kk": "[mjuˈziəm]", "pos": "n.", "zh": "博物館", "ex": "The museum is free on Wednesdays.", "ex_zh": "博物館星期三免費參觀。" },
+      { "id": "w8d1d", "en": "bank", "kk": "[bæŋk]", "pos": "n.", "zh": "銀行", "ex": "Mom went to the bank this morning.", "ex_zh": "媽媽今天早上去了銀行。" },
+      { "id": "w8d1e", "en": "corner", "kk": "[ˈkɔrnɚ]", "pos": "n.", "zh": "轉角；角落", "ex": "The bakery is on the corner of the street.", "ex_zh": "麵包店在街角。" },
+      { "id": "w8d1f", "en": "building", "kk": "[ˈbɪldɪŋ]", "pos": "n.", "zh": "建築物；大樓", "ex": "That tall building has 101 floors.", "ex_zh": "那棟高樓有 101 層。" }
+    ]},
+    { "date": "2026-08-25", "words": [
+      { "id": "w8d2a", "en": "traffic", "kk": "[ˈtræfɪk]", "pos": "n.", "zh": "交通", "ex": "The traffic is heavy at five o'clock.", "ex_zh": "五點的交通很繁忙。" },
+      { "id": "w8d2b", "en": "subway", "kk": "[ˈsʌbˌwe]", "pos": "n.", "zh": "捷運；地鐵", "ex": "We take the subway to the museum.", "ex_zh": "我們搭捷運去博物館。" },
+      { "id": "w8d2c", "en": "taxi", "kk": "[ˈtæksɪ]", "pos": "n.", "zh": "計程車", "ex": "We took a taxi in the rain.", "ex_zh": "下雨時我們搭了計程車。" },
+      { "id": "w8d2d", "en": "cross", "kk": "[krɔs]", "pos": "v.", "zh": "穿越；過（馬路）", "ex": "Look both ways before you cross the road.", "ex_zh": "過馬路前要看兩邊。" },
+      { "id": "w8d2e", "en": "straight", "kk": "[stret]", "pos": "adv./adj.", "zh": "直直地；直的", "ex": "Go straight for two blocks.", "ex_zh": "直走兩個街區。" },
+      { "id": "w8d2f", "en": "turn", "kk": "[tɝn]", "pos": "v./n.", "zh": "轉彎", "ex": "Turn left at the second traffic light.", "ex_zh": "在第二個紅綠燈左轉。" }
+    ]},
+    { "date": "2026-08-26", "words": [
+      { "id": "w8d3a", "en": "shopping", "kk": "[ˈʃɑpɪŋ]", "pos": "n.", "zh": "購物", "ex": "We went shopping for school clothes.", "ex_zh": "我們去買上學的衣服。" },
+      { "id": "w8d3b", "en": "store", "kk": "[stor]", "pos": "n.", "zh": "商店", "ex": "The shoe store is having a big sale.", "ex_zh": "那間鞋店正在大特價。" },
+      { "id": "w8d3c", "en": "price", "kk": "[praɪs]", "pos": "n.", "zh": "價格", "ex": "The price of this bag is too high.", "ex_zh": "這個包包的價格太高了。" },
+      { "id": "w8d3d", "en": "dollar", "kk": "[ˈdɑlɚ]", "pos": "n.", "zh": "元；美元", "ex": "This notebook costs fifty dollars.", "ex_zh": "這本筆記本五十元。" },
+      { "id": "w8d3e", "en": "wallet", "kk": "[ˈwɑlɪt]", "pos": "n.", "zh": "皮夾；錢包", "ex": "I keep my student card in my wallet.", "ex_zh": "我把學生證放在皮夾裡。" },
+      { "id": "w8d3f", "en": "pay", "kk": "[pe]", "pos": "v.", "zh": "付錢", "ex": "You can pay with your phone here.", "ex_zh": "這裡可以用手機付款。" }
+    ]},
+    { "date": "2026-08-27", "words": [
+      { "id": "w8d4a", "en": "convenient", "kk": "[kənˈvinjənt]", "pos": "adj.", "zh": "方便的", "ex": "Living in the city is very convenient.", "ex_zh": "住在城市裡非常方便。" },
+      { "id": "w8d4b", "en": "machine", "kk": "[məˈʃin]", "pos": "n.", "zh": "機器", "ex": "You can buy drinks from the machine.", "ex_zh": "你可以在販賣機買飲料。" },
+      { "id": "w8d4c", "en": "elevator", "kk": "[ˈɛləˌvetɚ]", "pos": "n.", "zh": "電梯", "ex": "Take the elevator to the tenth floor.", "ex_zh": "搭電梯到十樓。" },
+      { "id": "w8d4d", "en": "crowded", "kk": "[ˈkraʊdɪd]", "pos": "adj.", "zh": "擁擠的", "ex": "The subway is crowded in the morning.", "ex_zh": "早上的捷運很擁擠。" },
+      { "id": "w8d4e", "en": "noisy", "kk": "[ˈnɔɪzɪ]", "pos": "adj.", "zh": "吵鬧的", "ex": "The night market is noisy but fun.", "ex_zh": "夜市很吵但很好玩。" },
+      { "id": "w8d4f", "en": "quiet", "kk": "[ˈkwaɪət]", "pos": "adj.", "zh": "安靜的", "ex": "Please be quiet in the library.", "ex_zh": "在圖書館請保持安靜。" }
+    ]},
+    { "date": "2026-08-28", "words": [
+      { "id": "w8d5a", "en": "job", "kk": "[dʒɑb]", "pos": "n.", "zh": "工作；職業", "ex": "What job do you want in the future?", "ex_zh": "你未來想做什麼工作？" },
+      { "id": "w8d5b", "en": "nurse", "kk": "[nɝs]", "pos": "n.", "zh": "護理師", "ex": "The nurse took care of me kindly.", "ex_zh": "護理師親切地照顧我。" },
+      { "id": "w8d5c", "en": "police officer", "kk": "[pəˈlis ˈɔfəsɚ]", "pos": "n.", "zh": "警察", "ex": "The police officer helped the lost child.", "ex_zh": "警察幫助了迷路的孩子。" },
+      { "id": "w8d5d", "en": "engineer", "kk": "[ˌɛndʒəˈnɪr]", "pos": "n.", "zh": "工程師", "ex": "My aunt is a computer engineer.", "ex_zh": "我阿姨是電腦工程師。" },
+      { "id": "w8d5e", "en": "reporter", "kk": "[rɪˈportɚ]", "pos": "n.", "zh": "記者", "ex": "The reporter asked many questions.", "ex_zh": "記者問了很多問題。" },
+      { "id": "w8d5f", "en": "chef", "kk": "[ʃɛf]", "pos": "n.", "zh": "主廚；廚師", "ex": "The chef made a beautiful cake.", "ex_zh": "主廚做了一個漂亮的蛋糕。" }
+    ]},
+    { "date": "2026-08-29", "words": [
+      { "id": "w8d6a", "en": "future", "kk": "[ˈfjutʃɚ]", "pos": "n./adj.", "zh": "未來", "ex": "I want to be a doctor in the future.", "ex_zh": "我未來想當醫生。" },
+      { "id": "w8d6b", "en": "dream", "kk": "[drim]", "pos": "n./v.", "zh": "夢想", "ex": "Follow your dream and work hard.", "ex_zh": "追隨你的夢想並努力。" },
+      { "id": "w8d6c", "en": "hope", "kk": "[hop]", "pos": "v./n.", "zh": "希望", "ex": "I hope to see you again soon.", "ex_zh": "我希望很快再見到你。" },
+      { "id": "w8d6d", "en": "goal", "kk": "[ɡol]", "pos": "n.", "zh": "目標", "ex": "My goal is to read twenty books this year.", "ex_zh": "我的目標是今年讀二十本書。" },
+      { "id": "w8d6e", "en": "believe", "kk": "[bɪˈliv]", "pos": "v.", "zh": "相信", "ex": "I believe you can do it.", "ex_zh": "我相信你做得到。" },
+      { "id": "w8d6f", "en": "possible", "kk": "[ˈpɑsəbl̩]", "pos": "adj.", "zh": "可能的", "ex": "With hard work, everything is possible.", "ex_zh": "只要努力，一切都有可能。" }
+    ]},
+    { "date": "2026-08-30", "words": [
+      { "id": "w8d7a", "en": "semester", "kk": "[səˈmɛstɚ]", "pos": "n.", "zh": "學期", "ex": "The new semester starts tomorrow.", "ex_zh": "新學期明天開始。" },
+      { "id": "w8d7b", "en": "ready", "kk": "[ˈrɛdɪ]", "pos": "adj.", "zh": "準備好的", "ex": "My schoolbag is packed, and I am ready.", "ex_zh": "書包收好了，我準備好了。" },
+      { "id": "w8d7c", "en": "review", "kk": "[rɪˈvju]", "pos": "v./n.", "zh": "複習", "ex": "I review my notes before the test.", "ex_zh": "考試前我複習筆記。" },
+      { "id": "w8d7d", "en": "schedule", "kk": "[ˈskɛdʒʊl]", "pos": "n.", "zh": "時間表；課表", "ex": "The new class schedule looks busy.", "ex_zh": "新課表看起來很忙。" },
+      { "id": "w8d7e", "en": "nervous", "kk": "[ˈnɝvəs]", "pos": "adj.", "zh": "緊張的", "ex": "I feel a little nervous about the first day.", "ex_zh": "開學第一天我有點緊張。" },
+      { "id": "w8d7f", "en": "excited", "kk": "[ɪkˈsaɪtɪd]", "pos": "adj.", "zh": "興奮的", "ex": "I am excited to see my friends again.", "ex_zh": "我很興奮能再見到朋友。" }
+    ]}
+  ]
+}

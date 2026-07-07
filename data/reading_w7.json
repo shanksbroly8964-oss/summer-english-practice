@@ -1,0 +1,68 @@
+{
+  "week": 7,
+  "articles": [
+    {
+      "id": "r0817", "date": "2026-08-17", "title": "The Forest Walk",
+      "text": "This morning, Dad took my sister and me to a forest trail in the mountains. \"Today, no music, no phones,\" he said. \"Let's use our ears and eyes.\"\nThe forest was cool and quiet — but not really quiet. When we stopped talking, we heard everything: birds singing high in the trees, a stream running somewhere below, and the wind moving through the leaves like a soft song.\nWe played a game: who can find the most living things? My sister found a line of ants carrying a big leaf. I found a spider web with rain drops on it, shining like a necklace. Dad won — he found a green snake sleeping on a branch! We watched it quietly from far away and let it sleep.\nAfter two hours, we walked out of the forest. My legs were tired, but my head felt clean and fresh. The forest is like a big green home, and we were lucky visitors.",
+      "questions": [
+        { "q": "What was Dad's rule for the walk?", "options": ["No music and no phones.", "No talking at all.", "No eating in the forest.", "No photos."], "answer": "No music and no phones." },
+        { "q": "What did the writer find in the game?", "options": ["A spider web shining with rain drops.", "A line of ants.", "A green snake.", "A bird's nest."], "answer": "A spider web shining with rain drops." },
+        { "q": "What did they do when they saw the snake?", "options": ["They watched it quietly from far away.", "They ran out of the forest.", "They took it home.", "They threw rocks at it."], "answer": "They watched it quietly from far away." }
+      ]
+    },
+    {
+      "id": "r0818", "date": "2026-08-18", "title": "Monkeys on the Mountain",
+      "text": "Last Sunday, we hiked a mountain in Kaohsiung. It is famous for one thing: monkeys. Before we started, a sign said in big letters: \"Do not feed the monkeys. Keep food in your bags!\"\nOn the trail, we saw monkeys everywhere — on trees, on rocks, even on the handrail. A baby monkey rode on its mother's back. It was so cute that everyone stopped to watch.\nThen, a funny but scary thing happened. A man in front of us took out a bag of bread. In one second, a big monkey jumped down, grabbed the whole bag, and climbed up a tree! The man stood there with his mouth open. The monkey ate the bread and looked at him, like it was saying, \"Thanks for lunch!\"\nA park worker told us, \"When people feed monkeys, the monkeys stop finding food in nature. Then they take food from people. It's bad for them and for us.\" Now I understand: loving wild animals means keeping a good distance.",
+      "questions": [
+        { "q": "What did the sign say?", "options": ["Do not feed the monkeys; keep food in your bags.", "Watch out for snakes.", "Do not climb the trees.", "The trail closes at five."], "answer": "Do not feed the monkeys; keep food in your bags." },
+        { "q": "What happened to the man's bread?", "options": ["A big monkey grabbed the whole bag and climbed up a tree.", "He shared it with everyone.", "A baby monkey ate it slowly.", "It fell into the river."], "answer": "A big monkey grabbed the whole bag and climbed up a tree." },
+        { "q": "Why is feeding monkeys bad?", "options": ["They stop finding food in nature and start taking food from people.", "They get too fat to climb.", "Bread makes them sleepy.", "They will follow people home."], "answer": "They stop finding food in nature and start taking food from people." }
+      ]
+    },
+    {
+      "id": "r0819", "date": "2026-08-19", "title": "The Firefly Night",
+      "text": "My aunt lives in a small village near the mountains. She called us last week: \"The fireflies are dancing these days. Come and see!\" So last night, we drove to her village.\nAfter dinner, Aunt gave us a rule: \"No flashlights, no phone lights. Fireflies talk to each other with light. Our lights confuse them.\" We walked slowly on the dark path beside the stream, holding hands.\nThen we saw them. First one, then ten, then hundreds — tiny yellow-green lights floating in the dark, like stars falling into the grass. My sister whispered, \"It's magic.\" Nobody wanted to talk loudly.\nAunt told us fireflies only live in clean places. \"Twenty years ago, this stream was dirty, and the fireflies disappeared. The village worked together to clean it, and after many years, they came back.\"\nOn the way home, I thought: the fireflies didn't just come back by themselves. People brought them back with care. That little light is a big lesson.",
+      "questions": [
+        { "q": "What was Aunt's rule for watching fireflies?", "options": ["No flashlights and no phone lights.", "No walking near the stream.", "No talking at all.", "No more than ten people."], "answer": "No flashlights and no phone lights." },
+        { "q": "Why do fireflies only live in some places?", "options": ["They only live in clean places.", "They are afraid of mountains.", "They need very hot weather.", "They only live near cities."], "answer": "They only live in clean places." },
+        { "q": "How did the fireflies come back to the village?", "options": ["The village worked together to clean the stream.", "The government bought new fireflies.", "They flew from another country.", "Nobody knows why."], "answer": "The village worked together to clean the stream." }
+      ]
+    },
+    {
+      "id": "r0820", "date": "2026-08-20", "title": "The Sea Turtle's Trash Dinner",
+      "text": "Yesterday, I watched an ocean program with my family. It was about sea turtles, and one part made me almost cry.\nA sea turtle was sick on a beach. Doctors helped it and found the problem: there was plastic inside its stomach — a plastic bag, a straw, and pieces of a bottle. To a turtle, a plastic bag in the water looks just like a jellyfish, its favorite food. It can't tell the difference.\nThe good news? After two months of care, the turtle got healthy, and the team sent it back to the sea. Everyone on the beach clapped as it swam away.\nThe program said: every year, tons of plastic go into the ocean. But it also showed hope. Some beaches are now cleaned by volunteers every month, and more people bring their own bags and bottles.\nMy sister and I made a promise last night: no more plastic straws for us. It is a small thing. But if a million kids do one small thing, that is a big thing.",
+      "questions": [
+        { "q": "What did the doctors find inside the turtle?", "options": ["Plastic — a bag, a straw, and pieces of a bottle.", "A jellyfish.", "Small fish bones.", "Sand and rocks."], "answer": "Plastic — a bag, a straw, and pieces of a bottle." },
+        { "q": "Why do turtles eat plastic bags?", "options": ["A plastic bag in the water looks like a jellyfish.", "Plastic smells like fruit.", "They are always hungry.", "They like the color white."], "answer": "A plastic bag in the water looks like a jellyfish." },
+        { "q": "What promise did the writer and the sister make?", "options": ["No more plastic straws.", "To become sea doctors.", "To swim with turtles.", "To watch more ocean programs."], "answer": "No more plastic straws." }
+      ]
+    },
+    {
+      "id": "r0821", "date": "2026-08-21", "title": "Beach Cleanup Day",
+      "text": "This morning, my family joined a beach cleanup near the harbor. About fifty people came — students, families, and even a grandpa with his dog.\nThe leader gave us gloves and bags and said, \"Pick up trash, but leave the shells and crabs. They live here; we are just helpers.\"\nIn two hours, my bag was full. I picked up bottles, a broken toy, plastic bags, and so many straws. My sister found a shoe! The strangest thing was a TV remote. How did a remote get to the beach? The sea holds many strange stories.\nAt the end, we put all the bags together — thirty-two big bags of trash from one small beach. The leader said, \"Look at this mountain of trash. It didn't walk here by itself. And it won't leave by itself either.\"\nMy arms hurt, and my shoes are full of sand. But when I looked back at the clean beach, with little crabs running near the water, I felt something warm. We gave the beach back to them, at least for today.",
+      "questions": [
+        { "q": "What was the leader's rule?", "options": ["Pick up trash, but leave the shells and crabs.", "Only pick up bottles.", "Work alone quietly.", "Finish in one hour."], "answer": "Pick up trash, but leave the shells and crabs." },
+        { "q": "What was the strangest thing the writer's family found?", "options": ["A TV remote.", "A shoe.", "A broken toy.", "A straw."], "answer": "A TV remote." },
+        { "q": "How many bags of trash did everyone collect?", "options": ["Thirty-two big bags.", "Fifty big bags.", "Two bags.", "One hundred bags."], "answer": "Thirty-two big bags." }
+      ]
+    },
+    {
+      "id": "r0822", "date": "2026-08-22", "title": "Watching the Stars",
+      "text": "Last night, we stayed at Grandpa's house in the countryside. After dinner, Grandpa turned off the yard lights and put three chairs on the grass. \"Tonight's TV program,\" he smiled and pointed at the sky, \"is up there.\"\nI looked up and couldn't say a word. The sky was full of stars — hundreds, maybe thousands. In the city, I usually see five or six stars. Here, the sky looked like someone spilled a box of diamonds.\nGrandpa knows the stars well. He showed us a group of stars that looks like a spoon. \"Sailors used the stars as their map at night,\" he said. We also saw one star that moved fast in a straight line. \"That's not a star,\" Grandpa laughed. \"That's a satellite — a machine people put in the sky.\"\nWe lay on the grass until midnight. I made a wish on the brightest star. I won't tell you my wish, but I will tell you this: the best screen in the world doesn't need Wi-Fi.",
+      "questions": [
+        { "q": "What was Grandpa's \"TV program\"?", "options": ["The starry night sky.", "A space movie.", "A fireworks show.", "A program about sailors."], "answer": "The starry night sky." },
+        { "q": "What did the group of stars look like?", "options": ["A spoon.", "A diamond.", "A boat.", "A map."], "answer": "A spoon." },
+        { "q": "What was the fast-moving \"star\"?", "options": ["A satellite.", "A falling star.", "An airplane.", "A firefly."], "answer": "A satellite." }
+      ]
+    },
+    {
+      "id": "r0823", "date": "2026-08-23", "title": "A Day on Uncle's Farm",
+      "text": "My uncle is a farmer. He has a small farm with rice fields, ten cows, and many chickens. Today, my sister and I were his little helpers for one day.\nOur first job was at six in the morning: feeding the chickens. The chickens ran to us like crazy fans at a concert! Next, we helped Uncle move fresh grass for the cows. A brown cow licked my hand. Her tongue was rough and warm, and I screamed — then laughed.\nAt noon, Aunt cooked lunch with vegetables from the farm. Rice, eggs, and soup — everything was fresh. \"City kids think rice comes from the supermarket,\" Uncle joked. \"Now you know it comes from months of hard work.\"\nIn the afternoon, we walked along the green fields and caught grasshoppers. Before we left, Uncle gave us a box of eggs. \"Wages for my workers,\" he said.\nFarming is hard work — my back still hurts. But now, every bowl of rice looks different to me. Thank you, farmers!",
+      "questions": [
+        { "q": "What was the first job of the day?", "options": ["Feeding the chickens.", "Moving grass for the cows.", "Cooking lunch.", "Catching grasshoppers."], "answer": "Feeding the chickens." },
+        { "q": "What did Uncle joke about city kids?", "options": ["They think rice comes from the supermarket.", "They can't get up early.", "They are afraid of cows.", "They eat too much."], "answer": "They think rice comes from the supermarket." },
+        { "q": "What did Uncle give them before they left?", "options": ["A box of eggs.", "A bag of rice.", "Fresh vegetables.", "A baby chicken."], "answer": "A box of eggs." }
+      ]
+    }
+  ]
+}

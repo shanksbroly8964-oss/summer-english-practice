@@ -1,0 +1,338 @@
+[
+  {
+    "id": "g1", "week": 1, "name": "be 動詞現在式（am / is / are）",
+    "pattern": "主詞 + am / is / are + 名詞或形容詞",
+    "zh": "be 動詞用來說明「某人／某物 是 什麼」或「處於什麼狀態」。I 配 am、你和複數配 are、單數第三人稱配 is。",
+    "points": [
+      "I am（I'm）／ You are（You're）／ He, She, It is",
+      "We are ／ They are ／ 複數名詞 + are",
+      "否定：am not / is not (isn't) / are not (aren't)",
+      "問句：把 be 動詞移到句首 → Are you tired?"
+    ],
+    "examples": [
+      { "en": "I am a junior high school student.", "zh": "我是一個國中生。" },
+      { "en": "My brother is very tall.", "zh": "我的哥哥非常高。" },
+      { "en": "They are in the kitchen now.", "zh": "他們現在在廚房裡。" },
+      { "en": "Are you hungry? Yes, I am.", "zh": "你餓了嗎？是的，我餓了。" }
+    ],
+    "quiz": [
+      { "q": "My sister ___ a nurse at a big hospital.", "options": ["is", "am", "are", "be"], "answer": "is" },
+      { "q": "Tom and I ___ good friends.", "options": ["are", "is", "am", "be"], "answer": "are" }
+    ]
+  },
+  {
+    "id": "g2", "week": 1, "name": "現在簡單式（一般動詞）",
+    "pattern": "主詞 + 動詞原形（第三人稱單數 + s / es）",
+    "zh": "現在簡單式用來說「習慣、每天做的事、事實」。主詞是 he / she / it 時，動詞要加 s 或 es。",
+    "points": [
+      "I get up at six. → He gets up at six.（加 s）",
+      "watch → watches、go → goes、study → studies",
+      "否定：don't / doesn't + 動詞原形",
+      "問句：Do / Does + 主詞 + 動詞原形？"
+    ],
+    "examples": [
+      { "en": "I brush my teeth every morning.", "zh": "我每天早上刷牙。" },
+      { "en": "My mother cooks dinner for us.", "zh": "我媽媽為我們煮晚餐。" },
+      { "en": "He doesn't like coffee.", "zh": "他不喜歡咖啡。" },
+      { "en": "Does she walk to school? Yes, she does.", "zh": "她走路上學嗎？是的。" }
+    ],
+    "quiz": [
+      { "q": "My father ___ the newspaper every morning.", "options": ["reads", "read", "reading", "is read"], "answer": "reads" },
+      { "q": "___ your sister like ice cream?", "options": ["Does", "Do", "Is", "Are"], "answer": "Does" }
+    ]
+  },
+  {
+    "id": "g3", "week": 2, "name": "現在進行式",
+    "pattern": "主詞 + am / is / are + V-ing",
+    "zh": "現在進行式用來說「現在正在做的事」。用 be 動詞加上動詞 ing。常和 now（現在）、right now（此刻）一起用。",
+    "points": [
+      "I am eating. / She is cooking. / They are talking.",
+      "ing 變化：make → making、run → running、swim → swimming",
+      "否定：is not V-ing / are not V-ing",
+      "問句：Is he sleeping? / What are you doing?"
+    ],
+    "examples": [
+      { "en": "I am eating breakfast right now.", "zh": "我現在正在吃早餐。" },
+      { "en": "Dad is making beef noodles in the kitchen.", "zh": "爸爸正在廚房煮牛肉麵。" },
+      { "en": "The students are having lunch together.", "zh": "學生們正在一起吃午餐。" },
+      { "en": "What are you cooking? It smells great!", "zh": "你在煮什麼？聞起來好香！" }
+    ],
+    "quiz": [
+      { "q": "Look! The baby ___ right now.", "options": ["is sleeping", "sleeps", "sleep", "sleeping"], "answer": "is sleeping" },
+      { "q": "We ___ dinner at a night market now.", "options": ["are having", "have", "has", "is having"], "answer": "are having" }
+    ]
+  },
+  {
+    "id": "g4", "week": 2, "name": "名詞複數與 There is / There are",
+    "pattern": "There is + 單數 ／ There are + 複數名詞",
+    "zh": "「There is / There are」表示「有…」。單數或不可數用 There is，複數用 There are。名詞複數多加 s，也有特殊變化。",
+    "points": [
+      "複數：apple → apples、box → boxes、baby → babies",
+      "特殊：man → men、child → children、fish → fish",
+      "There is a cup on the table.（一個）",
+      "There are two eggs in the bowl.（兩個以上）"
+    ],
+    "examples": [
+      { "en": "There is a bowl of soup on the table.", "zh": "桌上有一碗湯。" },
+      { "en": "There are many restaurants near my home.", "zh": "我家附近有很多餐廳。" },
+      { "en": "There are three tomatoes in the fridge.", "zh": "冰箱裡有三顆番茄。" },
+      { "en": "Is there a night market nearby? Yes, there is.", "zh": "附近有夜市嗎？有的。" }
+    ],
+    "quiz": [
+      { "q": "There ___ many people in the restaurant.", "options": ["are", "is", "be", "am"], "answer": "are" },
+      { "q": "There ___ a big cake on the table.", "options": ["is", "are", "have", "has"], "answer": "is" }
+    ]
+  },
+  {
+    "id": "g5", "week": 3, "name": "過去簡單式（be 動詞與規則動詞）",
+    "pattern": "主詞 + was / were ／ 動詞 + ed",
+    "zh": "過去式用來說「已經發生的事」。be 動詞變成 was / were；規則動詞在字尾加 ed。常和 yesterday、last week 一起用。",
+    "points": [
+      "am / is → was；are → were",
+      "規則變化：play → played、visit → visited、study → studied",
+      "否定：didn't + 動詞原形（didn't visited ✗）",
+      "問句：Did you + 動詞原形？ / Were you at home?"
+    ],
+    "examples": [
+      { "en": "The weather was sunny yesterday.", "zh": "昨天天氣晴朗。" },
+      { "en": "We visited Taroko Gorge last summer.", "zh": "我們去年夏天遊覽了太魯閣。" },
+      { "en": "I stayed at a hotel near the beach.", "zh": "我住在海邊附近的旅館。" },
+      { "en": "Did you enjoy the trip? Yes, I did.", "zh": "你玩得開心嗎？是的。" }
+    ],
+    "quiz": [
+      { "q": "It ___ rainy last night, so we stayed home.", "options": ["was", "is", "were", "are"], "answer": "was" },
+      { "q": "They ___ their grandparents last weekend.", "options": ["visited", "visit", "visits", "visiting"], "answer": "visited" }
+    ]
+  },
+  {
+    "id": "g6", "week": 3, "name": "過去簡單式（不規則動詞）",
+    "pattern": "主詞 + 不規則動詞過去式（go → went…）",
+    "zh": "很多常用動詞的過去式是「不規則變化」，不能加 ed，要一個一個記起來。",
+    "points": [
+      "go → went、come → came、see → saw、eat → ate",
+      "have → had、take → took、buy → bought、get → got",
+      "make → made、ride → rode、swim → swam、fly → flew",
+      "否定和問句一樣用 did：Did you go...? / I didn't go."
+    ],
+    "examples": [
+      { "en": "We went to Kenting by train.", "zh": "我們搭火車去墾丁。" },
+      { "en": "I saw a beautiful rainbow after the rain.", "zh": "雨後我看到一道美麗的彩虹。" },
+      { "en": "She bought some gifts for her family.", "zh": "她買了一些禮物給家人。" },
+      { "en": "We ate seafood at the harbor last night.", "zh": "我們昨晚在漁港吃海鮮。" }
+    ],
+    "quiz": [
+      { "q": "Last Sunday, we ___ to the beach and swam.", "options": ["went", "go", "goed", "gone"], "answer": "went" },
+      { "q": "He ___ a lot of photos on the trip.", "options": ["took", "take", "taked", "takes"], "answer": "took" }
+    ]
+  },
+  {
+    "id": "g7", "week": 4, "name": "未來式（will / be going to）",
+    "pattern": "主詞 + will + 原形 ／ be going to + 原形",
+    "zh": "說「未來要做的事」用 will 或 be going to。be going to 比較常用在「已經計畫好」的事。",
+    "points": [
+      "I will join the basketball team.（我會加入籃球隊）",
+      "She is going to run a marathon.（她打算跑馬拉松）",
+      "否定：won't（will not）／ isn't going to",
+      "問句：Will you...? / Are you going to...?"
+    ],
+    "examples": [
+      { "en": "I will exercise more this summer.", "zh": "這個暑假我會多運動。" },
+      { "en": "We are going to play badminton tomorrow.", "zh": "我們明天要去打羽球。" },
+      { "en": "He won't give up the game.", "zh": "他不會放棄這場比賽。" },
+      { "en": "Are you going to join the swimming class?", "zh": "你要參加游泳課嗎？" }
+    ],
+    "quiz": [
+      { "q": "I ___ play basketball with my cousin tomorrow.", "options": ["will", "did", "was", "am"], "answer": "will" },
+      { "q": "She is ___ to run in the park this evening.", "options": ["going", "go", "goes", "went"], "answer": "going" }
+    ]
+  },
+  {
+    "id": "g8", "week": 4, "name": "助動詞 can / must / should",
+    "pattern": "主詞 + can / must / should + 動詞原形",
+    "zh": "助動詞後面一定接「動詞原形」。can 表示能力（會、可以）、must 表示必須、should 表示應該（建議）。",
+    "points": [
+      "can：He can swim very fast.（能力）",
+      "must：You must wear a helmet.（規定、必須）",
+      "should：You should sleep early.（建議、應該）",
+      "否定：can't / mustn't / shouldn't + 原形"
+    ],
+    "examples": [
+      { "en": "I can ride a bike with no hands.", "zh": "我可以放開雙手騎腳踏車。" },
+      { "en": "You must drink enough water after exercise.", "zh": "運動後你必須喝足夠的水。" },
+      { "en": "You should stretch before you run.", "zh": "跑步前你應該先伸展。" },
+      { "en": "We shouldn't eat too much fast food.", "zh": "我們不應該吃太多速食。" }
+    ],
+    "quiz": [
+      { "q": "You look tired. You ___ take a rest.", "options": ["should", "shouldn't", "can't", "mustn't"], "answer": "should" },
+      { "q": "My little sister can ___ very well.", "options": ["dance", "dances", "danced", "dancing"], "answer": "dance" }
+    ]
+  },
+  {
+    "id": "g9", "week": 5, "name": "形容詞比較級",
+    "pattern": "A + be 動詞 + 比較級 + than + B",
+    "zh": "比較兩個人事物用「比較級 + than」。短的形容詞加 er，長的形容詞前面加 more。",
+    "points": [
+      "tall → taller、big → bigger、easy → easier",
+      "長形容詞：more beautiful、more difficult",
+      "不規則：good → better、bad → worse",
+      "Math is more difficult than English.（比較長的形容詞）"
+    ],
+    "examples": [
+      { "en": "My best friend is taller than me.", "zh": "我最好的朋友比我高。" },
+      { "en": "This test is easier than the last one.", "zh": "這次考試比上一次簡單。" },
+      { "en": "Her English is better than mine.", "zh": "她的英文比我的好。" },
+      { "en": "Science is more interesting than history to me.", "zh": "對我來說自然比歷史有趣。" }
+    ],
+    "quiz": [
+      { "q": "My brother is ___ than my father now.", "options": ["taller", "tall", "tallest", "more tall"], "answer": "taller" },
+      { "q": "This book is ___ interesting than that one.", "options": ["more", "most", "much", "many"], "answer": "more" }
+    ]
+  },
+  {
+    "id": "g10", "week": 5, "name": "形容詞最高級",
+    "pattern": "the + 最高級（+ in / of ...）",
+    "zh": "三個以上比較，「最…的」用最高級，前面要加 the。短形容詞加 est，長形容詞加 the most。",
+    "points": [
+      "tall → the tallest、big → the biggest、happy → the happiest",
+      "長形容詞：the most popular、the most important",
+      "不規則：good → the best、bad → the worst",
+      "in my class（在班上）/ of the three（三個之中）"
+    ],
+    "examples": [
+      { "en": "Amy is the tallest student in our class.", "zh": "艾咪是我們班最高的學生。" },
+      { "en": "This is the most popular club at school.", "zh": "這是學校最受歡迎的社團。" },
+      { "en": "Friday is the best day of the week.", "zh": "星期五是一週中最棒的一天。" },
+      { "en": "That was the worst movie of the year.", "zh": "那是年度最糟的電影。" }
+    ],
+    "quiz": [
+      { "q": "Summer is ___ season of the year in Taiwan.", "options": ["the hottest", "hotter", "hot", "the most hot"], "answer": "the hottest" },
+      { "q": "He is ___ popular singer in my country.", "options": ["the most", "the more", "most", "more"], "answer": "the most" }
+    ]
+  },
+  {
+    "id": "g11", "week": 6, "name": "頻率副詞（always / usually / sometimes / never）",
+    "pattern": "主詞 +（頻率副詞）+ 一般動詞 ／ be 動詞 + 頻率副詞",
+    "zh": "頻率副詞說明「多常做一件事」：always（總是）→ usually（通常）→ often（常常）→ sometimes（有時）→ never（從不）。位置在一般動詞前、be 動詞後。",
+    "points": [
+      "I always check my phone after school.（一般動詞前）",
+      "She is never late.（be 動詞後）",
+      "How often do you play video games?（問頻率）",
+      "once a week（一週一次）/ twice a day（一天兩次）"
+    ],
+    "examples": [
+      { "en": "I usually watch videos after dinner.", "zh": "我通常在晚餐後看影片。" },
+      { "en": "He never plays computer games on school nights.", "zh": "上學日晚上他從不玩電腦遊戲。" },
+      { "en": "How often do you use the Internet? Every day.", "zh": "你多常上網？每天。" },
+      { "en": "She sometimes listens to music online.", "zh": "她有時會在線上聽音樂。" }
+    ],
+    "quiz": [
+      { "q": "He ___ late for class. He is a good student.", "options": ["is never", "never is", "is often", "often"], "answer": "is never" },
+      { "q": "___ do you play online games? Twice a week.", "options": ["How often", "How much", "How old", "How long"], "answer": "How often" }
+    ]
+  },
+  {
+    "id": "g12", "week": 6, "name": "連接詞 and / but / or / because / so",
+    "pattern": "句子 A + 連接詞 + 句子 B",
+    "zh": "連接詞把兩個想法接在一起：and（而且）、but（但是）、or（或者）、because（因為）、so（所以）。",
+    "points": [
+      "and：I like music, and I like movies.",
+      "but：The phone is nice, but it is too expensive.",
+      "because + 原因：I stayed home because it rained.",
+      "so + 結果：It rained, so I stayed home."
+    ],
+    "examples": [
+      { "en": "I finished my homework, so I can play games now.", "zh": "我寫完作業了，所以現在可以玩遊戲。" },
+      { "en": "She likes this app because it is easy to use.", "zh": "她喜歡這個 App，因為它很好用。" },
+      { "en": "Do you want to watch a movie or play video games?", "zh": "你想看電影還是打電動？" },
+      { "en": "The game is fun, but I only play on weekends.", "zh": "這遊戲很好玩，但我只在週末玩。" }
+    ],
+    "quiz": [
+      { "q": "I was tired, ___ I went to bed early.", "options": ["so", "or", "but", "because"], "answer": "so" },
+      { "q": "He can't buy the game ___ he doesn't have enough money.", "options": ["because", "so", "or", "and"], "answer": "because" }
+    ]
+  },
+  {
+    "id": "g13", "week": 7, "name": "不定詞與動名詞（to V / V-ing）",
+    "pattern": "like / love / enjoy + V-ing ／ want / hope + to V",
+    "zh": "有些動詞後面接 to + 原形（不定詞），有些接 V-ing（動名詞）。like / love 兩種都可以。",
+    "points": [
+      "want / hope / decide + to V：I want to see pandas.",
+      "enjoy / finish / keep + V-ing：He enjoys hiking.",
+      "like / love / start：兩種都可以",
+      "V-ing 也能當主詞：Swimming is good exercise."
+    ],
+    "examples": [
+      { "en": "I want to visit the zoo this weekend.", "zh": "這週末我想去動物園。" },
+      { "en": "She enjoys watching birds in the park.", "zh": "她喜歡在公園賞鳥。" },
+      { "en": "We decided to climb the mountain early.", "zh": "我們決定一早去爬山。" },
+      { "en": "Hiking in the forest makes me happy.", "zh": "在森林裡健行讓我很快樂。" }
+    ],
+    "quiz": [
+      { "q": "My cat enjoys ___ by the window.", "options": ["sleeping", "to sleep", "sleep", "sleeps"], "answer": "sleeping" },
+      { "q": "They hope ___ whales on the boat trip.", "options": ["to see", "seeing", "see", "saw"], "answer": "to see" }
+    ]
+  },
+  {
+    "id": "g14", "week": 7, "name": "介係詞（時間與地點）",
+    "pattern": "in / on / at + 時間或地點",
+    "zh": "介係詞小小的卻很重要：at 用在時刻和小地點、on 用在日期和表面、in 用在月份年份和大空間。",
+    "points": [
+      "時間：at 7:00、on Monday / on July 4、in summer / in 2026",
+      "地點：at the bus stop、on the table、in the box / in Taipei",
+      "in front of（在…前面）、next to（在…旁邊）、under（在…下面）",
+      "between A and B（在 A 和 B 之間）"
+    ],
+    "examples": [
+      { "en": "The bird sings in the tree every morning.", "zh": "那隻鳥每天早上在樹上唱歌。" },
+      { "en": "We saw fireflies at night in the mountains.", "zh": "我們晚上在山裡看到螢火蟲。" },
+      { "en": "The cat is sleeping under the chair.", "zh": "貓正睡在椅子下面。" },
+      { "en": "The park is next to the river.", "zh": "公園就在河的旁邊。" }
+    ],
+    "quiz": [
+      { "q": "Many animals sleep ___ the day and hunt at night.", "options": ["during", "on", "at", "under"], "answer": "during" },
+      { "q": "There is a bird's nest ___ the tall tree.", "options": ["in", "at", "on top", "between"], "answer": "in" }
+    ]
+  },
+  {
+    "id": "g15", "week": 8, "name": "wh- 疑問句（What / Where / When / Who / Why / How）",
+    "pattern": "疑問詞 + be 動詞 / do / does / did + 主詞 ...？",
+    "zh": "想問「什麼、哪裡、何時、誰、為什麼、如何」就用 wh- 疑問詞開頭，後面接問句的語序。",
+    "points": [
+      "What do you do on weekends?（問事情）",
+      "Where is the MRT station?（問地點）",
+      "When does the store open?（問時間）",
+      "Why / How：Why are you late? / How do you go to school?"
+    ],
+    "examples": [
+      { "en": "Where is the nearest convenience store?", "zh": "最近的便利商店在哪裡？" },
+      { "en": "When does the museum open on Sunday?", "zh": "博物館星期日幾點開門？" },
+      { "en": "How do you go to the city library?", "zh": "你怎麼去市立圖書館？" },
+      { "en": "Why do you like living in this city?", "zh": "你為什麼喜歡住在這個城市？" }
+    ],
+    "quiz": [
+      { "q": "___ does the bus leave? At nine thirty.", "options": ["When", "Where", "Who", "What"], "answer": "When" },
+      { "q": "___ is your favorite place in the city? The park.", "options": ["What", "When", "Why", "How"], "answer": "What" }
+    ]
+  },
+  {
+    "id": "g16", "week": 8, "name": "現在完成式初探（have / has + p.p.）",
+    "pattern": "主詞 + have / has + 過去分詞（p.p.）",
+    "zh": "現在完成式表示「已經做過、曾經有過的經驗」。he / she / it 用 has，其他用 have。動詞要用過去分詞。",
+    "points": [
+      "I have finished my homework.（已經完成）",
+      "She has visited Japan twice.（經驗，去過兩次）",
+      "常見 p.p.：see → seen、eat → eaten、be → been、do → done",
+      "ever / never：Have you ever seen snow? I have never seen it."
+    ],
+    "examples": [
+      { "en": "I have finished all my summer homework.", "zh": "我已經完成所有暑假作業了。" },
+      { "en": "She has lived in this city for ten years.", "zh": "她已經在這個城市住了十年。" },
+      { "en": "Have you ever taken the high speed rail?", "zh": "你搭過高鐵嗎？" },
+      { "en": "We have never been to that new mall.", "zh": "我們從來沒去過那間新的購物中心。" }
+    ],
+    "quiz": [
+      { "q": "I ___ already finished my report.", "options": ["have", "has", "am", "was"], "answer": "have" },
+      { "q": "She has ___ to Japan three times.", "options": ["been", "be", "was", "go"], "answer": "been" }
+    ]
+  }
+]
