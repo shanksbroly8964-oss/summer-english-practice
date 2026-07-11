@@ -20,6 +20,8 @@
   --shadow: 0 1px 4px rgba(15, 60, 70, .08);
 }
 * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+/* hidden 屬性一律優先（避免被 display:flex 等規則蓋過而關不掉） */
+[hidden] { display: none !important; }
 html { font-size: 16px; }
 body {
   font-family: "Segoe UI", "Microsoft JhengHei", "PingFang TC", system-ui, sans-serif;

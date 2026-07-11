@@ -191,18 +191,26 @@ window.SEAuth = (function() {
       return;
     }
     var btn = gate('gate-google-btn');
+    var label = gate('gate-btn-label');
+    var orig = label ? label.textContent : '';
     if (btn) btn.disabled = true;
+    if (label) label.textContent = '開啟 Google 登入中…';
+    gateError('');
+
+    // 重點：signInWithPopup 必須在使用者點擊的同一個手勢中「同步」呼叫，
+    // 不能包在 setPersistence().then() 裡等非同步完成，否則 iOS Safari 會把
+    // 彈出視窗當成非使用者觸發而擋掉（按了沒反應）。LOCAL 持久化已於 init 設定。
     var provider = new firebase.auth.GoogleAuthProvider();
     provider.setCustomParameters({ prompt: 'select_account' });
-    auth.setPersistence(firebase.auth.Auth.Persistence.LOCAL)
-      .then(function() { return auth.signInWithPopup(provider); })
-      .then(function() { gateError(''); })
+    auth.signInWithPopup(provider)
+      .then(function() { gateError(''); /* onAuthStateChanged 會接手隱藏前門 */ })
       .catch(function(err) {
         var msg = friendlyError(err);
         gateError(msg);
         if (window.SEApp) window.SEApp.toast(msg);
-      })
-      .then(function() { if (btn) btn.disabled = false; });
+        if (btn) btn.disabled = false;
+        if (label) label.textContent = orig || '使用 Google 登入';
+      });
   }
 
   function friendlyError(err) {
