@@ -92,6 +92,9 @@ button { font-family: inherit; }
   background: linear-gradient(120deg, var(--c-primary), var(--c-primary-light));
   color: #fff; position: sticky; top: 0; z-index: 50;
   box-shadow: 0 2px 8px rgba(14, 116, 144, .25);
+  /* iPhone 全螢幕(standalone)時，標題列上緣留安全區高度，
+     避免標題被動態島/瀏海擋到；Android 與瀏覽器模式此值為 0，不影響 */
+  padding-top: env(safe-area-inset-top, 0px);
 }
 .header-inner {
   max-width: 860px; margin: 0 auto; padding: 10px 14px;
