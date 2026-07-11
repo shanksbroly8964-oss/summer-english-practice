@@ -5,7 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0e7490">
 <title>暑假英文學習計畫 Summer English</title>
-<script>window.APP_VERSION = '20260707-1';</script>
+
+<!-- PWA -->
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="暑假英文">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+
+<script>window.APP_VERSION = '20260707-2';</script>
 <script>
 (function(){
   var v = window.APP_VERSION;
@@ -14,6 +24,30 @@
 </script>
 </head>
 <body>
+
+<!-- ── 登入前門（先顯示載入，等 onAuthStateChanged 決定，避免閃爍）── -->
+<div id="auth-gate" class="auth-gate">
+  <div class="gate-inner">
+    <div class="gate-logo">🏖️</div>
+    <h1 class="gate-title">暑假英文學習計畫</h1>
+    <p class="gate-sub">2026 暑假 · 每天一點點，開學大進步</p>
+
+    <div id="gate-loading" class="gate-loading">
+      <div class="gate-spinner"></div>
+      <span>載入中…</span>
+    </div>
+
+    <div id="gate-login" class="gate-login" hidden>
+      <button id="gate-google-btn" class="gate-google-btn">
+        <span class="g-icon">G</span> 使用 Google 登入
+      </button>
+      <button id="gate-guest-btn" class="gate-guest-btn">先不登入，直接使用 →</button>
+      <p class="gate-note">登入後，學習進度與錯題本會自動備份到雲端，換手機也不會不見。</p>
+      <p id="gate-error" class="gate-error" hidden></p>
+    </div>
+  </div>
+</div>
+
 <header class="app-header">
   <div class="header-inner">
     <div class="app-title" onclick="location.hash='#calendar'">
@@ -36,13 +70,22 @@
   <a href="#stats" data-nav="stats"><span class="nav-icon">📈</span>統計</a>
 </nav>
 
+<!-- ── 安裝引導提示 ── -->
+<div id="install-hint" class="install-hint" hidden>
+  <span id="install-hint-text"></span>
+  <div class="install-hint-actions">
+    <button id="install-hint-action" class="ih-btn" hidden>安裝</button>
+    <button id="install-hint-close" class="ih-close">✕</button>
+  </div>
+</div>
+
 <div id="toast" class="toast" hidden></div>
 
 <script>
 (function(){
   var v = window.APP_VERSION;
   ['js/firebase-config.js','js/tts.js','js/storage.js','js/data-loader.js',
-   'js/quiz.js','js/views.js','js/app.js','js/auth.js'].forEach(function(s){
+   'js/quiz.js','js/views.js','js/app.js','js/auth.js','js/pwa.js'].forEach(function(s){
     document.write('<script src="' + s + '?v=' + v + '"><\/script>');
   });
 })();

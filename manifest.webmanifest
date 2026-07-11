@@ -1,0 +1,40 @@
+{
+  "name": "暑假英文學習計畫 Summer English",
+  "short_name": "暑假英文",
+  "description": "國中生暑假英文自學工具：行事曆式每日單字、文法、長文閱讀與口說朗讀，內建測驗與錯題本，Google 登入雲端備份。",
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "start_url": "./?src=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f9f8",
+  "theme_color": "#0e7490",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

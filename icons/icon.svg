@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22b8cf"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fde68a"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <!-- 背景（滿版，供 maskable 安全裁切） -->
+  <rect width="512" height="512" fill="url(#sky)"/>
+  <!-- 太陽 -->
+  <circle cx="256" cy="232" r="86" fill="url(#sun)"/>
+  <!-- 海浪（三層） -->
+  <path d="M0 330 Q 64 300 128 330 T 256 330 T 384 330 T 512 330 V 512 H 0 Z" fill="#ffffff" opacity="0.28"/>
+  <path d="M0 370 Q 64 340 128 370 T 256 370 T 384 370 T 512 370 V 512 H 0 Z" fill="#ffffff" opacity="0.5"/>
+  <path d="M0 412 Q 64 382 128 412 T 256 412 T 384 412 T 512 412 V 512 H 0 Z" fill="#ffffff"/>
+  <!-- 字母 A（英文） -->
+  <text x="256" y="268" font-family="'Segoe UI', Arial, sans-serif" font-size="150" font-weight="800"
+        fill="#0e7490" text-anchor="middle">A</text>
+</svg>

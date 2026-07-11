@@ -28,6 +28,63 @@ body {
 }
 button { font-family: inherit; }
 
+/* ── 登入前門 auth-gate ── */
+.auth-gate {
+  position: fixed; inset: 0; z-index: 200;
+  background: linear-gradient(150deg, #22b8cf, #0e7490 70%);
+  display: flex; align-items: center; justify-content: center;
+  padding: 28px; text-align: center; color: #fff;
+  transition: opacity .35s ease;
+}
+.auth-gate.gate-hidden { opacity: 0; pointer-events: none; visibility: hidden; }
+.gate-inner { max-width: 340px; width: 100%; }
+.gate-logo { font-size: 4rem; line-height: 1; margin-bottom: 10px; }
+.gate-title { font-size: 1.5rem; font-weight: 800; letter-spacing: 1px; }
+.gate-sub { font-size: .9rem; opacity: .9; margin-top: 6px; }
+.gate-loading { margin-top: 34px; display: flex; flex-direction: column; align-items: center; gap: 12px; font-size: .9rem; opacity: .9; }
+.gate-spinner {
+  width: 38px; height: 38px; border-radius: 50%;
+  border: 4px solid rgba(255,255,255,.35); border-top-color: #fff;
+  animation: gate-spin .8s linear infinite;
+}
+@keyframes gate-spin { to { transform: rotate(360deg); } }
+.gate-login { margin-top: 34px; display: flex; flex-direction: column; gap: 12px; align-items: stretch; }
+.gate-google-btn {
+  display: flex; align-items: center; justify-content: center; gap: 10px;
+  padding: 14px 18px; border: none; border-radius: 12px;
+  background: #fff; color: #1f2937; font-size: 1.02rem; font-weight: 700; cursor: pointer;
+  box-shadow: 0 6px 18px rgba(0,0,0,.2);
+}
+.gate-google-btn:disabled { opacity: .6; cursor: wait; }
+.gate-google-btn .g-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 26px; height: 26px; border-radius: 50%;
+  background: #fff; color: #4285f4; font-weight: 800; font-size: 1rem;
+  border: 2px solid #4285f4;
+}
+.gate-guest-btn {
+  padding: 10px; border: none; background: transparent; color: #fff;
+  font-size: .92rem; cursor: pointer; text-decoration: underline; opacity: .92;
+}
+.gate-note { font-size: .78rem; opacity: .82; line-height: 1.6; margin-top: 4px; }
+.gate-error {
+  font-size: .85rem; background: rgba(220,38,38,.92); color: #fff;
+  border-radius: 8px; padding: 8px 10px; line-height: 1.5;
+}
+
+/* ── 安裝引導 / 更新提示列 ── */
+.install-hint {
+  position: fixed; left: 12px; right: 12px;
+  bottom: calc(var(--nav-h) + env(safe-area-inset-bottom, 0px) + 12px);
+  z-index: 120; background: #1f2937; color: #fff; border-radius: 12px;
+  padding: 12px 14px; display: flex; align-items: center; gap: 10px;
+  box-shadow: 0 6px 20px rgba(0,0,0,.28); font-size: .88rem; line-height: 1.5;
+  max-width: 620px; margin: 0 auto;
+}
+.install-hint-actions { margin-left: auto; display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+.ih-btn { border: none; background: var(--c-accent); color: #fff; border-radius: 8px; padding: 8px 14px; font-weight: 700; font-size: .85rem; cursor: pointer; white-space: nowrap; }
+.ih-close { border: none; background: transparent; color: #cbd5e1; font-size: 1rem; cursor: pointer; padding: 4px 6px; }
+
 /* ── header ── */
 .app-header {
   background: linear-gradient(120deg, var(--c-primary), var(--c-primary-light));
