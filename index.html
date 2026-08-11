@@ -15,7 +15,7 @@
 <link rel="apple-touch-icon" href="icons/icon-180.png">
 <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
 
-<script>window.APP_VERSION = '20260707-4';</script>
+<script>window.APP_VERSION = '20260812-1';</script>
 <script>
 (function(){
   var v = window.APP_VERSION;
@@ -85,6 +85,7 @@
 (function(){
   var v = window.APP_VERSION;
   ['js/firebase-config.js','js/tts.js','js/storage.js','js/data-loader.js',
+   'js/audio.js','js/listening-quiz.js','js/reading-follow.js',
    'js/quiz.js','js/views.js','js/app.js','js/auth.js','js/pwa.js'].forEach(function(s){
     document.write('<script src="' + s + '?v=' + v + '"><\/script>');
   });

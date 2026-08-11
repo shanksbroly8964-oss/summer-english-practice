@@ -312,3 +312,30 @@ button { font-family: inherit; }
   .hub-grid { grid-template-columns: repeat(3, 1fr); }
   .cal-cell { font-size: 1rem; }
 }
+
+/* ============================================================
+   發音升級 v20260812：逐句跟讀高亮 / 連續播放 / 聽力題
+   ============================================================ */
+/* 一鍵連播列 */
+.play-all-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 4px 0 12px; }
+.play-all-bar .btn { padding: 8px 16px; }
+.word-card.playing { background: #ecfeff; border-radius: 10px; box-shadow: 0 0 0 2px var(--c-primary-light) inset; }
+
+/* 逐句跟讀 */
+.rf-root { margin: 4px 0; }
+.rf-controls { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+.rf-btn {
+  border: 1px solid var(--c-line) !important; background: #fff !important; color: var(--c-primary) !important;
+  border-radius: 999px !important; padding: 8px 14px !important; font-size: .85rem !important;
+  font-weight: 700; cursor: pointer;
+}
+.rf-btn.rf-play { background: var(--c-accent) !important; color: #fff !important; border-color: var(--c-accent) !important; }
+.rf-sentences { line-height: 2.1; font-size: 1.02rem; }
+.rf-sent { cursor: pointer; padding: 1px 2px; border-radius: 4px; transition: background .15s; }
+.rf-sent:hover { background: #f0f7f8; }
+.rf-title { display: block; font-weight: 800; color: var(--c-primary); font-size: 1.1rem; margin-bottom: 6px; }
+.rf-active { background: #fde68a !important; box-shadow: 0 0 0 2px #f59e0b inset; }
+.rf-empty { color: var(--c-sub); }
+
+/* 聽力題「再聽一次」 */
+.listening-play { background: var(--c-accent) !important; }

@@ -15,6 +15,15 @@ window.SEViews = (function() {
       (label ? ' ' + esc(label) : '') + '</button>';
   }
 
+  // 走 MP3 引擎的發音鈕（SEAudio；抓不到自動退回瀏覽器朗讀）。全域點擊代理在 app.js。
+  function audioBtn(scope, id, idx, fallbackText, big, label) {
+    var attrs = ' data-audio-scope="' + esc(scope) + '" data-audio-id="' + esc(id) + '"' +
+                ' data-audio-fb="' + esc(fallbackText) + '"';
+    if (idx !== null && idx !== undefined) attrs += ' data-audio-idx="' + idx + '"';
+    return '<button class="tts-btn' + (big ? ' big' : '') + '"' + attrs + ' title="真人發音">🔊' +
+      (label ? ' ' + esc(label) : '') + '</button>';
+  }
+
   function speedToggleHtml() {
     var normal = S().getSettings().ttsNormal;
     return '<button class="speed-toggle' + (normal ? '' : ' slow') + '" id="speed-toggle">' +
@@ -142,12 +151,12 @@ window.SEViews = (function() {
   function wordCardHtml(w) {
     return '<div class="word-card">' +
       '<div class="word-head">' +
-        '<span class="word-en">' + esc(w.en) + '</span>' + ttsBtn(w.en) +
+        '<span class="word-en">' + esc(w.en) + '</span>' + audioBtn('word', w.id, null, w.en) +
         '<span class="word-kk">' + esc(w.kk) + '</span>' +
         '<span class="word-pos">' + esc(w.pos) + '</span>' +
       '</div>' +
       '<div class="word-zh">' + esc(w.zh) + '</div>' +
-      '<div class="word-ex">' + esc(w.ex) + ' ' + ttsBtn(w.ex) +
+      '<div class="word-ex">' + esc(w.ex) + ' ' + audioBtn('ex', w.id, null, w.ex) +
         '<span class="zh">' + esc(w.ex_zh) + '</span>' +
       '</div>' +
     '</div>';
@@ -157,15 +166,64 @@ window.SEViews = (function() {
     var rec = S().getDone()[day.date] || {};
     el.innerHTML =
       '<div class="card"><h2>📖 今日單字（' + day.words.length + ' 個）' + speedToggleHtml() + '</h2>' +
+        '<div class="play-all-bar">' +
+          '<button class="btn orange" id="play-all">▶ 連續播放整課</button>' +
+          '<button class="btn ghost" id="play-all-stop" hidden>⏹ 停止</button>' +
+          '<span class="sub" id="play-all-hint">單字＋例句依序播放</span>' +
+        '</div>' +
         day.words.map(wordCardHtml).join('') +
         '<button class="btn block' + (rec.vocab ? ' ghost' : '') + '" id="mark-vocab">' +
           (rec.vocab ? '✅ 已完成單字（點我可再標記一次）' : '我背完今天的單字了 ✓') + '</button>' +
       '</div>';
     bindSpeedToggle(el);
+    bindPlayAll(el, day.words);
     el.querySelector('#mark-vocab').addEventListener('click', function() {
+      if (window.SEAudio) window.SEAudio.stop();
       S().markDone(day.date, 'vocab');
       window.SEApp.toast('單字完成！✨');
       renderDay(document.getElementById('view'), day.date, 'grammar');
+    });
+  }
+
+  // 一鍵連播整課：每個單字 → 該單字例句，依序播放
+  function bindPlayAll(el, words) {
+    var playBtn = el.querySelector('#play-all');
+    var stopBtn = el.querySelector('#play-all-stop');
+    var hint = el.querySelector('#play-all-hint');
+    if (!playBtn || !window.SEAudio) return;
+    var controller = null;
+
+    function reset() {
+      playBtn.hidden = false; stopBtn.hidden = true;
+      if (hint) hint.textContent = '單字＋例句依序播放';
+      el.querySelectorAll('.word-card.playing').forEach(function(c) { c.classList.remove('playing'); });
+    }
+    var items = [];
+    var cardIdxOfItem = [];
+    words.forEach(function(w, ci) {
+      items.push({ scope: 'word', id: w.id, fallbackText: w.en }); cardIdxOfItem.push(ci);
+      items.push({ scope: 'ex', id: w.id, fallbackText: w.ex });   cardIdxOfItem.push(ci);
+    });
+    playBtn.addEventListener('click', function() {
+      playBtn.hidden = true; stopBtn.hidden = false;
+      var cards = el.querySelectorAll('.word-card');
+      controller = window.SEAudio.playSequence(items, {
+        onItem: function(i) {
+          for (var k = 0; k < cards.length; k++) cards[k].classList.remove('playing');
+          var ci = cardIdxOfItem[i];
+          if (cards[ci]) {
+            cards[ci].classList.add('playing');
+            try { cards[ci].scrollIntoView({ block: 'center' }); } catch (e) {}
+          }
+          if (hint) hint.textContent = '播放中… ' + (i + 1) + ' / ' + items.length;
+        },
+        onDone: reset
+      });
+    });
+    stopBtn.addEventListener('click', function() {
+      if (controller) controller.stop();
+      if (window.SEAudio) window.SEAudio.stop();
+      reset();
     });
   }
 
@@ -175,9 +233,9 @@ window.SEViews = (function() {
       '<div class="grammar-pattern">' + esc(g.pattern) + '</div>' +
       '<p style="font-size:.93rem;line-height:1.7;">' + esc(g.zh) + '</p>' +
       '<ul class="grammar-points">' + g.points.map(function(p) { return '<li>' + esc(p) + '</li>'; }).join('') + '</ul>' +
-      '<h2 style="margin-top:10px;font-size:.95rem;">例句（點 🔊 聽發音）</h2>' +
-      g.examples.map(function(x) {
-        return '<div class="gx">' + ttsBtn(x.en) + '<div><span class="en">' + esc(x.en) + '</span>' +
+      '<h2 style="margin-top:10px;font-size:.95rem;">例句（點 🔊 聽真人發音）</h2>' +
+      g.examples.map(function(x, i) {
+        return '<div class="gx">' + audioBtn('grammar', g.id, i, x.en) + '<div><span class="en">' + esc(x.en) + '</span>' +
           '<span class="zh">' + esc(x.zh) + '</span></div></div>';
       }).join('') +
     '</div>';
@@ -196,15 +254,19 @@ window.SEViews = (function() {
     });
   }
 
-  function articleHtml(a, day) {
-    return '<h2>📰 ' + esc(a.title) + (day ? ' <span class="pill">' + a.date.slice(5).replace('-', '/') + '</span>' : '') + '</h2>' +
-      '<div class="article-tools">' +
-        ttsBtn(a.title + '. ' + a.text, true, '全文朗讀') +
-        '<button class="tts-btn big" style="background:#64748b" onclick="window.SETts.stop()">⏹ 停止</button>' +
-        speedToggleHtml() +
-      '</div>' +
-      '<div class="article-text">' + esc(a.text) + '</div>' +
-      '<p class="sub">💡 口說練習：先聽一次全文朗讀，再自己大聲唸一遍！遇到不會唸的字，反白選起來多聽幾次。</p>';
+  function articleHtml(a, showDate) {
+    return '<h2>📰 今日文章' + (showDate ? ' <span class="pill">' + a.date.slice(5).replace('-', '/') + '</span>' : '') + '</h2>' +
+      '<p class="sub" style="margin-bottom:6px;">🔊 真人逐句朗讀：點「▶ 逐句播放」聽，或點任一句從那句開始，再自己大聲跟著唸。</p>' +
+      '<div class="rf-mount" data-article="' + esc(a.id) + '"></div>' +
+      '<p class="sub" style="margin-top:8px;">💡 遇到不會唸的句子，多點幾次那一句反覆聽。</p>';
+  }
+
+  // 把文章容器接上逐句跟讀模組
+  function mountReadingFollow(el) {
+    var mount = el.querySelector('.rf-mount');
+    if (mount && window.SEReadingFollow) {
+      window.SEReadingFollow.render(mount, mount.getAttribute('data-article'));
+    }
   }
 
   function renderDayReading(el, day) {
@@ -216,8 +278,9 @@ window.SEViews = (function() {
           (rec.reading ? '✅ 已完成閱讀' : '我讀完文章、也朗讀過了 ✓') + '</button>' +
         '<p class="sub" style="margin-top:8px;">📌 讀完了嗎？等一下的測驗會考文章內容喔！</p>' +
       '</div>';
-    bindSpeedToggle(el);
+    mountReadingFollow(el);
     el.querySelector('#mark-reading').addEventListener('click', function() {
+      if (window.SEAudio) window.SEAudio.stop();
       S().markDone(day.date, 'reading');
       window.SEApp.toast('閱讀完成！✨');
       renderDay(document.getElementById('view'), day.date, 'quiz');
@@ -353,7 +416,7 @@ window.SEViews = (function() {
         '<div class="card">' + articleHtml(a, true) + '</div>' +
         '<div class="card"><h2>🎯 閱讀測驗</h2><div id="r-quiz"></div>' +
         '<button class="btn block" id="r-quiz-start">作答 ' + a.questions.length + ' 題 ▶</button></div>';
-      bindSpeedToggle(el);
+      mountReadingFollow(el);
       el.querySelector('#r-quiz-start').addEventListener('click', function() {
         var qs = a.questions.map(function(_, i) {
           var item = a.questions[i];
@@ -403,7 +466,7 @@ window.SEViews = (function() {
           return '<div class="writing-item">' +
             '<div><span class="pill' + (it.type === 'grammar' ? ' orange' : '') + '">' +
               (it.type === 'grammar' ? '文法' : '重點單字') + '</span> <b style="font-size:1.05rem;">' + esc(it.target) + '</b></div>' +
-            '<div class="writing-model">📌 例句：' + esc(it.model_en) + ' ' + ttsBtn(it.model_en) +
+            '<div class="writing-model">📌 例句：' + esc(it.model_en) + ' ' + audioBtn('writing', w.week + '-' + i, null, it.model_en) +
               '<span class="zh sub" style="display:block;">' + esc(it.model_zh) + '</span></div>' +
             '<div class="sub">' + esc(it.prompt_zh) + '</div>' +
             '<textarea class="writing-input" data-wid="' + wid + '" placeholder="在這裡寫下你的句子…">' + esc(saved[wid] || '') + '</textarea>' +

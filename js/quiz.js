@@ -69,6 +69,10 @@ window.SEQuiz = (function() {
 
       var qs = [];
       day.words.forEach(function(w) { qs.push(makeVocabQ(w, weekPool)); });
+      // 聽音選字（新聽力題型）：從當日單字出 3 題，播真人發音選中文
+      if (window.SEListening) {
+        qs = qs.concat(window.SEListening.makeQuestions(day.words, 3));
+      }
       day.grammars.forEach(function(g) {
         (g.quiz || []).forEach(function(_, i) { qs.push(makeGrammarQ(g, i)); });
       });
@@ -77,7 +81,7 @@ window.SEQuiz = (function() {
           qs.push(makeReadingQ(day.article, i, true));
         });
       }
-      return qs; // 順序：單字→文法→閱讀（閱讀附原文）
+      return qs; // 順序：單字→聽力→文法→閱讀（閱讀附原文）
     });
   }
 
@@ -110,6 +114,18 @@ window.SEQuiz = (function() {
             var art = allArticles.find(function(x) { return x.id === parts[1]; });
             var ri = +parts[2];
             if (art && art.questions[ri]) qs.push(makeReadingQ(art, ri, true));
+          } else if (w.t === 'listening') {
+            var lword = allWords.find(function(x) { return x.id === parts[1]; });
+            if (lword) {
+              var others = shuffle(allWords.filter(function(x) { return x.id !== lword.id; }))
+                             .slice(0, 3).map(function(x) { return x.zh; });
+              qs.push({
+                k: 'l:' + lword.id, t: 'listening', q: '🔊 聽發音，選出正確的中文意思',
+                audio: { scope: 'word', id: lword.id, fallbackText: lword.en },
+                options: shuffle([lword.zh].concat(others)), answer: lword.zh,
+                explain: lword.en + ' ' + lword.kk + ' ' + lword.zh
+              });
+            }
           }
         });
         return qs;
@@ -130,10 +146,13 @@ window.SEQuiz = (function() {
         '<div class="card">' +
           '<div class="quiz-progress"><i style="width:' + pct + '%"></i></div>' +
           '<div class="sub">第 ' + (idx + 1) + ' / ' + total + ' 題' +
-            (q.t === 'vocab' ? '｜單字' : q.t === 'grammar' ? '｜文法' : '｜閱讀') + '</div>' +
+            (q.t === 'vocab' ? '｜單字' : q.t === 'grammar' ? '｜文法' : q.t === 'listening' ? '｜聽力' : '｜閱讀') + '</div>' +
           (q.context ? '<div class="quiz-context">' + esc(q.context) + '</div>' : '') +
           '<div class="quiz-q">' + esc(q.q) +
             (q.tts ? ' <button class="tts-btn" data-tts="' + esc(q.tts) + '" title="朗讀">🔊</button>' : '') +
+            (q.audio ? ' <button class="tts-btn big listening-play" data-audio-scope="' + esc(q.audio.scope) +
+              '" data-audio-id="' + esc(q.audio.id) + '" data-audio-fb="' + esc(q.audio.fallbackText) +
+              '" title="再聽一次">🔊 再聽一次</button>' : '') +
           '</div>' +
           '<div class="quiz-opts">' +
             q.options.map(function(o) {
@@ -143,6 +162,11 @@ window.SEQuiz = (function() {
           '<div id="quiz-fb"></div>' +
         '</div>';
       container.innerHTML = html;
+
+      // 聽力題：進題自動播一次真人發音
+      if (q.audio && window.SEAudio) {
+        window.SEAudio.play({ scope: q.audio.scope, id: q.audio.id, fallbackText: q.audio.fallbackText });
+      }
 
       container.querySelectorAll('.quiz-opts button').forEach(function(btn) {
         btn.addEventListener('click', function() { answer(btn); });

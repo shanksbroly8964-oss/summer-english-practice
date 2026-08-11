@@ -62,7 +62,27 @@ window.SEApp = (function() {
     }
   }
 
+  // 全域點擊代理：帶 data-audio-id 的鈕走 MP3 引擎（SEAudio），抓不到自動退回瀏覽器朗讀
+  function bindAudioDelegate() {
+    document.addEventListener('click', function(e) {
+      var btn = e.target.closest ? e.target.closest('[data-audio-id]') : null;
+      if (!btn || !window.SEAudio) return;
+      e.preventDefault();
+      if (btn.classList.contains('speaking')) { window.SEAudio.stop(); return; }
+      var idxAttr = btn.getAttribute('data-audio-idx');
+      window.SEAudio.play({
+        scope: btn.getAttribute('data-audio-scope'),
+        id: btn.getAttribute('data-audio-id'),
+        idx: (idxAttr !== null && idxAttr !== '') ? parseInt(idxAttr, 10) : undefined,
+        fallbackText: btn.getAttribute('data-audio-fb') || '',
+        btnEl: btn
+      });
+    });
+  }
+
   function init() {
+    if (window.SEAudio && window.SEAudio.init) window.SEAudio.init();  // 載入 audio-manifest（不阻塞）
+    bindAudioDelegate();
     window.addEventListener('hashchange', route);
     window.SEStore.updateBadge();
     route();

@@ -2,3 +2,7 @@ node_modules/
 e2e/
 .firebase/
 *.log
+_logs/
+_prompts/
+deliverables/
+_audiotest/

@@ -6,7 +6,7 @@
    - 跨源（Firebase / gstatic / googleapis）：network-only，絕不快取
    版本控管：改前端就把 CACHE_VERSION +1，activate 時清掉舊版快取。
    ============================================================ */
-const CACHE_VERSION = 'summer-en-v4';   // ← 每次改前端就 +1
+const CACHE_VERSION = 'summer-en-v5';   // ← 每次改前端就 +1
 const APP_SHELL = [
   './',
   './index.html',
@@ -19,6 +19,9 @@ const APP_SHELL = [
   './js/tts.js',
   './js/storage.js',
   './js/data-loader.js',
+  './js/audio.js',
+  './js/listening-quiz.js',
+  './js/reading-follow.js',
   './js/quiz.js',
   './js/views.js',
   './js/app.js',
